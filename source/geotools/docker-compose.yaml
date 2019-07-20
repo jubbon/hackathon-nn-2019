@@ -1,0 +1,54 @@
+version: '3'
+
+services:
+  http:
+    image: trinitronx/python-simplehttpserver
+    volumes:
+      - ../../data/osm:/var/www:ro
+
+  overpass:
+    image: wiktorn/overpass-api
+    environment:
+      OVERPASS_META: "yes"
+      OVERPASS_MODE: init
+      OVERPASS_PLANET_URL: http://http:8080/${OSM_ORIGIN}.osm.bz2
+      OVERPASS_DIFF_URL: https://planet.openstreetmap.org/replication/day/
+      OVERPASS_RULES_LOAD: 100
+    ports:
+      - 12345:80
+    links:
+      - http:http
+    volumes:
+      - ../../data/osm/overpass:/db
+
+  osrm.vehicle:
+    image: osrm/osrm-backend
+    command: osrm-routed --algorithm mld /data/${OSM_ORIGIN}.osrm
+    volumes:
+      - ../../data/osm/osrm/vehicle:/data
+    ports:
+     - 5001:5000
+
+  osrm.human:
+    image: osrm/osrm-backend
+    command: osrm-routed --algorithm mld /data/${OSM_ORIGIN}.osrm
+    volumes:
+      - ../../data/osm/osrm/human:/data
+    ports:
+     - 5002:5000
+
+  nominatim:
+    image: mediagis/nominatim
+    command: bash /app/start.sh
+    volumes:
+      - ../../data/osm/nominatim:/data
+      - ../../data/osm/nominatim/postgresdata:/var/lib/postgresql/11/main
+    ports:
+      - 9090:8080
+    links:
+      - http:http
+
+  kepler.gl:
+    image: crazycapivara/kepler.gl
+    ports:
+      - 8080:80
