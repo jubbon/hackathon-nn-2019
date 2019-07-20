@@ -1,0 +1,168 @@
+---
+
+  - name: Настройка рабочего окружения Visual Studio Code
+    hosts: localhost
+    gather_facts: no
+    vars_prompt:
+      - name: YANDEX_MAP_SESSION_ID
+        prompt: "Yandex Map Session Id?"
+        private: no
+      - name: YANDEX_MAP_CSRF_TOKEN
+        prompt: "Yandex Map CSRF Token?"
+        private: no
+      - name: YANDEX_API_KEY
+        prompt: "Yandex API Key?"
+        private: no
+    roles:
+      - role: mondrik.vscode-workspace
+        workspace_name: hackathon-nn-201907
+        workspace_directory: "{{ current_directory }}"
+        git:
+          ignoreLimitWarning: !!str true
+        python:
+          version: 3.7.0
+          origin: /opt/anaconda/anaconda-python-3.7
+          linting:
+            flake8:
+              - "--max-line-length=120"
+          formatting: yapf
+
+      - role: mondrik.vscode-workspace-terminal
+        uid: geotools
+        title: GeoTools
+        description: Общие компоненты для геобработки
+        history:
+          - make all
+          - docker-compose up -d osrm.human osrm.vehicle
+        env:
+          OSM_ORIGIN: volga-fed-district-latest
+        cwd: "{{ current_directory }}/source/geotools"
+
+      - role: mondrik.vscode-workspace-terminal
+        uid: dev-52.00
+        title: Нижний Новгород
+        description: Оптимизация общественного транспорта для Нижнего Новгорода
+        history:
+          - make all
+          - docker-compose up fetcher
+          - docker-compose up fetcher-gis
+        env:
+          COMPOSE_PROJECT_NAME: nn
+          REGION_NAME: 'городской округ Нижний Новгород'
+          REGION_POPULATION: 1260000
+          REGION_UID: '52.00'
+          GIS_REGION_ID: '526001001'
+          YANDEX_MAP_BBOX: 43.583448,56.108332~44.137079,56.401963
+          YANDEX_MAP_REGION_UID: "47"
+          YANDEX_MAP_CITY: nizhny-novgorod
+          YANDEX_MAP_SESSION_ID: "{{ YANDEX_MAP_SESSION_ID }}"
+          YANDEX_MAP_CSRF_TOKEN: "{{ YANDEX_MAP_CSRF_TOKEN }}"
+          YANDEX_API_KEY: "{{ YANDEX_API_KEY }}"
+        cwd: "{{ current_directory }}/source"
+        python:
+          version: 3.7.0
+          origin: /opt/anaconda/anaconda-python-3.7
+          packages:
+             conda:
+               channels:
+                 - javascript
+               dependencies:
+                 # Devenv packages
+                 - invoke
+                 # Science packages
+                 - numpy
+                 - pandas
+                 - matplotlib
+             pip:
+               - loguru
+               - h3
+               - folium
+               # Overpass API
+               - overpy
+               - geojson
+
+      - role: mondrik.vscode-workspace-terminal
+        uid: dev-16.00
+        title: Казань
+        description: Оптимизация общественного транспорта для Казани
+        history:
+          - make all
+          - docker-compose up fetcher
+          - docker-compose up fetcher-gis
+        env:
+          COMPOSE_PROJECT_NAME: kazan
+          REGION_NAME: 'городской округ Казань'
+          REGION_POPULATION: 1250000
+          REGION_UID: '16.00'
+          GIS_REGION_ID: '165501001'
+          YANDEX_MAP_BBOX: 48.793125,55.586472~49.428412,55.987682
+          YANDEX_MAP_REGION_UID: "43"
+          YANDEX_MAP_CITY: kazan
+          YANDEX_MAP_SESSION_ID: "{{ YANDEX_MAP_SESSION_ID }}"
+          YANDEX_MAP_CSRF_TOKEN: "{{ YANDEX_MAP_CSRF_TOKEN }}"
+          YANDEX_API_KEY: "{{ YANDEX_API_KEY }}"
+        cwd: "{{ current_directory }}/source"
+        python:
+          version: 3.7.0
+          origin: /opt/anaconda/anaconda-python-3.7
+          packages:
+             conda:
+               channels:
+                 - javascript
+               dependencies:
+                 # Devenv packages
+                 - invoke
+                 # Science packages
+                 - numpy
+                 - pandas
+                 - matplotlib
+             pip:
+               - loguru
+               - h3
+               - folium
+               # Overpass API
+               - overpy
+               - geojson
+
+      - role: mondrik.vscode-workspace-terminal
+        uid: dev-52.01
+        title: Саров
+        description: Оптимизация общественного транспорта для Сарова
+        history:
+          - make all
+          - docker-compose up fetcher
+          - docker-compose up fetcher-gis
+        env:
+          COMPOSE_PROJECT_NAME: sarov
+          REGION_NAME: 'городской округ Саров'
+          REGION_POPULATION: 95000
+          REGION_UID: '52.01'
+          GIS_REGION_ID: '525401001'
+          YANDEX_MAP_BBOX: 43.236611,54.870388~43.443992,54.988357
+          YANDEX_MAP_REGION_UID: '11083'
+          YANDEX_MAP_CITY: sarov
+          YANDEX_MAP_SESSION_ID: "{{ YANDEX_MAP_SESSION_ID }}"
+          YANDEX_MAP_CSRF_TOKEN: "{{ YANDEX_MAP_CSRF_TOKEN }}"
+          YANDEX_API_KEY: "{{ YANDEX_API_KEY }}"
+        cwd: "{{ current_directory }}/source"
+        python:
+          version: 3.7.0
+          origin: /opt/anaconda/anaconda-python-3.7
+          packages:
+             conda:
+               channels:
+                 - javascript
+               dependencies:
+                 # Devenv packages
+                 - invoke
+                 # Science packages
+                 - numpy
+                 - pandas
+                 - matplotlib
+             pip:
+               - loguru
+               - h3
+               - folium
+               # Overpass API
+               - overpy
+               - geojson
