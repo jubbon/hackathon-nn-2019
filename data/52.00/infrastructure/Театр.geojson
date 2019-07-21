@@ -1,0 +1,772 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 27,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.80143105,
+                        56.22807026
+                    ],
+                    [
+                        44.07796842,
+                        56.37454644
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Театр",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Театр на счастливой",
+                "description": "ул. Дьяконова, 1Е, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86469939,
+                        56.2570076
+                    ],
+                    [
+                        43.87290999,
+                        56.26157754
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "156408430473",
+                    "name": "Театр на счастливой",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, ул Дьяконова 1Е ",
+                    "url": "http://новая-сказка.рф/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 422-25-77"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 422-25-36"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 422-28-04"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-пт 13:30–19:30; сб,вс 11:00–14:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "13:30:00",
+                                        "to": "19:30:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "14:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.868806,
+                    56.259291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Театр комедии",
+                "description": "Грузинская ул., 23, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.9980004,
+                        56.31812141
+                    ],
+                    [
+                        44.006211,
+                        56.32268402
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1129845303",
+                    "name": "Театр комедии",
+                    "address": "Россия, Нижний Новгород, Грузинская улица, 23",
+                    "url": "http://comedy.nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 434-04-24"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 430-69-14"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 433-14-76"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        },
+                        {
+                            "name": "Концертные и театральные агентства"
+                        },
+                        {
+                            "name": "Творческий коллектив"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–20:00, перерыв 14:20–15:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "14:20:00"
+                                    },
+                                    {
+                                        "from": "15:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.002104,
+                    56.320405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский государственный академический театр драмы имени М. Горького",
+                "description": "Большая Покровская ул., 13, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.99772192,
+                        56.32172063
+                    ],
+                    [
+                        44.00593252,
+                        56.32628281
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1142767990",
+                    "name": "Нижегородский государственный академический театр драмы имени М. Горького",
+                    "address": "Россия, Нижний Новгород, Большая Покровская улица, 13",
+                    "url": "http://www.drama.nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 421-14-37"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 433-16-66"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-51-73"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 428-85-75"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-52-59"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 428-73-83"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 428-23-43"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 428-77-12"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–20:00, перерыв 13:20–14:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "13:20:00"
+                                    },
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.00183,
+                    56.324004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский государственный академический театр оперы и балета имени А. С. Пушкина",
+                "description": "ул. Белинского, 59, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.0127148,
+                        56.31369805
+                    ],
+                    [
+                        44.0209254,
+                        56.3182612
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "196814964687",
+                    "name": "Нижегородский государственный академический театр оперы и балета имени А. С. Пушкина",
+                    "address": "Россия, Нижний Новгород, улица Белинского, 59",
+                    "url": "http://operann.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 428-50-56"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 428-70-35"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 428-12-55"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        },
+                        {
+                            "name": "Концертные и театральные агентства"
+                        },
+                        {
+                            "name": "Творческий коллектив"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:30–19:00, перерыв 14:00–14:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:30:00",
+                                        "to": "14:00:00"
+                                    },
+                                    {
+                                        "from": "14:30:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.016816,
+                    56.315981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский камерный театр оперы и музыкальной комедии имени В.Т. Степанова",
+                "description": "Юбилейный бул., 32, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85846508,
+                        56.34112856
+                    ],
+                    [
+                        43.86667568,
+                        56.34568841
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1057652737",
+                    "name": "Нижегородский камерный театр оперы и музыкальной комедии имени В.Т. Степанова",
+                    "address": "Россия, Нижний Новгород, Юбилейный бульвар, 32",
+                    "url": "http://www.nnkmt.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 225-10-35"
+                        },
+                        {
+                            "type": "phone_fax",
+                            "formatted": "+7 (831) 225-11-87"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 225-21-21"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 434-15-90"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 12:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.862572,
+                    56.343411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Театр кукол",
+                "description": "Большая Покровская ул., 39, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.99176609,
+                        56.31602463
+                    ],
+                    [
+                        43.99997669,
+                        56.32058749
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1052457846",
+                    "name": "Театр кукол",
+                    "address": "Россия, Нижний Новгород, Большая Покровская улица, 39",
+                    "url": "http://ngatk.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 430-51-20"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        },
+                        {
+                            "name": "Концертные и театральные агентства"
+                        },
+                        {
+                            "name": "Творческий коллектив"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–18:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "18:30:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.995868,
+                    56.318308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Театр со вкусом",
+                "description": "Большая Покровская ул., 43, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.99109235,
+                        56.31584989
+                    ],
+                    [
+                        43.99930295,
+                        56.32041277
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1188290840",
+                    "name": "Театр со вкусом",
+                    "address": "Россия, Нижний Новгород, Большая Покровская улица, 43",
+                    "url": "http://teatrsovkusom.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (920) 056-35-81"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.995198,
+                    56.318131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Театральное училище им. Е. Евстигнеева Учебный театр",
+                "description": "Большая Покровская ул., 4А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.99942872,
+                        56.32259917
+                    ],
+                    [
+                        44.00763932,
+                        56.32716124
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1028516287",
+                    "name": "Театральное училище им. Е. Евстигнеева Учебный театр",
+                    "address": "Россия, Нижний Новгород, Большая Покровская улица, 4А",
+                    "url": "http://www.ntu-nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-24-37"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-92-20"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-80-56"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-39-46"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "Училище"
+                        },
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        },
+                        {
+                            "class": "theater education",
+                            "name": "Театральное и цирковое образование"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 12:00–18:00; вс 11:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.003536,
+                    56.324879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГБУК НО ТЮЗ",
+                "description": "ул. Максима Горького, 145, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.00634574,
+                        56.31430717
+                    ],
+                    [
+                        44.01455635,
+                        56.31887024
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1079989976",
+                    "name": "ГБУК НО ТЮЗ",
+                    "address": "Россия, Нижний Новгород, улица Максима Горького, 145",
+                    "url": "http://tyuz.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 428-31-20"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 428-31-23"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–19:00, перерыв 14:20–15:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "14:20:00"
+                                    },
+                                    {
+                                        "from": "15:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.010447,
+                    56.316587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Вера",
+                "description": "Мещерский бул., 10, жилой район Мещерское Озеро, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.92789587,
+                        56.33844927
+                    ],
+                    [
+                        43.93610647,
+                        56.34300944
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1036583780",
+                    "name": "Вера",
+                    "address": "Россия, Нижний Новгород, жилой район Мещерское Озеро, Мещерский бульвар, 10",
+                    "url": "http://www.teatrvera.r52.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 265-37-82"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (987) 745-55-21"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 265-37-83"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-сб 10:00–18:00, перерыв 13:00–14:00; вс 10:00–15:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "13:00:00"
+                                    },
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "15:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.932002,
+                    56.340728
+                ]
+            }
+        }
+    ]
+}

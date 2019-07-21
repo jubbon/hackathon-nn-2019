@@ -1,0 +1,815 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 90,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.06301638,
+                        55.7323267
+                    ],
+                    [
+                        49.22165886,
+                        55.83253029
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "ВУЗ",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский приволжский федеральный университет",
+                "description": "Кремлёвская ул., 18, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12104755,
+                        55.79040281
+                    ],
+                    [
+                        49.1230957,
+                        55.79155677
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1677561649",
+                    "name": "Казанский приволжский федеральный университет",
+                    "address": "Россия, Республика Татарстан, Казань, Кремлёвская улица, 18",
+                    "url": "http://www.kpfu.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 233-71-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-69-77"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 233-70-23"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 233-70-31"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (937) 287-31-35"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-72-16"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 233-71-26"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 233-74-21"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 233-72-24"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-44-48"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.122071,
+                    55.790979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский инновационный университет имени В. Г. Тимирясова",
+                "description": "Московская ул., 42, корп. 2, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10428498,
+                        55.78549306
+                    ],
+                    [
+                        49.11249558,
+                        55.79011938
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1161348057",
+                    "name": "Казанский инновационный университет имени В. Г. Тимирясова",
+                    "address": "Россия, Республика Татарстан, Казань, Московская улица, 42, корп. 2",
+                    "url": "https://ieml.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-92-90"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (987) 270-87-87"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-92-97"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-61-59"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-08-57"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–18:00, перерыв 13:00–14:00; сб 9:00–15:00, перерыв 13:00–14:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "13:00:00"
+                                    },
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "13:00:00"
+                                    },
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "15:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.108389,
+                    55.787804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский национальный исследовательский технический университет им. А. Н. Туполева-КАИ",
+                "description": "ул. Карла Маркса, 10, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11007912,
+                        55.79483119
+                    ],
+                    [
+                        49.11828972,
+                        55.7994564
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1026880237",
+                    "name": "Казанский национальный исследовательский технический университет им. А. Н. Туполева-КАИ",
+                    "address": "Россия, Республика Татарстан, Казань, улица Карла Маркса, 10",
+                    "url": "https://kai.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-01-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-01-06"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-56-30"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-01-11"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-60-32"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-56-61"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-44-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-41-10"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-01-28"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-01-50"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.114187,
+                    55.797142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Российский исламский университет",
+                "description": "Газовая ул., 19, Приволжский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.14312814,
+                        55.76734181
+                    ],
+                    [
+                        49.15133874,
+                        55.7719703
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1262354285",
+                    "name": "Российский исламский университет",
+                    "address": "Россия, Республика Татарстан, Казань, Газовая улица, 19",
+                    "url": "http://www.kazanriu.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 277-55-36"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 251-01-55"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 277-68-15"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 261-01-55"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.147237,
+                    55.769658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский Государственный энергетический университет",
+                "description": "Красносельская ул., 51, корп. Д, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.0916367,
+                        55.8146135
+                    ],
+                    [
+                        49.0998473,
+                        55.81923635
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1162468709",
+                    "name": "Казанский Государственный энергетический университет",
+                    "address": "Россия, Республика Татарстан, Казань, Красносельская улица, 51кД",
+                    "url": "http://kgeu.ru/",
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:30–17:30, перерыв 12:30–13:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:30:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:30:00",
+                                        "to": "17:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.095744,
+                    55.816927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "КФУ",
+                "description": "Кремлёвская ул., 35, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11794836,
+                        55.7897499
+                    ],
+                    [
+                        49.12615896,
+                        55.79437572
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1297536680",
+                    "name": "КФУ",
+                    "address": "Россия, Республика Татарстан, Казань, Кремлёвская улица, 35",
+                    "url": "http://www.kpfu.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 700-92-75"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-73-40"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        },
+                        {
+                            "name": "Обучение за рубежом"
+                        },
+                        {
+                            "class": "educational center",
+                            "name": "Учебный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.122051,
+                    55.792061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский инновационный университет имени В. Г. Тимирясова Факультет сервиса, туризма и технологии продуктов общественного питания",
+                "description": "ул. Тази Гиззата, 7/17, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10269496,
+                        55.78561454
+                    ],
+                    [
+                        49.11090557,
+                        55.79024085
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1150085996",
+                    "name": "Казанский инновационный университет имени В. Г. Тимирясова Факультет сервиса, туризма и технологии продуктов общественного питания",
+                    "address": "Россия, Республика Татарстан, Казань, улица Тази Гиззата, 7/17",
+                    "url": "https://ieml.ru/faculties/servisa-turizma-i-tekhnologii-produktov-obshchestvennogo-pitaniya/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-92-90"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-60-27"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-92-96"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.106804,
+                    55.787926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский государственный медицинский университет, главный корпус",
+                "description": "ул. Бутлерова, 49, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13985827,
+                        55.79010926
+                    ],
+                    [
+                        49.14190643,
+                        55.79126322
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1775197088",
+                    "name": "Казанский государственный медицинский университет, главный корпус",
+                    "address": "Россия, Республика Татарстан, Казань, улица Бутлерова, 49",
+                    "url": "http://kazangmu.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-06-13"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-06-52"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.140879,
+                    55.790686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанское высшее танковое командное ордена Жукова Краснознаменное училище",
+                "description": "Оренбургский тракт, 6, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.1515723,
+                        55.75512481
+                    ],
+                    [
+                        49.1597829,
+                        55.75975476
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1224831926",
+                    "name": "Казанское высшее танковое командное ордена Жукова Краснознаменное училище",
+                    "address": "Россия, Республика Татарстан, Казань, Оренбургский тракт, 6",
+                    "url": "http://kvtkku.mil.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 229-85-92"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 229-89-32"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "Училище"
+                        },
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.155679,
+                    55.757439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский государственный архитектурно-строительный университет",
+                "description": "Зелёная ул., 1, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.14431391,
+                        55.78324044
+                    ],
+                    [
+                        49.14636207,
+                        55.7843946
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "40925106456",
+                    "name": "Казанский государственный архитектурно-строительный университет",
+                    "address": "Казань, Республика Татарстан, Россия, 420083, Зелёная улица, 1",
+                    "url": "https://www.kgasu.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 510-46-01"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 510-46-50"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 510-46-22"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 510-46-80"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-16-90"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 510-46-93"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-29-72"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 510-46-17"
+                        },
+                        {
+                            "type": "fax",
+                            "formatted": "+7 (843) 238-79-72"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:30–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:30:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.145342,
+                    55.783817
+                ]
+            }
+        }
+    ]
+}

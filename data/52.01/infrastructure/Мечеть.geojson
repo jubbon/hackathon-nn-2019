@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 0,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        42.83491566,
+                        54.42321432
+                    ],
+                    [
+                        43.66359355,
+                        54.89773825
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Мечеть",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": []
+}

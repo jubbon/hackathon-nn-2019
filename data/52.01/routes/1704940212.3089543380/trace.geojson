@@ -1,0 +1,951 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.293604784,
+                    54.937876704
+                ]
+            },
+            "properties": {
+                "name": "КПП № 3",
+                "description": "КПП № 3",
+                "h3_address_7": "8710a4af5ffffff",
+                "h3_address_8": "8810a4af57fffff",
+                "h3_address_9": "8910a4af56bffff",
+                "h3_address_10": "8a10a4af56affff",
+                "stop_id": "1543197715",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.298322764,
+                    54.93633087
+                ]
+            },
+            "properties": {
+                "name": "Золотая Тройка",
+                "description": "Золотая Тройка",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af1dfffff",
+                "h3_address_9": "8910a4af1d3ffff",
+                "h3_address_10": "8a10a4af1d07fff",
+                "stop_id": "1608443909",
+                "route_distance": 505.0,
+                "route_time": 1.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.304576834,
+                    54.935147299
+                ]
+            },
+            "properties": {
+                "name": "Школа № 11",
+                "description": "Школа № 11",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af1dfffff",
+                "h3_address_9": "8910a4af1c3ffff",
+                "h3_address_10": "8a10a4af1c17fff",
+                "stop_id": "1608443089",
+                "route_distance": 1022.0,
+                "route_time": 3.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.31057682,
+                    54.939076526
+                ]
+            },
+            "properties": {
+                "name": "Арзамасская улица",
+                "description": "Арзамасская улица",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af11fffff",
+                "h3_address_9": "8910a4af113ffff",
+                "h3_address_10": "8a10a4af1c4ffff",
+                "stop_id": "1543197647",
+                "route_distance": 1823.0,
+                "route_time": 5.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.311132,
+                    54.943916
+                ]
+            },
+            "properties": {
+                "name": "Улица Маяковского",
+                "description": "Улица Маяковского",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af19fffff",
+                "h3_address_9": "8910a4af18fffff",
+                "h3_address_10": "8a10a4af18cffff",
+                "stop_id": "1543197644",
+                "route_distance": 2490.0,
+                "route_time": 7.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.317248,
+                    54.944005
+                ]
+            },
+            "properties": {
+                "name": "Магазин Нижегородский",
+                "description": "Магазин Нижегородский",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af11fffff",
+                "h3_address_9": "8910a4af117ffff",
+                "h3_address_10": "8a10a4af114ffff",
+                "stop_id": "1543197628",
+                "route_distance": 2881.0,
+                "route_time": 9.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.323521,
+                    54.944127
+                ]
+            },
+            "properties": {
+                "name": "Улица Курчатова",
+                "description": "Улица Курчатова",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af13fffff",
+                "h3_address_9": "8910a4af133ffff",
+                "h3_address_10": "8a10a4af1317fff",
+                "stop_id": "1543197606",
+                "route_distance": 3301.0,
+                "route_time": 11.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.327207221,
+                    54.949298207
+                ]
+            },
+            "properties": {
+                "name": "Школа № 13",
+                "description": "Школа № 13",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4ac4dfffff",
+                "h3_address_9": "8910a4ac4dbffff",
+                "h3_address_10": "8a10a4af136ffff",
+                "stop_id": "3089424040",
+                "route_distance": 4150.0,
+                "route_time": 13.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.334513293,
+                    54.948967828
+                ]
+            },
+            "properties": {
+                "name": "Берёзовая улица",
+                "description": "Берёзовая улица",
+                "h3_address_7": "8710a4ac4ffffff",
+                "h3_address_8": "8810a4ac45fffff",
+                "h3_address_9": "8910a4ac453ffff",
+                "h3_address_10": "8a10a4ac4537fff",
+                "stop_id": "3089424510",
+                "route_distance": 4684.0,
+                "route_time": 14.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.335215878,
+                    54.944835457
+                ]
+            },
+            "properties": {
+                "name": "Детский сад Улыбка",
+                "description": "Детский сад Улыбка",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af13fffff",
+                "h3_address_9": "8910a4af12fffff",
+                "h3_address_10": "8a10a4af12cffff",
+                "stop_id": "1543197552",
+                "route_distance": 5236.0,
+                "route_time": 16.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.326805889,
+                    54.943614788
+                ]
+            },
+            "properties": {
+                "name": "КБО",
+                "description": "КБО",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af13fffff",
+                "h3_address_9": "8910a4af123ffff",
+                "h3_address_10": "8a10a4af1237fff",
+                "stop_id": "1543197593",
+                "route_distance": 5842.0,
+                "route_time": 18.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.328278,
+                    54.938465
+                ]
+            },
+            "properties": {
+                "name": "Парк КиО имени Зернова",
+                "description": "Парк КиО имени Зернова",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af17fffff",
+                "h3_address_9": "8910a4af177ffff",
+                "h3_address_10": "8a10a4af175ffff",
+                "stop_id": "1543197575",
+                "route_distance": 6459.0,
+                "route_time": 19.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.334499441,
+                    54.938480048
+                ]
+            },
+            "properties": {
+                "name": "Больничный городок",
+                "description": "Больничный городок",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af17fffff",
+                "h3_address_9": "8910a4af167ffff",
+                "h3_address_10": "8a10a4af165ffff",
+                "stop_id": "1543197554",
+                "route_distance": 6864.0,
+                "route_time": 21.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.343151218,
+                    54.93519338
+                ]
+            },
+            "properties": {
+                "name": "Музыкальная школа",
+                "description": "Музыкальная школа",
+                "h3_address_7": "8710a4ac6ffffff",
+                "h3_address_8": "8810a4ac6dfffff",
+                "h3_address_9": "8910a4ac6c7ffff",
+                "h3_address_10": "8a10a4ac6c67fff",
+                "stop_id": "1543197529",
+                "route_distance": 7548.0,
+                "route_time": 22.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.347186008,
+                    54.934448333
+                ]
+            },
+            "properties": {
+                "name": "Лыжная база",
+                "description": "Лыжная база",
+                "h3_address_7": "8710a4ac6ffffff",
+                "h3_address_8": "8810a4ac61fffff",
+                "h3_address_9": "8910a4ac61bffff",
+                "h3_address_10": "8a10a4ac61a7fff",
+                "stop_id": "1543197515",
+                "route_distance": 7819.0,
+                "route_time": 24.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.349824,
+                    54.931346
+                ]
+            },
+            "properties": {
+                "name": "20-я школа",
+                "description": "20-я школа",
+                "h3_address_7": "8710a4ac6ffffff",
+                "h3_address_8": "8810a4ac65fffff",
+                "h3_address_9": "8910a4ac657ffff",
+                "h3_address_10": "8a10a4ac6567fff",
+                "stop_id": "1543197505",
+                "route_distance": 8397.0,
+                "route_time": 25.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.347489,
+                    54.927549
+                ]
+            },
+            "properties": {
+                "name": "Вечный огонь",
+                "description": "Вечный огонь",
+                "h3_address_7": "8710a4ac6ffffff",
+                "h3_address_8": "8810a4ac65fffff",
+                "h3_address_9": "8910a4ac653ffff",
+                "h3_address_10": "8a10a4ac6517fff",
+                "stop_id": "1543197514",
+                "route_distance": 8844.0,
+                "route_time": 27.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.346329016,
+                    54.925398491
+                ]
+            },
+            "properties": {
+                "name": "Дворец пионеров",
+                "description": "Дворец пионеров",
+                "h3_address_7": "8710a4ac6ffffff",
+                "h3_address_8": "8810a4af33fffff",
+                "h3_address_9": "8910a4af327ffff",
+                "h3_address_10": "8a10a4af325ffff",
+                "stop_id": "1543197518",
+                "route_distance": 9095.0,
+                "route_time": 28.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.342715,
+                    54.919375
+                ]
+            },
+            "properties": {
+                "name": "Ресторан Колокол",
+                "description": "Ресторан Колокол",
+                "h3_address_7": "8710a4af3ffffff",
+                "h3_address_8": "8810a4af33fffff",
+                "h3_address_9": "8910a4af32bffff",
+                "h3_address_10": "8a10a4af3297fff",
+                "stop_id": "1543197531",
+                "route_distance": 9803.0,
+                "route_time": 30.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.340710729,
+                    54.915958532
+                ]
+            },
+            "properties": {
+                "name": "Дом со шпилем",
+                "description": "Дом со шпилем",
+                "h3_address_7": "8710a4af3ffffff",
+                "h3_address_8": "8810a4af37fffff",
+                "h3_address_9": "8910a4af363ffff",
+                "h3_address_10": "8a10a4af362ffff",
+                "stop_id": "1543197539",
+                "route_distance": 10204.0,
+                "route_time": 31.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.339616074,
+                    54.91221218
+                ]
+            },
+            "properties": {
+                "name": "Комсомольская площадь",
+                "description": "Комсомольская площадь",
+                "h3_address_7": "8710a4af3ffffff",
+                "h3_address_8": "8810a4af37fffff",
+                "h3_address_9": "8910a4af36bffff",
+                "h3_address_10": "8a10a4af36a7fff",
+                "stop_id": "1543197541",
+                "route_distance": 10725.0,
+                "route_time": 33.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.345189548,
+                    54.909156482
+                ]
+            },
+            "properties": {
+                "name": "Ключевая",
+                "description": "Ключевая",
+                "h3_address_7": "8710a4ad4ffffff",
+                "h3_address_8": "8810a4ad4bfffff",
+                "h3_address_9": "8910a4ad4a7ffff",
+                "h3_address_10": "8a10a4ad4a4ffff",
+                "stop_id": "1543197523",
+                "route_distance": 11251.0,
+                "route_time": 34.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.346679,
+                    54.911381
+                ]
+            },
+            "properties": {
+                "name": "ОБЦ",
+                "description": "ОБЦ",
+                "h3_address_7": "8710a4ad5ffffff",
+                "h3_address_8": "8810a4ad5dfffff",
+                "h3_address_9": "8910a4ad5d3ffff",
+                "h3_address_10": "8a10a4ad5d07fff",
+                "stop_id": "1543197517",
+                "route_distance": 11516.0,
+                "route_time": 35.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.349104,
+                    54.915457
+                ]
+            },
+            "properties": {
+                "name": "Дом Торговли",
+                "description": "Дом Торговли",
+                "h3_address_7": "8710a4ad5ffffff",
+                "h3_address_8": "8810a4ad59fffff",
+                "h3_address_9": "8910a4ad59bffff",
+                "h3_address_10": "8a10a4ad5997fff",
+                "stop_id": "1543197506",
+                "route_distance": 11995.0,
+                "route_time": 37.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.348878,
+                    54.919049
+                ]
+            },
+            "properties": {
+                "name": "Ателье Элегант",
+                "description": "Ателье Элегант",
+                "h3_address_7": "8710a4ad5ffffff",
+                "h3_address_8": "8810a4ad59fffff",
+                "h3_address_9": "8910a4ad593ffff",
+                "h3_address_10": "8a10a4ad591ffff",
+                "stop_id": "1543197507",
+                "route_distance": 12488.0,
+                "route_time": 39.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.343758,
+                    54.920594
+                ]
+            },
+            "properties": {
+                "name": "Магазин Юность",
+                "description": "Магазин Юность",
+                "h3_address_7": "8710a4af3ffffff",
+                "h3_address_8": "8810a4af33fffff",
+                "h3_address_9": "8910a4af32bffff",
+                "h3_address_10": "8a10a4af328ffff",
+                "stop_id": "1543197525",
+                "route_distance": 12926.0,
+                "route_time": 40.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.345936,
+                    54.924223
+                ]
+            },
+            "properties": {
+                "name": "Магазин Дружба",
+                "description": "Магазин Дружба",
+                "h3_address_7": "8710a4af3ffffff",
+                "h3_address_8": "8810a4af33fffff",
+                "h3_address_9": "8910a4af32fffff",
+                "h3_address_10": "8a10a4af32effff",
+                "stop_id": "1543197521",
+                "route_distance": 13352.0,
+                "route_time": 42.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.348262,
+                    54.928018
+                ]
+            },
+            "properties": {
+                "name": "Спутник",
+                "description": "Спутник",
+                "h3_address_7": "8710a4ac6ffffff",
+                "h3_address_8": "8810a4ac65fffff",
+                "h3_address_9": "8910a4ac653ffff",
+                "h3_address_10": "8a10a4ac6507fff",
+                "stop_id": "1543197511",
+                "route_distance": 13800.0,
+                "route_time": 43.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.351086,
+                    54.932612
+                ]
+            },
+            "properties": {
+                "name": "20-я Школа",
+                "description": "20-я Школа",
+                "h3_address_7": "8710a4ac6ffffff",
+                "h3_address_8": "8810a4ac61fffff",
+                "h3_address_9": "8910a4ac61bffff",
+                "h3_address_10": "8a10a4ac619ffff",
+                "stop_id": "1543197501",
+                "route_distance": 14342.0,
+                "route_time": 45.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.346268817,
+                    54.934904956
+                ]
+            },
+            "properties": {
+                "name": "Лыжная база",
+                "description": "Лыжная база",
+                "h3_address_7": "8710a4ac6ffffff",
+                "h3_address_8": "8810a4ac61fffff",
+                "h3_address_9": "8910a4ac6c7ffff",
+                "h3_address_10": "8a10a4ac6c4ffff",
+                "stop_id": "1543197519",
+                "route_distance": 14832.0,
+                "route_time": 46.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.33591,
+                    54.938592
+                ]
+            },
+            "properties": {
+                "name": "Больничный городок",
+                "description": "Больничный городок",
+                "h3_address_7": "8710a4ac6ffffff",
+                "h3_address_8": "8810a4ac69fffff",
+                "h3_address_9": "8910a4ac69bffff",
+                "h3_address_10": "8a10a4ac69a7fff",
+                "stop_id": "1543197550",
+                "route_distance": 15647.0,
+                "route_time": 48.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.327530839,
+                    54.939245149
+                ]
+            },
+            "properties": {
+                "name": "Бани Центральные",
+                "description": "Бани Центральные",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af17fffff",
+                "h3_address_9": "8910a4af177ffff",
+                "h3_address_10": "8a10a4af1747fff",
+                "stop_id": "1543197585",
+                "route_distance": 16263.0,
+                "route_time": 50.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.327267273,
+                    54.943390443
+                ]
+            },
+            "properties": {
+                "name": "КБО",
+                "description": "КБО",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af13fffff",
+                "h3_address_9": "8910a4af123ffff",
+                "h3_address_10": "8a10a4af1237fff",
+                "stop_id": "1543197586",
+                "route_distance": 16725.0,
+                "route_time": 52.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.336631,
+                    54.945585
+                ]
+            },
+            "properties": {
+                "name": "Детский сад Улыбка",
+                "description": "Детский сад Улыбка",
+                "h3_address_7": "8710a4ac4ffffff",
+                "h3_address_8": "8810a4ac45fffff",
+                "h3_address_9": "8910a4ac45bffff",
+                "h3_address_10": "8a10a4ac45b7fff",
+                "stop_id": "1543197547",
+                "route_distance": 17510.0,
+                "route_time": 54.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.333184815,
+                    54.949700352
+                ]
+            },
+            "properties": {
+                "name": "Берёзовая улица",
+                "description": "Берёзовая улица",
+                "h3_address_7": "8710a4ac4ffffff",
+                "h3_address_8": "8810a4ac4dfffff",
+                "h3_address_9": "8910a4ac4cbffff",
+                "h3_address_10": "8a10a4ac4c9ffff",
+                "stop_id": "1543197560",
+                "route_distance": 18056.0,
+                "route_time": 55.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.326524,
+                    54.948379
+                ]
+            },
+            "properties": {
+                "name": "Школа № 13",
+                "description": "Школа № 13",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af13fffff",
+                "h3_address_9": "8910a4af137ffff",
+                "h3_address_10": "8a10a4af1367fff",
+                "stop_id": "1543197595",
+                "route_distance": 18888.0,
+                "route_time": 58.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.322724207,
+                    54.944356426
+                ]
+            },
+            "properties": {
+                "name": "Улица Курчатова",
+                "description": "Улица Курчатова",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af13fffff",
+                "h3_address_9": "8910a4af133ffff",
+                "h3_address_10": "8a10a4af1337fff",
+                "stop_id": "1543197608",
+                "route_distance": 19832.0,
+                "route_time": 61.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.315869,
+                    54.944254
+                ]
+            },
+            "properties": {
+                "name": "Магазин Нижегородский",
+                "description": "Магазин Нижегородский",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af11fffff",
+                "h3_address_9": "8910a4af117ffff",
+                "h3_address_10": "8a10a4af116ffff",
+                "stop_id": "1543197634",
+                "route_distance": 20270.0,
+                "route_time": 63.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.311645,
+                    54.944184
+                ]
+            },
+            "properties": {
+                "name": "Улица Маяковского",
+                "description": "Улица Маяковского",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af19fffff",
+                "h3_address_9": "8910a4af18fffff",
+                "h3_address_10": "8a10a4af18cffff",
+                "stop_id": "1543197641",
+                "route_distance": 20540.0,
+                "route_time": 64.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.310246656,
+                    54.938804116
+                ]
+            },
+            "properties": {
+                "name": "Арзамасская улица",
+                "description": "Арзамасская улица",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af11fffff",
+                "h3_address_9": "8910a4af1c7ffff",
+                "h3_address_10": "8a10a4af1c4ffff",
+                "stop_id": "1543197649",
+                "route_distance": 21202.0,
+                "route_time": 65.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.305174967,
+                    54.935297102
+                ]
+            },
+            "properties": {
+                "name": "Школа № 11",
+                "description": "Школа № 11",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af1dfffff",
+                "h3_address_9": "8910a4af1c3ffff",
+                "h3_address_10": "8a10a4af1c1ffff",
+                "stop_id": "1608442829",
+                "route_distance": 21935.0,
+                "route_time": 68.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.298543816,
+                    54.936781101
+                ]
+            },
+            "properties": {
+                "name": "Золотая Тройка",
+                "description": "Золотая Тройка",
+                "h3_address_7": "8710a4af1ffffff",
+                "h3_address_8": "8810a4af1dfffff",
+                "h3_address_9": "8910a4af1d3ffff",
+                "h3_address_10": "8a10a4af1d07fff",
+                "stop_id": "1608443659",
+                "route_distance": 22540.0,
+                "route_time": 70.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.293032797,
+                    54.938456669
+                ]
+            },
+            "properties": {
+                "name": "КПП № 3",
+                "description": "КПП № 3",
+                "h3_address_7": "8710a4af5ffffff",
+                "h3_address_8": "8810a4af57fffff",
+                "h3_address_9": "8910a4af563ffff",
+                "h3_address_10": "8a10a4af5617fff",
+                "stop_id": "1543197706",
+                "route_distance": 23053.0,
+                "route_time": 71.9,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

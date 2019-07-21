@@ -1,0 +1,356 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.084632,
+                        55.855826
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.084632,
+                    55.855826
+                ]
+            },
+            "properties": {
+                "name": "Авиастроительная",
+                "description": "Авиастроительная",
+                "StopMetaData": {
+                    "id": "M1.1",
+                    "name": "Авиастроительная"
+                },
+                "extra": {
+                    "route_time": 0.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.082268,
+                        55.842509
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.082268,
+                    55.842509
+                ]
+            },
+            "properties": {
+                "name": "Северный вокзал",
+                "description": "Северный вокзал",
+                "StopMetaData": {
+                    "id": "M1.2",
+                    "name": "Северный вокзал"
+                },
+                "extra": {
+                    "route_time": 2.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.889457,
+                        55.828051
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.082663,
+                    55.828051
+                ]
+            },
+            "properties": {
+                "name": "Яшьлек",
+                "description": "Яшьлек",
+                "StopMetaData": {
+                    "id": "M1.3",
+                    "name": "Яшьлек"
+                },
+                "extra": {
+                    "route_time": 4.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.098810,
+                        55.816789
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.098810,
+                    55.816789
+                ]
+            },
+            "properties": {
+                "name": "Козья слобода",
+                "description": "Козья слобода",
+                "StopMetaData": {
+                    "id": "M1.4",
+                    "name": "Козья слобода"
+                },
+                "extra": {
+                    "route_time": 6.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.107035,
+                        55.795308
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.107035,
+                    55.795308
+                ]
+            },
+            "properties": {
+                "name": "Кремлёвская",
+                "description": "Кремлёвская",
+                "StopMetaData": {
+                    "id": "M1.5",
+                    "name": "Кремлёвская"
+                },
+                "extra": {
+                    "route_time": 9.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.123991,
+                        55.786317
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.123991,
+                    55.786317
+                ]
+            },
+            "properties": {
+                "name": "Площадь Габдуллы Тукая",
+                "description": "Площадь Габдуллы Тукая",
+                "StopMetaData": {
+                    "id": "M1.6",
+                    "name": "Площадь Габдуллы Тукая"
+                },
+                "extra": {
+                    "route_time": 11.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.142653,
+                        55.776879
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.142653,
+                    55.776879
+                ]
+            },
+            "properties": {
+                "name": "Суконная слобода",
+                "description": "Суконная слобода",
+                "StopMetaData": {
+                    "id": "M1.7",
+                    "name": "Суконная слобода"
+                },
+                "extra": {
+                    "route_time": 13.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.166875,
+                        55.764936
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.166875,
+                    55.764936
+                ]
+            },
+            "properties": {
+                "name": "Аметьево",
+                "description": "Аметьево",
+                "StopMetaData": {
+                    "id": "M1.8",
+                    "name": "Аметьево"
+                },
+                "extra": {
+                    "route_time": 16.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.190873,
+                        55.760352
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.190873,
+                    55.760352
+                ]
+            },
+            "properties": {
+                "name": "Горки",
+                "description": "Горки",
+                "StopMetaData": {
+                    "id": "M1.9",
+                    "name": "Горки"
+                },
+                "extra": {
+                    "route_time": 18.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.208762,
+                        55.750090
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.208762,
+                    55.750090
+                ]
+            },
+            "properties": {
+                "name": "Проспект Победы",
+                "description": "Проспект Победы",
+                "StopMetaData": {
+                    "id": "M1.10",
+                    "name": "Проспект Победы"
+                },
+                "extra": {
+                    "route_time": 20.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.219437,
+                        55.743829
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.219437,
+                    55.743829
+                ]
+            },
+            "properties": {
+                "name": "Дубравная",
+                "description": "Дубравная",
+                "StopMetaData": {
+                    "id": "M1.11",
+                    "name": "Дубравная"
+                },
+                "extra": {
+                    "route_time": 22.0
+                }
+            }
+        }
+    ],
+    "properties": {
+        "ThreadMetaData": {
+            "id": "metro_1",
+            "lineId": "1",
+            "name": "M1",
+            "type": "metro",
+            "Types": [
+                "metro"
+            ],
+            "EssentialStops": [
+                {
+                    "id": "M1.1",
+                    "name": "Авиастроительная"
+                },
+                {
+                    "id": "M1.11",
+                    "name": "Дубравная"
+                }
+            ]
+        }
+    }
+}

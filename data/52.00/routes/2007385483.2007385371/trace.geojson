@@ -1,0 +1,401 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.971772,
+                    56.25663
+                ]
+            },
+            "properties": {
+                "name": "Мыза",
+                "description": "Мыза",
+                "h3_address_7": "87101609affffff",
+                "h3_address_8": "88101609a3fffff",
+                "h3_address_9": "89101609a27ffff",
+                "h3_address_10": "8a101609a277fff",
+                "stop_id": "9713301",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.973943,
+                    56.261445
+                ]
+            },
+            "properties": {
+                "name": "Администрация Приокского района",
+                "description": "Администрация Приокского района",
+                "h3_address_7": "87101609bffffff",
+                "h3_address_8": "88101609bdfffff",
+                "h3_address_9": "89101609bcfffff",
+                "h3_address_10": "8a101609bcf7fff",
+                "stop_id": "9713302",
+                "route_distance": 766.0,
+                "route_time": 2.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.975316,
+                    56.266617
+                ]
+            },
+            "properties": {
+                "name": "Батумская улица",
+                "description": "Батумская улица",
+                "h3_address_7": "87101609bffffff",
+                "h3_address_8": "88101609b1fffff",
+                "h3_address_9": "89101609bc7ffff",
+                "h3_address_10": "8a101609bc4ffff",
+                "stop_id": "9713303",
+                "route_distance": 1350.0,
+                "route_time": 3.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.976583,
+                    56.271508
+                ]
+            },
+            "properties": {
+                "name": "Кинотеатр Электрон",
+                "description": "Кинотеатр Электрон",
+                "h3_address_7": "87101609bffffff",
+                "h3_address_8": "88101609b9fffff",
+                "h3_address_9": "89101609b8fffff",
+                "h3_address_10": "8a101609b8c7fff",
+                "stop_id": "9713304",
+                "route_distance": 1898.0,
+                "route_time": 5.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.982328996,
+                    56.274731291
+                ]
+            },
+            "properties": {
+                "name": "Улица Терешковой",
+                "description": "Улица Терешковой",
+                "h3_address_7": "87101609bffffff",
+                "h3_address_8": "88101609bbfffff",
+                "h3_address_9": "89101609ba3ffff",
+                "h3_address_10": "8a101609ba17fff",
+                "stop_id": "9713305",
+                "route_distance": 3623.0,
+                "route_time": 9.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.989354,
+                    56.276012
+                ]
+            },
+            "properties": {
+                "name": "Щёлоковский Хутор",
+                "description": "Щёлоковский Хутор",
+                "h3_address_7": "87101609bffffff",
+                "h3_address_8": "88101609bbfffff",
+                "h3_address_9": "89101609bafffff",
+                "h3_address_10": "8a101609bac7fff",
+                "stop_id": "9713306",
+                "route_distance": 5032.0,
+                "route_time": 12.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.990954,
+                    56.279213
+                ]
+            },
+            "properties": {
+                "name": "Сахарный Дол",
+                "description": "Сахарный Дол",
+                "h3_address_7": "871016726ffffff",
+                "h3_address_8": "881016726dfffff",
+                "h3_address_9": "891016726dbffff",
+                "h3_address_10": "8a1016726d17fff",
+                "stop_id": "9713307",
+                "route_distance": 5496.0,
+                "route_time": 13.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.993385729,
+                    56.282250374
+                ]
+            },
+            "properties": {
+                "name": "Медицинская улица",
+                "description": "Медицинская улица",
+                "h3_address_7": "871016726ffffff",
+                "h3_address_8": "881016726dfffff",
+                "h3_address_9": "891016726d7ffff",
+                "h3_address_10": "8a1016726d57fff",
+                "stop_id": "9713308",
+                "route_distance": 5894.0,
+                "route_time": 15.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.994208,
+                    56.284619
+                ]
+            },
+            "properties": {
+                "name": "Учебный центр",
+                "description": "Учебный центр",
+                "h3_address_7": "871016726ffffff",
+                "h3_address_8": "881016726dfffff",
+                "h3_address_9": "891016726d7ffff",
+                "h3_address_10": "8a1016726d6ffff",
+                "stop_id": "9713309",
+                "route_distance": 6563.0,
+                "route_time": 19.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.995649,
+                    56.290034
+                ]
+            },
+            "properties": {
+                "name": "Улица Нартова",
+                "description": "Улица Нартова",
+                "h3_address_7": "871016726ffffff",
+                "h3_address_8": "8810167269fffff",
+                "h3_address_9": "89101672683ffff",
+                "h3_address_10": "8a101672682ffff",
+                "stop_id": "10014523",
+                "route_distance": 7410.0,
+                "route_time": 22.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.994537,
+                    56.294137
+                ]
+            },
+            "properties": {
+                "name": "Косогорная улица",
+                "description": "Косогорная улица",
+                "h3_address_7": "871016724ffffff",
+                "h3_address_8": "8810167245fffff",
+                "h3_address_9": "8910167245bffff",
+                "h3_address_10": "8a101672459ffff",
+                "stop_id": "9713311",
+                "route_distance": 8332.0,
+                "route_time": 25.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.992243358,
+                    56.297891917
+                ]
+            },
+            "properties": {
+                "name": "Артельная улица",
+                "description": "Артельная улица",
+                "h3_address_7": "871016724ffffff",
+                "h3_address_8": "8810167245fffff",
+                "h3_address_9": "89101672453ffff",
+                "h3_address_10": "8a1016724507fff",
+                "stop_id": "9713312",
+                "route_distance": 8798.0,
+                "route_time": 28.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.990671,
+                    56.302284
+                ]
+            },
+            "properties": {
+                "name": "Бассейн Олимп",
+                "description": "Бассейн Олимп",
+                "h3_address_7": "871016724ffffff",
+                "h3_address_8": "881016724dfffff",
+                "h3_address_9": "891016724cfffff",
+                "h3_address_10": "8a1016724ceffff",
+                "stop_id": "1543193219",
+                "route_distance": 9304.0,
+                "route_time": 29.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.989628,
+                    56.304647
+                ]
+            },
+            "properties": {
+                "name": "Улица Студенческая",
+                "description": "Улица Студенческая",
+                "h3_address_7": "871016724ffffff",
+                "h3_address_8": "881016724dfffff",
+                "h3_address_9": "891016724c7ffff",
+                "h3_address_10": "8a1016724c4ffff",
+                "stop_id": "9713313",
+                "route_distance": 9601.0,
+                "route_time": 31.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.987911,
+                    56.30728
+                ]
+            },
+            "properties": {
+                "name": "Площадь Лядова",
+                "description": "Площадь Лядова",
+                "h3_address_7": "871016724ffffff",
+                "h3_address_8": "8810167249fffff",
+                "h3_address_9": "8910167248bffff",
+                "h3_address_10": "8a101672488ffff",
+                "stop_id": "9713424",
+                "route_distance": 10716.0,
+                "route_time": 35.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.983539148,
+                    56.309056355
+                ]
+            },
+            "properties": {
+                "name": "Красносельская улица",
+                "description": "Красносельская улица",
+                "h3_address_7": "871016724ffffff",
+                "h3_address_8": "8810167249fffff",
+                "h3_address_9": "89101672483ffff",
+                "h3_address_10": "8a1016724837fff",
+                "stop_id": "9713246",
+                "route_distance": 11631.0,
+                "route_time": 38.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.985696211,
+                    56.313194534
+                ]
+            },
+            "properties": {
+                "name": "Улица Максима Горького",
+                "description": "Улица Максима Горького",
+                "h3_address_7": "871016724ffffff",
+                "h3_address_8": "8810167249fffff",
+                "h3_address_9": "89101672497ffff",
+                "h3_address_10": "8a1016724867fff",
+                "stop_id": "9713247",
+                "route_distance": 12120.0,
+                "route_time": 39.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.984835174,
+                    56.315722594
+                ]
+            },
+            "properties": {
+                "name": "Улица Маслякова",
+                "description": "Улица Маслякова",
+                "h3_address_7": "87101608bffffff",
+                "h3_address_8": "88101608b5fffff",
+                "h3_address_9": "89101608b4bffff",
+                "h3_address_10": "8a101608b4a7fff",
+                "stop_id": "9712449",
+                "route_distance": 12610.0,
+                "route_time": 41.1,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

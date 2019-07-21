@@ -1,0 +1,628 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 74,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.08712716,
+                        55.72587351
+                    ],
+                    [
+                        49.24576964,
+                        55.82609374
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Собор",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Петропавловский Собор",
+                "description": "ул. Мусы Джалиля, 21, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11188473,
+                        55.79285746
+                    ],
+                    [
+                        49.11393289,
+                        55.79401134
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1023616223",
+                    "name": "Петропавловский Собор",
+                    "address": "Россия, Республика Татарстан, Казань, улица Мусы Джалиля, 21",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-08-41"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-13-58"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        },
+                        {
+                            "name": "Воскресная школа"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:30–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:30:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.112909,
+                    55.793434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Собор Богоявления Господня",
+                "description": "ул. Баумана, 78, корп. 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11451679,
+                        55.78574615
+                    ],
+                    [
+                        49.1227274,
+                        55.79037245
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1032016771",
+                    "name": "Собор Богоявления Господня",
+                    "address": "Россия, Республика Татарстан, Казань, улица Баумана, 78к1",
+                    "url": "http://kazan-mitropolia.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-17-58"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:30–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:30:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.118618,
+                    55.788061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Благовещенский собор Казанского кремля",
+                "description": "2, территория Кремль, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10145529,
+                        55.79751833
+                    ],
+                    [
+                        49.10966589,
+                        55.80214322
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "119201160865",
+                    "name": "Благовещенский собор Казанского кремля",
+                    "address": "Россия, Республика Татарстан, Казань, территория Кремль, 2",
+                    "url": "https://tatmitropolia.ru/all_publications/hramy_tatarstana/?ID=44609",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-31"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.105559,
+                    55.799831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Никольский кафедральный собор",
+                "description": "ул. Баумана, 5, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.1049677,
+                        55.79167318
+                    ],
+                    [
+                        49.1131783,
+                        55.79629876
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1142869414",
+                    "name": "Никольский кафедральный собор",
+                    "address": "Россия, Республика Татарстан, Казань, улица Баумана, 5",
+                    "url": "http://nks-km.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-36-36"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-57-51"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.109077,
+                    55.793986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Церковь Святых Благоверных князей Федора Давида и Константина Ярославских Чудотворцев",
+                "description": "ул. Николая Ершова, 25, корп. 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.15285689,
+                        55.79172885
+                    ],
+                    [
+                        49.16106749,
+                        55.79635443
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1093420159",
+                    "name": "Церковь Святых Благоверных князей Федора Давида и Константина Ярославских Чудотворцев",
+                    "address": "Россия, Республика Татарстан, Казань, улица Николая Ершова, 25, корп. 1",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 264-65-13"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.156963,
+                    55.794042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Колокольня Богоявленского Собора",
+                "description": "ул. Баумана, 78, корп. 2, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11529833,
+                        55.78595875
+                    ],
+                    [
+                        49.12350893,
+                        55.79058502
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "146705602656",
+                    "name": "Колокольня Богоявленского Собора",
+                    "address": "Россия, Республика Татарстан, Казань, улица Баумана, 78, корп. 2",
+                    "url": "http://kazan-mitropolia.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-17-58"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.1194,
+                    55.788273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Приход преподобного Серафима Саровского",
+                "description": "ул. Сафиуллина, 7, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.22323091,
+                        55.7474239
+                    ],
+                    [
+                        49.23144151,
+                        55.75205477
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1157309013",
+                    "name": "Приход преподобного Серафима Саровского",
+                    "address": "Россия, Республика Татарстан, Казань, улица Сафиуллина, 7",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 299-80-09"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        },
+                        {
+                            "name": "Воскресная школа"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–18:00; сб 7:00–19:00; вс 6:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.227337,
+                    55.749737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Храм Святой Великомученицы Параскевы Пятницы",
+                "description": "Большая Красная ул., 1, корп. 2, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10618043,
+                        55.79678457
+                    ],
+                    [
+                        49.11439103,
+                        55.80140955
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1000782696",
+                    "name": "Храм Святой Великомученицы Параскевы Пятницы",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район, Большая Красная улица, 1, корп. 2",
+                    "url": "http://www.hramparaskevi.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-28-04"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        },
+                        {
+                            "name": "Воскресная школа"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.110284,
+                    55.799096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Православный храм Святителя Варсонофия Казанского Чудотворца",
+                "description": "ул. Толстого, 4/47, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13425278,
+                        55.78816566
+                    ],
+                    [
+                        49.14246338,
+                        55.79279167
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1095429620",
+                    "name": "Православный храм Святителя Варсонофия Казанского Чудотворца",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район, улица Толстого, 4/47",
+                    "url": "http://храм-варсонофия.рф/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-53-62"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (903) 314-55-27"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.138361,
+                    55.790478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Церковь Сошествия Святого Духа",
+                "description": "ул. Туфана Миннуллина, 21, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13330955,
+                        55.77944359
+                    ],
+                    [
+                        49.13535771,
+                        55.78059787
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1388654760",
+                    "name": "Церковь Сошествия Святого Духа",
+                    "address": "Россия, Республика Татарстан, Казань, улица Туфана Миннуллина, 21",
+                    "url": "http://duhovhram-kzn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-70-84"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-70-89"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.134334,
+                    55.78002
+                ]
+            }
+        }
+    ]
+}

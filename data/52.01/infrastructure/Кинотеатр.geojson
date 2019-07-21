@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 2,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.23672311,
+                        54.87044533
+                    ],
+                    [
+                        43.44389258,
+                        54.98829825
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Кинотеатр",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Кинотеатр Россия",
+                "description": "ул. Силкина, 34, Старый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.34636249,
+                        54.9141051
+                    ],
+                    [
+                        43.35457309,
+                        54.91883481
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "217435837732",
+                    "name": "Кинотеатр Россия",
+                    "address": "Россия, Нижегородская область, Саров, Старый район, улица Силкина, 34",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (910) 058-12-07"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 3-80-63"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 3-40-39"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 12:00–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.350468,
+                    54.91647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Люмен Фильм",
+                "description": "Арзамасская ул., 3, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.30707916,
+                        54.93769637
+                    ],
+                    [
+                        43.31528976,
+                        54.9424233
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "184829571787",
+                    "name": "Люмен Фильм",
+                    "address": "Россия, Нижегородская область, Саров, Арзамасская улица, 3",
+                    "url": "http://lumenfilm.com/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (987) 393-67-17"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–2:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "02:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.311184,
+                    54.94006
+                ]
+            }
+        }
+    ]
+}

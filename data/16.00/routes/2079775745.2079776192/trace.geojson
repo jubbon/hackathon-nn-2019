@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.018356149,
+                    55.867047061
+                ]
+            },
+            "properties": {
+                "name": "Жилой массив Жилплощадка",
+                "description": "Жилой массив Жилплощадка",
+                "h3_address_7": "8710a88d0ffffff",
+                "h3_address_8": "8810a88d05fffff",
+                "h3_address_9": "8910a88d043ffff",
+                "h3_address_10": "8a10a88d040ffff",
+                "stop_id": "9668438",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.010209319,
+                    55.86723405
+                ]
+            },
+            "properties": {
+                "name": "Химфармзавод",
+                "description": "Химфармзавод",
+                "h3_address_7": "8710a88d0ffffff",
+                "h3_address_8": "8810a88d05fffff",
+                "h3_address_9": "8910a88d053ffff",
+                "h3_address_10": "8a10a88d0507fff",
+                "stop_id": "9668434",
+                "route_distance": 509.0,
+                "route_time": 1.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.003650907,
+                    55.867319169
+                ]
+            },
+            "properties": {
+                "name": "Химическая улица",
+                "description": "Химическая улица",
+                "h3_address_7": "8710a88d0ffffff",
+                "h3_address_8": "8810a88d0dfffff",
+                "h3_address_9": "8910a88d0cbffff",
+                "h3_address_10": "8a10a88d0c97fff",
+                "stop_id": "1543175805",
+                "route_distance": 956.0,
+                "route_time": 2.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.962756284,
+                    55.89652054
+                ]
+            },
+            "properties": {
+                "name": "Магазин",
+                "description": "Магазин",
+                "h3_address_7": "8710a88f3ffffff",
+                "h3_address_8": "8810a88f35fffff",
+                "h3_address_9": "8910a88f353ffff",
+                "h3_address_10": "8a10a88f352ffff",
+                "stop_id": "9981183",
+                "route_distance": 6897.0,
+                "route_time": 9.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.963066776,
+                    55.900153194
+                ]
+            },
+            "properties": {
+                "name": "Новониколаевский",
+                "description": "Новониколаевский",
+                "h3_address_7": "8710a88f3ffffff",
+                "h3_address_8": "8810a88f3dfffff",
+                "h3_address_9": "8910a88f31bffff",
+                "h3_address_10": "8a10a88f31b7fff",
+                "stop_id": "9669055",
+                "route_distance": 7306.0,
+                "route_time": 10.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.962793122,
+                    55.905624023
+                ]
+            },
+            "properties": {
+                "name": "Краснооктябрьский",
+                "description": "Краснооктябрьский",
+                "h3_address_7": "8710a88f3ffffff",
+                "h3_address_8": "8810a88f39fffff",
+                "h3_address_9": "8910a88f38fffff",
+                "h3_address_10": "8a10a88f38d7fff",
+                "stop_id": "9831200",
+                "route_distance": 7915.0,
+                "route_time": 12.3,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

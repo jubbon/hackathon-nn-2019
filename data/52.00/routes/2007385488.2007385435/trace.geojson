@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.945872,
+                    56.319915
+                ]
+            },
+            "properties": {
+                "name": "Московский вокзал",
+                "description": "Московский вокзал",
+                "h3_address_7": "871016088ffffff",
+                "h3_address_8": "8810160885fffff",
+                "h3_address_9": "8910160885bffff",
+                "h3_address_10": "8a101608859ffff",
+                "stop_id": "9713256",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.941805,
+                    56.316979
+                ]
+            },
+            "properties": {
+                "name": "Центральный рынок",
+                "description": "Центральный рынок",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608a9fffff",
+                "h3_address_9": "89101608e2fffff",
+                "h3_address_10": "8a101608e2dffff",
+                "stop_id": "9713257",
+                "route_distance": 458.0,
+                "route_time": 1.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.936259,
+                    56.312507
+                ]
+            },
+            "properties": {
+                "name": "Парк имени 1-го мая",
+                "description": "Парк имени 1-го мая",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608e7fffff",
+                "h3_address_9": "89101608e67ffff",
+                "h3_address_10": "8a101608e667fff",
+                "stop_id": "9713258",
+                "route_distance": 2093.0,
+                "route_time": 6.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.93622251,
+                    56.306852831
+                ]
+            },
+            "properties": {
+                "name": "Детская железная дорога",
+                "description": "Детская железная дорога",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608e7fffff",
+                "h3_address_9": "89101608e6bffff",
+                "h3_address_10": "8a101608e687fff",
+                "stop_id": "9713259",
+                "route_distance": 2752.0,
+                "route_time": 8.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.93883,
+                    56.302227
+                ]
+            },
+            "properties": {
+                "name": "Управление ГЖД",
+                "description": "Управление ГЖД",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609dbfffff",
+                "h3_address_9": "89101609dafffff",
+                "h3_address_10": "8a101609daeffff",
+                "stop_id": "9713024",
+                "route_distance": 3292.0,
+                "route_time": 9.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.940684181,
+                    56.300807342
+                ]
+            },
+            "properties": {
+                "name": "Метро Ленинская",
+                "description": "Метро Ленинская",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609dbfffff",
+                "h3_address_9": "89101609dafffff",
+                "h3_address_10": "8a101609dacffff",
+                "stop_id": "9713260",
+                "route_distance": 4228.0,
+                "route_time": 13.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.9441047,
+                    56.298474257
+                ]
+            },
+            "properties": {
+                "name": "Комсомольская площадь",
+                "description": "Комсомольская площадь",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d3fffff",
+                "h3_address_9": "89101609d37ffff",
+                "h3_address_10": "8a101609d357fff",
+                "stop_id": "9713261",
+                "route_distance": 5261.0,
+                "route_time": 16.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.942965,
+                    56.29648
+                ]
+            },
+            "properties": {
+                "name": "Комсомольское шоссе",
+                "description": "Комсомольское шоссе",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d3fffff",
+                "h3_address_9": "89101609d33ffff",
+                "h3_address_10": "8a101609d31ffff",
+                "stop_id": "9713272",
+                "route_distance": 6318.0,
+                "route_time": 19.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.942032,
+                    56.292029
+                ]
+            },
+            "properties": {
+                "name": "Центр развития творчества",
+                "description": "Центр развития творчества",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d7fffff",
+                "h3_address_9": "89101609d77ffff",
+                "h3_address_10": "8a101609d767fff",
+                "stop_id": "9713273",
+                "route_distance": 6932.0,
+                "route_time": 23.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.940836,
+                    56.289632
+                ]
+            },
+            "properties": {
+                "name": "Школа № 185",
+                "description": "Школа № 185",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d7fffff",
+                "h3_address_9": "89101609d73ffff",
+                "h3_address_10": "8a101609d707fff",
+                "stop_id": "9713274",
+                "route_distance": 7509.0,
+                "route_time": 26.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.940092,
+                    56.28556
+                ]
+            },
+            "properties": {
+                "name": "Заречный бульвар",
+                "description": "Заречный бульвар",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d5fffff",
+                "h3_address_9": "89101609d7bffff",
+                "h3_address_10": "8a101609d7b7fff",
+                "stop_id": "9713275",
+                "route_distance": 8881.0,
+                "route_time": 30.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.937939,
+                    56.281141
+                ]
+            },
+            "properties": {
+                "name": "Улица Гончарова",
+                "description": "Улица Гончарова",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "88101609d5fffff",
+                "h3_address_9": "891016098b3ffff",
+                "h3_address_10": "8a1016098b27fff",
+                "stop_id": "9713276",
+                "route_distance": 9722.0,
+                "route_time": 33.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.93516453,
+                    56.277252052
+                ]
+            },
+            "properties": {
+                "name": "Улица Космонавта Комарова",
+                "description": "Улица Космонавта Комарова",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "8810160989fffff",
+                "h3_address_9": "89101609887ffff",
+                "h3_address_10": "8a1016098877fff",
+                "stop_id": "9713277",
+                "route_distance": 10467.0,
+                "route_time": 36.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.930654459,
+                    56.270994583
+                ]
+            },
+            "properties": {
+                "name": "Улица Глеба Успенского",
+                "description": "Улица Глеба Успенского",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "881016098dfffff",
+                "h3_address_9": "891016098d7ffff",
+                "h3_address_10": "8a1016098d6ffff",
+                "stop_id": "9713278",
+                "route_distance": 11442.0,
+                "route_time": 40.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.926045605,
+                    56.267860284
+                ]
+            },
+            "properties": {
+                "name": "Улица Нахимова",
+                "description": "Улица Нахимова",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "881016098dfffff",
+                "h3_address_9": "891016098d3ffff",
+                "h3_address_10": "8a1016098d07fff",
+                "stop_id": "9713279",
+                "route_distance": 11909.0,
+                "route_time": 42.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.921349,
+                    56.26544
+                ]
+            },
+            "properties": {
+                "name": "Парк Дубки",
+                "description": "Парк Дубки",
+                "h3_address_7": "87101609effffff",
+                "h3_address_8": "88101609ebfffff",
+                "h3_address_9": "89101609ea7ffff",
+                "h3_address_10": "8a101609ea67fff",
+                "stop_id": "9713280",
+                "route_distance": 12304.0,
+                "route_time": 43.8,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

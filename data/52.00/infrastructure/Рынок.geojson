@@ -1,0 +1,682 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 52,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.80770129,
+                        56.19218952
+                    ],
+                    [
+                        44.08423866,
+                        56.33880352
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Рынок",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Автозаводский",
+                "description": "ул. Плотникова, 4А, микрорайон Соцгород-I, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85106296,
+                        56.25617255
+                    ],
+                    [
+                        43.85927357,
+                        56.26074259
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1043640837",
+                    "name": "Автозаводский",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, улица Плотникова, 4А",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 297-03-41"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 297-00-07"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.855171,
+                    56.258459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Жар-птица",
+                "description": "Советская площадь, 7, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.04234124,
+                        56.29366168
+                    ],
+                    [
+                        44.05055184,
+                        56.29821724
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1817876384",
+                    "name": "Жар-птица",
+                    "address": "Россия, Нижний Новгород, Советская площадь, 7",
+                    "url": "https://www.zharptitsann.ru/tr",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 202-99-99"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 211-37-77"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.046448,
+                    56.295942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Торговый павильон № 4",
+                "description": "ул. Плотникова, 4А, микрорайон Соцгород-I, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85065872,
+                        56.25572252
+                    ],
+                    [
+                        43.85886932,
+                        56.26029261
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1860414973",
+                    "name": "Торговый павильон № 4",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, улица Плотникова, 4А",
+                    "Categories": [
+                        {
+                            "class": "market",
+                            "name": "Вещевой рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.85476,
+                    56.258007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Южный",
+                "description": "ул. Старых Производственников, 22, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.8593095,
+                        56.22337119
+                    ],
+                    [
+                        43.8675201,
+                        56.22794516
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1034910677",
+                    "name": "Южный",
+                    "address": "Россия, Нижний Новгород, улица Старых Производственников, 22",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (987) 745-45-44"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 8:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.863418,
+                    56.22566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ярмарка Мончегорская",
+                "description": "ул. Маковского, 17Б, микрорайон Мончегорский, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.83287208,
+                        56.23060722
+                    ],
+                    [
+                        43.84108268,
+                        56.23518033
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1102318846",
+                    "name": "Ярмарка Мончегорская",
+                    "address": "Россия, Нижний Новгород, микрорайон Мончегорский, улица Маковского, 17Б",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-94-76"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        },
+                        {
+                            "class": "supermarket",
+                            "name": "Магазин продуктов"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 8:00–18:00; вс 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.836977,
+                    56.232894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ярмарка",
+                "description": "ул. Минеева, 29А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.83078799,
+                        56.220093
+                    ],
+                    [
+                        43.83899859,
+                        56.22466737
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1063325227",
+                    "name": "Ярмарка",
+                    "address": "Россия, Нижний Новгород, улица Минеева, 29А",
+                    "url": "http://www.mineevka-nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 294-40-20"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-12-25"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-59-92"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "name": "Продажа и аренда коммерческой недвижимости"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.834891,
+                    56.222378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Продуктовый рынок",
+                "description": "Россия, Нижний Новгород, микрорайон Северный, Львовская улица",
+                "boundedBy": [
+                    [
+                        43.86321717,
+                        56.26158754
+                    ],
+                    [
+                        43.88926831,
+                        56.27203534
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "168274206909",
+                    "name": "Продуктовый рынок",
+                    "address": "Россия, Нижний Новгород, микрорайон Северный, Львовская улица",
+                    "Categories": [
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.876245,
+                    56.266812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Средной",
+                "description": "ул. Белинского, 26, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.98492093,
+                        56.30641287
+                    ],
+                    [
+                        43.99313153,
+                        56.31097688
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "194692340988",
+                    "name": "Средной",
+                    "address": "Россия, Нижний Новгород, улица Белинского, 26",
+                    "url": "https://srednoy.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 414-88-77"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        },
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "name": "Товары для дома"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.989027,
+                    56.308696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Народный",
+                "description": "ул. Композитора Касьянова, 6Г, корп. 2, жилой район Верхние Печёры, 1-й микрорайон, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.05293238,
+                        56.28569814
+                    ],
+                    [
+                        44.06114298,
+                        56.29026464
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1199676608",
+                    "name": "Народный",
+                    "address": "Россия, Нижний Новгород, жилой район Верхние Печёры, 1-й микрорайон, улица Композитора Касьянова, 6Г, корп. 2",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 278-96-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 278-01-80"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 282-82-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 278-01-77"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 410-00-85"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "class": "market",
+                            "name": "Вещевой рынок"
+                        },
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.057042,
+                    56.287983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Заречная",
+                "description": "просп. Ленина, 39/1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.92171546,
+                        56.28378944
+                    ],
+                    [
+                        43.92992606,
+                        56.28835617
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1063772395",
+                    "name": "Заречная",
+                    "address": "Россия, Нижний Новгород, проспект Ленина, 39/1",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 240-39-11"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 240-39-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (930) 701-34-04"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 8:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.925823,
+                    56.286073
+                ]
+            }
+        }
+    ]
+}

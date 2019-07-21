@@ -1,0 +1,643 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.897136,
+                    56.281347
+                ]
+            },
+            "properties": {
+                "name": "Игарская улица",
+                "description": "Игарская улица",
+                "h3_address_7": "87101609cffffff",
+                "h3_address_8": "88101609c9fffff",
+                "h3_address_9": "89101609c87ffff",
+                "h3_address_10": "8a101609c877fff",
+                "stop_id": "9713395",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.901003,
+                    56.278086
+                ]
+            },
+            "properties": {
+                "name": "Кировская улица",
+                "description": "Кировская улица",
+                "h3_address_7": "87101609cffffff",
+                "h3_address_8": "88101609c9fffff",
+                "h3_address_9": "89101609c8fffff",
+                "h3_address_10": "8a101609c8d7fff",
+                "stop_id": "9713397",
+                "route_distance": 553.0,
+                "route_time": 2.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.90415164,
+                    56.275642207
+                ]
+            },
+            "properties": {
+                "name": "Заводская",
+                "description": "Заводская",
+                "h3_address_7": "87101609cffffff",
+                "h3_address_8": "88101609c1fffff",
+                "h3_address_9": "89101609c13ffff",
+                "h3_address_10": "8a101609c11ffff",
+                "stop_id": "9713398",
+                "route_distance": 887.0,
+                "route_time": 4.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.909103,
+                    56.27173
+                ]
+            },
+            "properties": {
+                "name": "Херсонская улица",
+                "description": "Херсонская улица",
+                "h3_address_7": "87101609cffffff",
+                "h3_address_8": "88101609c1fffff",
+                "h3_address_9": "89101609c0bffff",
+                "h3_address_10": "8a101609c097fff",
+                "stop_id": "9713399",
+                "route_distance": 1419.0,
+                "route_time": 7.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.911121968,
+                    56.266593962
+                ]
+            },
+            "properties": {
+                "name": "Станция метро Пролетарская",
+                "description": "Станция метро Пролетарская",
+                "h3_address_7": "87101609cffffff",
+                "h3_address_8": "88101609c5fffff",
+                "h3_address_9": "89101609c4fffff",
+                "h3_address_10": "8a101609c4e7fff",
+                "stop_id": "9713400",
+                "route_distance": 2183.0,
+                "route_time": 9.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.907841369,
+                    56.262371662
+                ]
+            },
+            "properties": {
+                "name": "Троллейбусное депо № 3",
+                "description": "Троллейбусное депо № 3",
+                "h3_address_7": "87101609effffff",
+                "h3_address_8": "88101609e9fffff",
+                "h3_address_9": "89101609c4bffff",
+                "h3_address_10": "8a101609c497fff",
+                "stop_id": "9713401",
+                "route_distance": 3260.0,
+                "route_time": 13.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.902162049,
+                    56.257867939
+                ]
+            },
+            "properties": {
+                "name": "Метро Автозаводская",
+                "description": "Метро Автозаводская",
+                "h3_address_7": "87101609effffff",
+                "h3_address_8": "88101609e9fffff",
+                "h3_address_9": "89101609e93ffff",
+                "h3_address_10": "8a101609e917fff",
+                "stop_id": "9713402",
+                "route_distance": 4458.0,
+                "route_time": 17.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.890443478,
+                    56.252750519
+                ]
+            },
+            "properties": {
+                "name": "Метро Комсомольская",
+                "description": "Метро Комсомольская",
+                "h3_address_7": "871016091ffffff",
+                "h3_address_8": "8810160917fffff",
+                "h3_address_9": "8910160917bffff",
+                "h3_address_10": "8a10160917affff",
+                "stop_id": "9713403",
+                "route_distance": 5618.0,
+                "route_time": 19.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.880095,
+                    56.248725
+                ]
+            },
+            "properties": {
+                "name": "Главная проходная",
+                "description": "Главная проходная",
+                "h3_address_7": "871016091ffffff",
+                "h3_address_8": "8810160915fffff",
+                "h3_address_9": "89101609143ffff",
+                "h3_address_10": "8a1016091417fff",
+                "stop_id": "9713404",
+                "route_distance": 6742.0,
+                "route_time": 23.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.874241724,
+                    56.246209207
+                ]
+            },
+            "properties": {
+                "name": "Метро Кировская",
+                "description": "Метро Кировская",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160903fffff",
+                "h3_address_9": "8910160902fffff",
+                "h3_address_10": "8a10160902effff",
+                "stop_id": "9713405",
+                "route_distance": 7343.0,
+                "route_time": 25.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.86912,
+                    56.244243
+                ]
+            },
+            "properties": {
+                "name": "Проспект Ильича",
+                "description": "Проспект Ильича",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160903fffff",
+                "h3_address_9": "89101609023ffff",
+                "h3_address_10": "8a1016090217fff",
+                "stop_id": "9713406",
+                "route_distance": 7728.0,
+                "route_time": 26.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.864619,
+                    56.242487
+                ]
+            },
+            "properties": {
+                "name": "Универмаг Автозаводский",
+                "description": "Универмаг Автозаводский",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160903fffff",
+                "h3_address_9": "8910160903bffff",
+                "h3_address_10": "8a1016090387fff",
+                "stop_id": "9713407",
+                "route_distance": 8254.0,
+                "route_time": 28.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.86207974,
+                    56.239029868
+                ]
+            },
+            "properties": {
+                "name": "Площадь им. Киселёва",
+                "description": "Площадь им. Киселёва",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160907fffff",
+                "h3_address_9": "8910160900fffff",
+                "h3_address_10": "8a101609072ffff",
+                "stop_id": "9713408",
+                "route_distance": 8779.0,
+                "route_time": 31.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.857407331,
+                    56.237183628
+                ]
+            },
+            "properties": {
+                "name": "Улица Прыгунова",
+                "description": "Улица Прыгунова",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160901fffff",
+                "h3_address_9": "8910160900bffff",
+                "h3_address_10": "8a1016090097fff",
+                "stop_id": "10014518",
+                "route_distance": 10454.0,
+                "route_time": 35.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.853189,
+                    56.23555
+                ]
+            },
+            "properties": {
+                "name": "Улица Смирнова",
+                "description": "Улица Смирнова",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160905fffff",
+                "h3_address_9": "89101609057ffff",
+                "h3_address_10": "8a1016090547fff",
+                "stop_id": "9713409",
+                "route_distance": 11516.0,
+                "route_time": 39.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.847184347,
+                    56.232006841
+                ]
+            },
+            "properties": {
+                "name": "Больница № 40",
+                "description": "Больница № 40",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160905fffff",
+                "h3_address_9": "89101609627ffff",
+                "h3_address_10": "8a1016090537fff",
+                "stop_id": "9713410",
+                "route_distance": 12524.0,
+                "route_time": 42.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.842874037,
+                    56.229293713
+                ]
+            },
+            "properties": {
+                "name": "Коломенская улица",
+                "description": "Коломенская улица",
+                "h3_address_7": "871016096ffffff",
+                "h3_address_8": "8810160963fffff",
+                "h3_address_9": "89101609623ffff",
+                "h3_address_10": "8a101609622ffff",
+                "stop_id": "9713411",
+                "route_distance": 13203.0,
+                "route_time": 45.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.83750312,
+                    56.225809546
+                ]
+            },
+            "properties": {
+                "name": "Улица Минеева",
+                "description": "Улица Минеева",
+                "h3_address_7": "871016096ffffff",
+                "h3_address_8": "8810160963fffff",
+                "h3_address_9": "8910160963bffff",
+                "h3_address_10": "8a10160963a7fff",
+                "stop_id": "9713412",
+                "route_distance": 13798.0,
+                "route_time": 46.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.833772,
+                    56.22335
+                ]
+            },
+            "properties": {
+                "name": "Улица Академика Павлова",
+                "description": "Улица Академика Павлова",
+                "h3_address_7": "871016096ffffff",
+                "h3_address_8": "8810160961fffff",
+                "h3_address_9": "8910160960fffff",
+                "h3_address_10": "8a10160960e7fff",
+                "stop_id": "9713413",
+                "route_distance": 14156.0,
+                "route_time": 48.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.829777121,
+                    56.222006849
+                ]
+            },
+            "properties": {
+                "name": "Больница № 13",
+                "description": "Больница № 13",
+                "h3_address_7": "871016096ffffff",
+                "h3_address_8": "8810160961fffff",
+                "h3_address_9": "8910160960bffff",
+                "h3_address_10": "8a1016096017fff",
+                "stop_id": "9713414",
+                "route_distance": 14532.0,
+                "route_time": 49.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.82661,
+                    56.218366
+                ]
+            },
+            "properties": {
+                "name": "Больничный комплекс",
+                "description": "Больничный комплекс",
+                "h3_address_7": "871016096ffffff",
+                "h3_address_8": "8810160965fffff",
+                "h3_address_9": "89101609657ffff",
+                "h3_address_10": "8a1016096547fff",
+                "stop_id": "9713415",
+                "route_distance": 15039.0,
+                "route_time": 51.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.82533,
+                    56.214174
+                ]
+            },
+            "properties": {
+                "name": "Малышево",
+                "description": "Малышево",
+                "h3_address_7": "871016096ffffff",
+                "h3_address_8": "8810160965fffff",
+                "h3_address_9": "8910160965bffff",
+                "h3_address_10": "8a10160965affff",
+                "stop_id": "9713416",
+                "route_distance": 15533.0,
+                "route_time": 53.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.820405,
+                    56.211241
+                ]
+            },
+            "properties": {
+                "name": "Питомник",
+                "description": "Питомник",
+                "h3_address_7": "87101654bffffff",
+                "h3_address_8": "88101654b3fffff",
+                "h3_address_9": "89101654b2fffff",
+                "h3_address_10": "8a101654b2e7fff",
+                "stop_id": "9713417",
+                "route_distance": 16028.0,
+                "route_time": 54.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.813131,
+                    56.208843
+                ]
+            },
+            "properties": {
+                "name": "Улица Ореховская",
+                "description": "Улица Ореховская",
+                "h3_address_7": "87101654bffffff",
+                "h3_address_8": "88101654b3fffff",
+                "h3_address_9": "89101654b3bffff",
+                "h3_address_10": "8a101654b387fff",
+                "stop_id": "9713418",
+                "route_distance": 17174.0,
+                "route_time": 58.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.805902842,
+                    56.207192915
+                ]
+            },
+            "properties": {
+                "name": "Посёлок Мостотряда",
+                "description": "Посёлок Мостотряда",
+                "h3_address_7": "87101654bffffff",
+                "h3_address_8": "88101654b1fffff",
+                "h3_address_9": "89101654b03ffff",
+                "h3_address_10": "8a101654b00ffff",
+                "stop_id": "9713419",
+                "route_distance": 17847.0,
+                "route_time": 60.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.796054274,
+                    56.206117764
+                ]
+            },
+            "properties": {
+                "name": "Стригино",
+                "description": "Стригино",
+                "h3_address_7": "87101654bffffff",
+                "h3_address_8": "88101654b1fffff",
+                "h3_address_9": "89101654b13ffff",
+                "h3_address_10": "8a101654b137fff",
+                "stop_id": "9713420",
+                "route_distance": 18500.0,
+                "route_time": 62.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.786739,
+                    56.205732
+                ]
+            },
+            "properties": {
+                "name": "Стригинский бор",
+                "description": "Стригинский бор",
+                "h3_address_7": "87101654bffffff",
+                "h3_address_8": "88101654bdfffff",
+                "h3_address_9": "89101654bd7ffff",
+                "h3_address_10": "8a101654bd67fff",
+                "stop_id": "9713421",
+                "route_distance": 19110.0,
+                "route_time": 64.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.778660659,
+                    56.205789843
+                ]
+            },
+            "properties": {
+                "name": "Улица Рельсовая",
+                "description": "Улица Рельсовая",
+                "h3_address_7": "871016548ffffff",
+                "h3_address_8": "8810165487fffff",
+                "h3_address_9": "89101654863ffff",
+                "h3_address_10": "8a1016548607fff",
+                "stop_id": "9713422",
+                "route_distance": 19624.0,
+                "route_time": 66.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.77124301,
+                    56.206510419
+                ]
+            },
+            "properties": {
+                "name": "Гнилицы",
+                "description": "Гнилицы",
+                "h3_address_7": "871016548ffffff",
+                "h3_address_8": "8810165487fffff",
+                "h3_address_9": "89101654873ffff",
+                "h3_address_10": "8a1016548737fff",
+                "stop_id": "9713375",
+                "route_distance": 20105.0,
+                "route_time": 67.4,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

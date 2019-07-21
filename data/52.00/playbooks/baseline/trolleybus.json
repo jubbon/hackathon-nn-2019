@@ -1,0 +1,110 @@
+{
+    "2007385510": {
+        "route_ref": "31",
+        "route_type": "trolleybus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "2007385499": {
+        "route_ref": "13",
+        "route_type": "trolleybus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "2007385474": {
+        "route_ref": "15",
+        "route_type": "trolleybus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385500": {
+        "route_ref": "14",
+        "route_type": "trolleybus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385013": {
+        "route_ref": "11",
+        "route_type": "trolleybus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "2007385497": {
+        "route_ref": "12",
+        "route_type": "trolleybus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007384914": {
+        "route_ref": "10",
+        "route_type": "trolleybus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385451": {
+        "route_ref": "9",
+        "route_type": "trolleybus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "2007384940": {
+        "route_ref": "25",
+        "route_type": "trolleybus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    }
+}

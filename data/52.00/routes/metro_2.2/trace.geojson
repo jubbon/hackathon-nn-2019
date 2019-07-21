@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.949638,
+                    56.335164
+                ]
+            },
+            "properties": {
+                "name": "Стрелка",
+                "description": "Стрелка",
+                "h3_address_7": "871016088ffffff",
+                "h3_address_8": "8810160881fffff",
+                "h3_address_9": "891016088abffff",
+                "h3_address_10": "8a1016088a97fff",
+                "stop_id": "M2.5",
+                "route_time": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.946773,
+                    56.321704
+                ]
+            },
+            "properties": {
+                "name": "Московская",
+                "description": "Московская",
+                "h3_address_7": "871016088ffffff",
+                "h3_address_8": "8810160885fffff",
+                "h3_address_9": "89101608843ffff",
+                "h3_address_10": "8a1016088417fff",
+                "stop_id": "M2.4",
+                "route_time": 4.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.926568,
+                    56.320556
+                ]
+            },
+            "properties": {
+                "name": "Канавинская",
+                "description": "Канавинская",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608ebfffff",
+                "h3_address_9": "89101608eafffff",
+                "h3_address_10": "8a101608ead7fff",
+                "stop_id": "M2.3",
+                "route_time": 7.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.913653,
+                    56.325211
+                ]
+            },
+            "properties": {
+                "name": "Бурнаковская",
+                "description": "Бурнаковская",
+                "h3_address_7": "87101608cffffff",
+                "h3_address_8": "88101608c5fffff",
+                "h3_address_9": "89101608c4fffff",
+                "h3_address_10": "8a101608c4f7fff",
+                "stop_id": "M2.2",
+                "route_time": 9.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.894079,
+                    56.333335
+                ]
+            },
+            "properties": {
+                "name": "Буревестник",
+                "description": "Буревестник",
+                "h3_address_7": "87101608cffffff",
+                "h3_address_8": "88101608cdfffff",
+                "h3_address_9": "89101608cd7ffff",
+                "h3_address_10": "8a101608cd77fff",
+                "stop_id": "M2.1",
+                "route_time": 11.0
+            }
+        }
+    ]
+}

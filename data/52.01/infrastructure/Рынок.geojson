@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 4,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.23408206,
+                        54.89771237
+                    ],
+                    [
+                        43.33765781,
+                        54.95662659
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Рынок",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "АСС",
+                "description": "ул. Димитрова, 8, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.30980106,
+                        54.92126673
+                    ],
+                    [
+                        43.31801166,
+                        54.9259956
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1837494183",
+                    "name": "АСС",
+                    "address": "Россия, Нижегородская область, Саров, улица Димитрова, 8",
+                    "url": "http://acc.avant52.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-94-94"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 7:30–14:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:30:00",
+                                        "to": "14:30:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.313905,
+                    54.923631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Цыгановская ярмарка",
+                "description": "Россия, Нижегородская область, Дивеевский район, сельское поселение Сатисский сельсовет",
+                "boundedBy": [
+                    [
+                        43.20922568,
+                        54.89492696
+                    ],
+                    [
+                        43.30822002,
+                        54.97957283
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "150085416324",
+                    "name": "Цыгановская ярмарка",
+                    "address": "Россия, Нижегородская область, Дивеевский район, сельское поселение Сатисский сельсовет",
+                    "Categories": [
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.258722,
+                    54.937274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Мясные ряды",
+                "description": "Россия, Нижегородская область, Дивеевский район, сельское поселение Сатисский сельсовет",
+                "boundedBy": [
+                    [
+                        43.20832736,
+                        54.8953308
+                    ],
+                    [
+                        43.30732171,
+                        54.97997582
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "146642819511",
+                    "name": "Мясные ряды",
+                    "address": "Россия, Нижегородская область, Дивеевский район, сельское поселение Сатисский сельсовет",
+                    "Categories": [
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.257823,
+                    54.937678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Продуктовый рынок",
+                "description": "Россия, Нижегородская область, 22Н-2115",
+                "boundedBy": [
+                    [
+                        43.2602949,
+                        54.90479928
+                    ],
+                    [
+                        43.27168554,
+                        54.92855123
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "184048806674",
+                    "name": "Продуктовый рынок",
+                    "address": "Россия, Нижегородская область, 22Н-2115",
+                    "Categories": [
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.265989,
+                    54.916679
+                ]
+            }
+        }
+    ]
+}

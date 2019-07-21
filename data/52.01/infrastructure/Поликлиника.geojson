@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 4,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.30015315,
+                        54.91971963
+                    ],
+                    [
+                        43.35193204,
+                        54.94916106
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Поликлиника",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Поликлиника № 2, клинической больницы № 50",
+                "description": "просп. Музрукова, 6, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.31625994,
+                        54.92190831
+                    ],
+                    [
+                        43.32447055,
+                        54.92663711
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1541378209",
+                    "name": "Поликлиника № 2, клинической больницы № 50",
+                    "address": "Россия, Нижегородская область, Саров, проспект Музрукова, 6",
+                    "url": "http://skb50.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 4-02-02"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 9-52-52"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 9-55-77"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 7:00–19:00; пт 7:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.320365,
+                    54.924273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Детская поликлиника № 2",
+                "description": "ул. Курчатова, 36, Новый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.31587367,
+                        54.94224747
+                    ],
+                    [
+                        43.32408427,
+                        54.94696352
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "35570542955",
+                    "name": "Детская поликлиника № 2",
+                    "address": "Россия, Нижегородская область, Саров, Новый район, улица Курчатова, 36",
+                    "url": "http://skb50.ru/",
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская поликлиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–20:00; сб 9:00–12:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "12:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.319978,
+                    54.944603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Поликлиника № 1 ФГБУЗ КБ № 50 ФМБА России",
+                "description": "ул. Зернова, 70, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.32800991,
+                        54.9369878
+                    ],
+                    [
+                        43.33620254,
+                        54.94171481
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "228567759529",
+                    "name": "Поликлиника № 1 ФГБУЗ КБ № 50 ФМБА России",
+                    "address": "Россия, Нижегородская область, Саров, улица Зернова, 70",
+                    "url": "http://z70.polzdr.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 5-48-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 5-29-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–19:00, перерыв 12:00–12:30; сб 8:00–16:00, перерыв 12:00–12:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "12:30:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "12:30:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.332102,
+                    54.939351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Детская поликлиника № 2",
+                "description": "просп. Мира, 44, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.32299731,
+                        54.92266371
+                    ],
+                    [
+                        43.33120791,
+                        54.92739242
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "188809171684",
+                    "name": "Детская поликлиника № 2",
+                    "address": "Россия, Нижегородская область, Саров, проспект Мира, 44",
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская поликлиника"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.327104,
+                    54.925027
+                ]
+            }
+        }
+    ]
+}

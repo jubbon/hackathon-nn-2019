@@ -1,0 +1,247 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.222918434,
+                    55.871665449
+                ]
+            },
+            "properties": {
+                "name": "Посёлок Дербышки",
+                "description": "Посёлок Дербышки",
+                "h3_address_7": "8710a8173ffffff",
+                "h3_address_8": "8810a81739fffff",
+                "h3_address_9": "8910a817397ffff",
+                "h3_address_10": "8a10a8173947fff",
+                "stop_id": "9668563",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.228572906,
+                    55.86920216
+                ]
+            },
+            "properties": {
+                "name": "Стадион Ракета",
+                "description": "Стадион Ракета",
+                "h3_address_7": "8710a8173ffffff",
+                "h3_address_8": "8810a81739fffff",
+                "h3_address_9": "8910a817387ffff",
+                "h3_address_10": "8a10a8173857fff",
+                "stop_id": "9668566",
+                "route_distance": 447.0,
+                "route_time": 1.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.23764415,
+                    55.868046619
+                ]
+            },
+            "properties": {
+                "name": "Раздольная улица",
+                "description": "Раздольная улица",
+                "h3_address_7": "8710a8173ffffff",
+                "h3_address_8": "8810a8173bfffff",
+                "h3_address_9": "8910a8173abffff",
+                "h3_address_10": "8a10a8173ab7fff",
+                "stop_id": "10104450",
+                "route_distance": 1113.0,
+                "route_time": 3.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.243500931,
+                    55.870197715
+                ]
+            },
+            "properties": {
+                "name": "Посёлок Киндери",
+                "description": "Посёлок Киндери",
+                "h3_address_7": "8710a8173ffffff",
+                "h3_address_8": "8810a8173bfffff",
+                "h3_address_9": "8910a8173afffff",
+                "h3_address_10": "8a10a8173ad7fff",
+                "stop_id": "9669331",
+                "route_distance": 1554.0,
+                "route_time": 4.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.248123895,
+                    55.873168003
+                ]
+            },
+            "properties": {
+                "name": "Школа № 166",
+                "description": "Школа № 166",
+                "h3_address_7": "8710a8146ffffff",
+                "h3_address_8": "8810a8146dfffff",
+                "h3_address_9": "8910a8146dbffff",
+                "h3_address_10": "8a10a8146d9ffff",
+                "stop_id": "9669332",
+                "route_distance": 1992.0,
+                "route_time": 5.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.250931694,
+                    55.875012013
+                ]
+            },
+            "properties": {
+                "name": "АЗС",
+                "description": "АЗС",
+                "h3_address_7": "8710a8146ffffff",
+                "h3_address_8": "8810a8146dfffff",
+                "h3_address_9": "8910a8146c3ffff",
+                "h3_address_10": "8a10a8146c17fff",
+                "stop_id": "9669334",
+                "route_distance": 2262.0,
+                "route_time": 7.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.244852615,
+                    55.882577623
+                ]
+            },
+            "properties": {
+                "name": "Киндери",
+                "description": "Киндери",
+                "h3_address_7": "8710a8171ffffff",
+                "h3_address_8": "8810a81717fffff",
+                "h3_address_9": "8910a817167ffff",
+                "h3_address_10": "8a10a817165ffff",
+                "stop_id": "1737075661",
+                "route_distance": 4164.0,
+                "route_time": 9.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.249477722,
+                    55.892992323
+                ]
+            },
+            "properties": {
+                "name": "Станция 807 км",
+                "description": "Станция 807 км",
+                "h3_address_7": "8710a8144ffffff",
+                "h3_address_8": "8810a81445fffff",
+                "h3_address_9": "8910a814453ffff",
+                "h3_address_10": "8a10a814451ffff",
+                "stop_id": "9668891",
+                "route_distance": 6702.0,
+                "route_time": 14.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.251179127,
+                    55.899525938
+                ]
+            },
+            "properties": {
+                "name": "Берёзовка",
+                "description": "Берёзовка",
+                "h3_address_7": "8710a8144ffffff",
+                "h3_address_8": "8810a81441fffff",
+                "h3_address_9": "8910a81441bffff",
+                "h3_address_10": "8a10a8144187fff",
+                "stop_id": "2081588140",
+                "route_distance": 7437.0,
+                "route_time": 16.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.24241828,
+                    55.910526039
+                ]
+            },
+            "properties": {
+                "name": "Дубок",
+                "description": "Дубок",
+                "h3_address_7": "8710a8144ffffff",
+                "h3_address_8": "8810a81449fffff",
+                "h3_address_9": "8910a814497ffff",
+                "h3_address_10": "8a10a814496ffff",
+                "stop_id": "1543174543",
+                "route_distance": 8794.0,
+                "route_time": 19.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.229779489,
+                    55.912320131
+                ]
+            },
+            "properties": {
+                "name": "Жилой массив Кульсеитово",
+                "description": "Жилой массив Кульсеитово",
+                "h3_address_7": "8710a8162ffffff",
+                "h3_address_8": "8810a81623fffff",
+                "h3_address_9": "8910a816223ffff",
+                "h3_address_10": "8a10a8162227fff",
+                "stop_id": "9668560",
+                "route_distance": 9610.0,
+                "route_time": 21.1,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

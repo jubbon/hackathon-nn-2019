@@ -1,0 +1,332 @@
+{
+    "2634880564": {
+        "route_ref": "21",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "03:00",
+                "until": "04:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            },
+            {
+                "from": "04:00",
+                "until": "05:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "05:00",
+                "until": "06:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            },
+            {
+                "from": "06:00",
+                "until": "07:00",
+                "value": 12.0,
+                "vehicles_count": 5
+            },
+            {
+                "from": "07:00",
+                "until": "08:00",
+                "value": 12.0,
+                "vehicles_count": 8
+            },
+            {
+                "from": "08:00",
+                "until": "09:00",
+                "value": 12.0,
+                "vehicles_count": 8
+            },
+            {
+                "from": "09:00",
+                "until": "10:00",
+                "value": 12.0,
+                "vehicles_count": 8
+            },
+            {
+                "from": "10:00",
+                "until": "11:00",
+                "value": 12.0,
+                "vehicles_count": 8
+            },
+            {
+                "from": "11:00",
+                "until": "12:00",
+                "value": 12.0,
+                "vehicles_count": 8
+            },
+            {
+                "from": "12:00",
+                "until": "13:00",
+                "value": 12.0,
+                "vehicles_count": 9
+            }
+        ]
+    },
+    "1704940212": {
+        "route_ref": "20",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "06:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            },
+            {
+                "from": "06:00",
+                "until": "07:00",
+                "value": 12.0,
+                "vehicles_count": 5
+            },
+            {
+                "from": "07:00",
+                "until": "08:00",
+                "value": 12.0,
+                "vehicles_count": 7
+            },
+            {
+                "from": "08:00",
+                "until": "09:00",
+                "value": 12.0,
+                "vehicles_count": 8
+            },
+            {
+                "from": "09:00",
+                "until": "10:00",
+                "value": 12.0,
+                "vehicles_count": 8
+            },
+            {
+                "from": "10:00",
+                "until": "11:00",
+                "value": 12.0,
+                "vehicles_count": 8
+            },
+            {
+                "from": "11:00",
+                "until": "12:00",
+                "value": 12.0,
+                "vehicles_count": 7
+            },
+            {
+                "from": "12:00",
+                "until": "13:00",
+                "value": 12.0,
+                "vehicles_count": 7
+            }
+        ]
+    },
+    "1704841356": {
+        "route_ref": "1",
+        "route_type": "bus",
+        "intervals": [
+            {
+                "from": "07:00",
+                "until": "08:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "08:00",
+                "until": "09:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "09:00",
+                "until": "10:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "10:00",
+                "until": "11:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "11:00",
+                "until": "12:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "12:00",
+                "until": "13:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            }
+        ]
+    },
+    "1704861762": {
+        "route_ref": "2",
+        "route_type": "bus",
+        "intervals": [
+            {
+                "from": "07:00",
+                "until": "08:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "08:00",
+                "until": "09:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "09:00",
+                "until": "10:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "10:00",
+                "until": "11:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "11:00",
+                "until": "12:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            },
+            {
+                "from": "12:00",
+                "until": "13:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "1704868502": {
+        "route_ref": "2А",
+        "route_type": "bus",
+        "intervals": [
+            {
+                "from": "07:00",
+                "until": "08:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "08:00",
+                "until": "09:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            },
+            {
+                "from": "09:00",
+                "until": "10:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            },
+            {
+                "from": "10:00",
+                "until": "11:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            },
+            {
+                "from": "11:00",
+                "until": "12:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            },
+            {
+                "from": "12:00",
+                "until": "13:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "1704893226": {
+        "route_ref": "9",
+        "route_type": "bus",
+        "intervals": [
+            {
+                "from": "07:00",
+                "until": "08:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "08:00",
+                "until": "09:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "09:00",
+                "until": "10:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "10:00",
+                "until": "11:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "11:00",
+                "until": "12:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "12:00",
+                "until": "13:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "1704884168": {
+        "route_ref": "5",
+        "route_type": "bus",
+        "intervals": [
+            {
+                "from": "07:00",
+                "until": "08:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "08:00",
+                "until": "09:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "09:00",
+                "until": "10:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "10:00",
+                "until": "11:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "11:00",
+                "until": "12:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            },
+            {
+                "from": "12:00",
+                "until": "13:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    }
+}

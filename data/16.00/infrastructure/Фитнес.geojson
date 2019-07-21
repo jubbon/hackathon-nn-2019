@@ -1,0 +1,792 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 76,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        48.99019894,
+                        55.69832513
+                    ],
+                    [
+                        49.30750187,
+                        55.89865905
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Фитнес",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Powerhouse Gym",
+                "description": "Краснококшайская ул., 119, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.06152517,
+                        55.81365245
+                    ],
+                    [
+                        49.06973578,
+                        55.81827541
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1149327385",
+                    "name": "Powerhouse Gym",
+                    "address": "Россия, Республика Татарстан, Казань, Краснококшайская улица, 119",
+                    "url": "http://nash-fitness.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 210-30-07"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        },
+                        {
+                            "class": "beauty",
+                            "name": "Солярий"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.065627,
+                    55.815962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X-Fit",
+                "description": "ул. Фатыха Амирхана, 1Г, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13143207,
+                        55.80963599
+                    ],
+                    [
+                        49.13964267,
+                        55.81425943
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1174760832",
+                    "name": "X-Fit",
+                    "address": "Россия, Республика Татарстан, Казань, улица Фатыха Амирхана, 1Г",
+                    "url": "https://www.xfit.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 333-52-52"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 222-83-18"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 557-74-77"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–23:00; сб,вс 8:00–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.13554,
+                    55.811949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Планета Фитнес",
+                "description": "ул. Хади Такташа, 24, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12327537,
+                        55.775697
+                    ],
+                    [
+                        49.13148597,
+                        55.78032449
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1216775726",
+                    "name": "Планета Фитнес",
+                    "address": "Россия, Республика Татарстан, Казань, улица Хади Такташа, 24",
+                    "url": "https://planeta.fitness/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 207-05-17"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 6:30–23:00; вс 8:30–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:30:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:30:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.127384,
+                    55.778012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Планета Фитнес",
+                "description": "ул. Мусина, 39, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11574749,
+                        55.83142812
+                    ],
+                    [
+                        49.12395809,
+                        55.83604896
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1187825848",
+                    "name": "Планета Фитнес",
+                    "address": "Россия, Республика Татарстан, Казань, улица Мусина, 39",
+                    "url": "https://planeta.fitness/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-81-81"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 207-03-90"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 7:00–23:00; вс 9:00–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.119856,
+                    55.83374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Планета Фитнес",
+                "description": "ул. Фатыха Амирхана, 1А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12629371,
+                        55.81296452
+                    ],
+                    [
+                        49.13450431,
+                        55.81758756
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1038182155",
+                    "name": "Планета Фитнес",
+                    "address": "Россия, Республика Татарстан, Казань, улица Фатыха Амирхана, 1А",
+                    "url": "https://planeta.fitness/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 526-56-06"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 207-02-81"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 6:30–0:00; сб,вс 9:00–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:30:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.130396,
+                    55.815275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A-Fitness",
+                "description": "просп. Ибрагимова, 54, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.0878009,
+                        55.81978762
+                    ],
+                    [
+                        49.0960115,
+                        55.82440985
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1401780225",
+                    "name": "A-Fitness",
+                    "address": "Россия, Республика Татарстан, Казань, проспект Ибрагимова, 54",
+                    "url": "https://kzn.afitness.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 571-50-50"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (812) 600-46-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (960) 099-45-55"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        },
+                        {
+                            "class": "swimming pool",
+                            "name": "Бассейн"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–0:00; сб,вс 9:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.091908,
+                    55.822097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Лучано",
+                "description": "Право-Булачная ул., 49, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11198354,
+                        55.78427312
+                    ],
+                    [
+                        49.12019415,
+                        55.78889958
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "131627774171",
+                    "name": "Лучано",
+                    "address": "Россия, Республика Татарстан, Казань, Право-Булачная улица, 49",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-04-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-09-31"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-09-20"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-09-32"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-09-87"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "center health",
+                            "name": "Оздоровительный центр"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "spa",
+                            "name": "Спа-салон"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.116086,
+                    55.786586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Акимбо",
+                "description": "ул. Юлиуса Фучика, 90, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.23103727,
+                        55.76288498
+                    ],
+                    [
+                        49.23308543,
+                        55.76403975
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "6926828490",
+                    "name": "Акимбо",
+                    "address": "Россия, Республика Татарстан, Казань, улица Юлиуса Фучика, 90",
+                    "url": "https://akimbofit.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 526-11-26"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 526-11-27"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 7:00–0:00; вс 8:00–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.232061,
+                    55.76346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alex fitness",
+                "description": "ул. Баумана, 51/50, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11730157,
+                        55.78560442
+                    ],
+                    [
+                        49.12551217,
+                        55.79023073
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1012703014",
+                    "name": "Alex fitness",
+                    "address": "Россия, Республика Татарстан, Казань, улица Баумана, 51/50",
+                    "url": "http://www.alexfitness.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 277-50-60"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–0:00; сб,вс 9:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.121406,
+                    55.787918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "АквАрена",
+                "description": "ул. Короленко, 28А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09902984,
+                        55.82827309
+                    ],
+                    [
+                        49.10724044,
+                        55.83289431
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1158296055",
+                    "name": "АквАрена",
+                    "address": "Россия, Республика Татарстан, Казань, улица Короленко, 28А",
+                    "url": "http://www.akvarena.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-10-24"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-10-25"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-10-26"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "swimming pool",
+                            "name": "Бассейн"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "spa",
+                            "name": "Спа-салон"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–22:00; сб,вс 8:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.103132,
+                    55.830585
+                ]
+            }
+        }
+    ]
+}

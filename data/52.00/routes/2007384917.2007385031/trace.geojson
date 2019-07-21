@@ -1,0 +1,203 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.844244201,
+                    56.228194426
+                ]
+            },
+            "properties": {
+                "name": "Улица Минеева",
+                "description": "Улица Минеева",
+                "h3_address_7": "871016096ffffff",
+                "h3_address_8": "8810160963fffff",
+                "h3_address_9": "89101609623ffff",
+                "h3_address_10": "8a101609620ffff",
+                "stop_id": "9713001",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.849542,
+                    56.230275
+                ]
+            },
+            "properties": {
+                "name": "Больница № 40",
+                "description": "Больница № 40",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160905fffff",
+                "h3_address_9": "8910160905bffff",
+                "h3_address_10": "8a10160905a7fff",
+                "stop_id": "9713033",
+                "route_distance": 444.0,
+                "route_time": 2.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.856993,
+                    56.233183
+                ]
+            },
+            "properties": {
+                "name": "Продовольственный магазин",
+                "description": "Продовольственный магазин",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160905fffff",
+                "h3_address_9": "89101609043ffff",
+                "h3_address_10": "8a101609040ffff",
+                "stop_id": "9713034",
+                "route_distance": 1009.0,
+                "route_time": 3.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.86213,
+                    56.235177
+                ]
+            },
+            "properties": {
+                "name": "Торговый центр",
+                "description": "Торговый центр",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160907fffff",
+                "h3_address_9": "8910160907bffff",
+                "h3_address_10": "8a10160907a7fff",
+                "stop_id": "9713035",
+                "route_distance": 1396.0,
+                "route_time": 4.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.866867,
+                    56.237024
+                ]
+            },
+            "properties": {
+                "name": "Улица Лескова",
+                "description": "Улица Лескова",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160907fffff",
+                "h3_address_9": "89101609063ffff",
+                "h3_address_10": "8a1016090627fff",
+                "stop_id": "9713036",
+                "route_distance": 1754.0,
+                "route_time": 5.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.876053097,
+                    56.235457914
+                ]
+            },
+            "properties": {
+                "name": "По требованию",
+                "description": "По требованию",
+                "h3_address_7": "871016093ffffff",
+                "h3_address_8": "881016093dfffff",
+                "h3_address_9": "891016093d7ffff",
+                "h3_address_10": "8a10160906dffff",
+                "stop_id": "9713689",
+                "route_distance": 2582.0,
+                "route_time": 7.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.887454,
+                    56.237745
+                ]
+            },
+            "properties": {
+                "name": "5-я проходная ГАЗ",
+                "description": "5-я проходная ГАЗ",
+                "h3_address_7": "871016093ffffff",
+                "h3_address_8": "8810160931fffff",
+                "h3_address_9": "89101609313ffff",
+                "h3_address_10": "8a1016093107fff",
+                "stop_id": "9713690",
+                "route_distance": 3362.0,
+                "route_time": 9.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.903108883,
+                    56.243556575
+                ]
+            },
+            "properties": {
+                "name": "4-я проходная ГАЗ",
+                "description": "4-я проходная ГАЗ",
+                "h3_address_7": "871016093ffffff",
+                "h3_address_8": "8810160933fffff",
+                "h3_address_9": "89101609337ffff",
+                "h3_address_10": "8a1016093377fff",
+                "stop_id": "9713692",
+                "route_distance": 4528.0,
+                "route_time": 11.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.915365624,
+                    56.248371704
+                ]
+            },
+            "properties": {
+                "name": "7-я проходная ГАЗ",
+                "description": "7-я проходная ГАЗ",
+                "h3_address_7": "87101609effffff",
+                "h3_address_8": "88101609e5fffff",
+                "h3_address_9": "89101609e57ffff",
+                "h3_address_10": "8a101609e577fff",
+                "stop_id": "9713573",
+                "route_distance": 5455.0,
+                "route_time": 13.8,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

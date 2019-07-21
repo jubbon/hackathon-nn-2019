@@ -1,0 +1,247 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 4,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.84907769,
+                        56.23829713
+                    ],
+                    [
+                        44.12561507,
+                        56.38473402
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Мечеть",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Тауба",
+                "description": "ул. Мельникова, 7, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.88716626,
+                        56.2605376
+                    ],
+                    [
+                        43.89537686,
+                        56.26510712
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1122535047",
+                    "name": "Тауба",
+                    "address": "Россия, Нижний Новгород, улица Мельникова, 7",
+                    "url": "http://www.medina.su/htm/mosqnn.htm",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 253-36-33"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.891272,
+                    56.262822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Мечеть",
+                "description": "Ижевская ул., 40, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.89144224,
+                        56.28579807
+                    ],
+                    [
+                        43.89965284,
+                        56.29036456
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1033698382",
+                    "name": "Мечеть",
+                    "address": "Россия, Нижний Новгород, Ижевская улица, 40",
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.895546,
+                    56.288082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Централизованное религиозная организация Духовное управление мусульман Нижегородской области",
+                "description": "ул. Дьяконова, 21А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87812022,
+                        56.26130256
+                    ],
+                    [
+                        43.88633082,
+                        56.26587198
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1066767618",
+                    "name": "Централизованное религиозная организация Духовное управление мусульман Нижегородской области",
+                    "address": "Россия, Нижний Новгород, улица Дьяконова, 21А",
+                    "url": "http://islamnn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 215-10-42"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 215-10-43"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Религиозное объединение"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.882222,
+                    56.263589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ихсан",
+                "description": "ул. Фигнер, 4А, Бор, Россия",
+                "boundedBy": [
+                    [
+                        44.08836193,
+                        56.35799827
+                    ],
+                    [
+                        44.09657253,
+                        56.36255609
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "46671050216",
+                    "name": "Ихсан",
+                    "address": "Россия, Нижегородская область, Бор, улица Фигнер, 4А",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (908) 161-46-30"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.092467,
+                    56.360277
+                ]
+            }
+        }
+    ]
+}

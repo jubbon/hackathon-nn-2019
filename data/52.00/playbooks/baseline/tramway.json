@@ -1,0 +1,134 @@
+{
+    "2007385483": {
+        "route_ref": "5",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "06:26",
+                "until": "21:25",
+                "value": 8,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385486": {
+        "route_ref": "27",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "05:52",
+                "until": "21:31",
+                "value": 11.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007384951": {
+        "route_ref": "8",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "06:09",
+                "until": "23:59",
+                "value": 9.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007384896": {
+        "route_ref": "417",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "05:24",
+                "until": "23:59",
+                "value": 11.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385478": {
+        "route_ref": "21",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "06:05",
+                "until": "20:02",
+                "value": 8.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385459": {
+        "route_ref": "18",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385516": {
+        "route_ref": "7",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "05:26",
+                "until": "22:19",
+                "value": 8.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007384972": {
+        "route_ref": "2",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "06:28",
+                "until": "21:51",
+                "value": 7.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007384905": {
+        "route_ref": "6",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "05:21",
+                "until": "22:19",
+                "value": 8.0,
+                "vehicles_count": 4
+            }
+        ]
+    },
+    "2007385488": {
+        "route_ref": "3",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "05:32",
+                "until": "22:29",
+                "value": 8.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385479": {
+        "route_ref": "22",
+        "route_type": "tramway",
+        "intervals": [
+            {
+                "from": "05:23",
+                "until": "20:42",
+                "value": 16.0,
+                "vehicles_count": 1
+            }
+        ]
+    }
+}

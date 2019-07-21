@@ -1,0 +1,597 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 30,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.75662308,
+                        56.21426665
+                    ],
+                    [
+                        44.03316046,
+                        56.36079586
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Стадион",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Стадион Нижний Новгород",
+                "description": "ул. Бетанкура, 1А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.95924707,
+                        56.33544544
+                    ],
+                    [
+                        43.96745768,
+                        56.34000598
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "62660933612",
+                    "name": "Стадион Нижний Новгород",
+                    "address": "Россия, Нижний Новгород, улица Бетанкура, 1А",
+                    "url": "http://www.nn-stadium.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 416-25-80"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.963353,
+                    56.337727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ручные Игры",
+                "description": "Школьная ул., 32А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.84278948,
+                        56.24940148
+                    ],
+                    [
+                        43.86781654,
+                        56.26344236
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1733668896",
+                    "name": "Ручные Игры",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, Школьная улица, 32А",
+                    "Categories": [
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный комплекс"
+                        },
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        },
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный клуб, секция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–22:00, перерыв 12:30–14:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.855301,
+                    56.256425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Стадион Северный",
+                "description": "Россия, Нижний Новгород, микрорайон Северный",
+                "boundedBy": [
+                    [
+                        43.87046658,
+                        56.25830764
+                    ],
+                    [
+                        43.90866294,
+                        56.27592379
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "5812963691",
+                    "name": "Стадион Северный",
+                    "address": "Россия, Нижний Новгород, микрорайон Северный",
+                    "url": "http://dusshfootball-nn.ru/contacts.html",
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.889569,
+                    56.267117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Стадион",
+                "description": "Школьная ул., 32А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85053296,
+                        56.25245711
+                    ],
+                    [
+                        43.85874356,
+                        56.2570276
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1755220776",
+                    "name": "Стадион",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, Школьная улица, 32А",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 297-96-27"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 297-96-43"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.854638,
+                    56.254741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Восток",
+                "description": "ул. Героя Юрия Смирнова, 13А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85555454,
+                        56.23428476
+                    ],
+                    [
+                        43.86376514,
+                        56.23885743
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1040021528",
+                    "name": "Восток",
+                    "address": "Россия, Нижний Новгород, улица Героя Юрия Смирнова, 13А",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-86-96"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный комплекс"
+                        },
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        },
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный клуб, секция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 13:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.859663,
+                    56.236571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Строитель",
+                "description": "Молодёжный просп., 29, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.71022509,
+                        56.19469881
+                    ],
+                    [
+                        43.94369724,
+                        56.29244778
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1032959193",
+                    "name": "Строитель",
+                    "address": "Россия, Нижний Новгород, Молодёжный проспект, 29",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-33-16"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-17-06"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-29-07"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.826963,
+                    56.243605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Новое поколение",
+                "description": "Мончегорская ул., 32А, микрорайон Мончегорский, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.82425724,
+                        56.23208829
+                    ],
+                    [
+                        43.83246784,
+                        56.23666122
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1686042377",
+                    "name": "Новое поколение",
+                    "address": "Россия, Нижний Новгород, микрорайон Мончегорский, Мончегорская улица, 32А",
+                    "url": "http://дюсшнп.рф/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 292-00-28"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный комплекс"
+                        },
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.828361,
+                    56.234376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Чайка",
+                "description": "Россия, Нижний Новгород, Автозаводский район, жилой район Соцгород, 6-й микрорайон",
+                "boundedBy": [
+                    [
+                        43.85049703,
+                        56.24480007
+                    ],
+                    [
+                        43.86893046,
+                        56.24999162
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "48771276556",
+                    "name": "Чайка",
+                    "address": "Россия, Нижний Новгород, Автозаводский район, жилой район Соцгород, 6-й микрорайон",
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.859711,
+                    56.247395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Спортивный комплекс Лидер",
+                "description": "Мончегорская ул., 13Д, микрорайон Мончегорский, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.81522019,
+                        56.22439212
+                    ],
+                    [
+                        43.83762417,
+                        56.23955278
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1220511590",
+                    "name": "Спортивный комплекс Лидер",
+                    "address": "Россия, Нижний Новгород, микрорайон Мончегорский, Мончегорская улица, 13Д",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 298-92-08"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный комплекс"
+                        },
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.826422,
+                    56.231973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Труд",
+                "description": "Юбилейный бул., 30, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.84359796,
+                        56.33637855
+                    ],
+                    [
+                        43.86504973,
+                        56.34989855
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1125915344",
+                    "name": "Труд",
+                    "address": "Россия, Нижний Новгород, Юбилейный бульвар, 30",
+                    "url": "http://icedisco52.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 225-68-94"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 225-12-73"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 225-68-50"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        },
+                        {
+                            "class": "sport school",
+                            "name": "Спортивная школа"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.854323,
+                    56.343139
+                ]
+            }
+        }
+    ]
+}

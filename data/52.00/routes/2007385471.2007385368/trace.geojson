@@ -1,0 +1,423 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.938502,
+                    56.272248
+                ]
+            },
+            "properties": {
+                "name": "Памирская улица",
+                "description": "Памирская улица",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "8810160981fffff",
+                "h3_address_9": "89101609813ffff",
+                "h3_address_10": "8a1016098127fff",
+                "stop_id": "10017450",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.937351,
+                    56.273744
+                ]
+            },
+            "properties": {
+                "name": "Школа",
+                "description": "Школа",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "8810160989fffff",
+                "h3_address_9": "8910160988fffff",
+                "h3_address_10": "8a10160988d7fff",
+                "stop_id": "9712955",
+                "route_distance": 409,
+                "route_time": 2.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.934535248,
+                    56.27727583
+                ]
+            },
+            "properties": {
+                "name": "Улица Профинтерна",
+                "description": "Улица Профинтерна",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "8810160989fffff",
+                "h3_address_9": "89101609887ffff",
+                "h3_address_10": "8a1016098877fff",
+                "stop_id": "9712956",
+                "route_distance": 965.0,
+                "route_time": 4.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.930331,
+                    56.282585
+                ]
+            },
+            "properties": {
+                "name": "Ленинский районный суд",
+                "description": "Ленинский районный суд",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d5fffff",
+                "h3_address_9": "89101609d5bffff",
+                "h3_address_10": "8a101609d58ffff",
+                "stop_id": "9712957",
+                "route_distance": 1616.0,
+                "route_time": 6.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.926367,
+                    56.284474
+                ]
+            },
+            "properties": {
+                "name": "Метро Заречная",
+                "description": "Метро Заречная",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d5fffff",
+                "h3_address_9": "89101609d53ffff",
+                "h3_address_10": "8a101609d537fff",
+                "stop_id": "9713627",
+                "route_distance": 2747.0,
+                "route_time": 9.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.924121,
+                    56.287823
+                ]
+            },
+            "properties": {
+                "name": "Улица Энтузиастов",
+                "description": "Улица Энтузиастов",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609ddfffff",
+                "h3_address_9": "89101609dcfffff",
+                "h3_address_10": "8a101609dce7fff",
+                "stop_id": "9713620",
+                "route_distance": 3308.0,
+                "route_time": 11.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.919102,
+                    56.28898
+                ]
+            },
+            "properties": {
+                "name": "Улица Героя Советского Союза Самочкина",
+                "description": "Улица Героя Советского Союза Самочкина",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609ddfffff",
+                "h3_address_9": "89101609dc3ffff",
+                "h3_address_10": "8a101609dc27fff",
+                "stop_id": "9713621",
+                "route_distance": 3644.0,
+                "route_time": 12.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.91570416,
+                    56.289749928
+                ]
+            },
+            "properties": {
+                "name": "Кировская улица",
+                "description": "Кировская улица",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609ddfffff",
+                "h3_address_9": "89101609dd3ffff",
+                "h3_address_10": "8a101609dd2ffff",
+                "stop_id": "9713622",
+                "route_distance": 3870.0,
+                "route_time": 13.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.916190981,
+                    56.292073923
+                ]
+            },
+            "properties": {
+                "name": "ДК Красная Этна",
+                "description": "ДК Красная Этна",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609ddfffff",
+                "h3_address_9": "8910160836fffff",
+                "h3_address_10": "8a101609dd67fff",
+                "stop_id": "9713623",
+                "route_distance": 4190.0,
+                "route_time": 14.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.910463,
+                    56.29307
+                ]
+            },
+            "properties": {
+                "name": "Волочильная улица",
+                "description": "Волочильная улица",
+                "h3_address_7": "871016083ffffff",
+                "h3_address_8": "8810160837fffff",
+                "h3_address_9": "89101608363ffff",
+                "h3_address_10": "8a101608360ffff",
+                "stop_id": "9713602",
+                "route_distance": 4569.0,
+                "route_time": 16.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.904638,
+                    56.289834
+                ]
+            },
+            "properties": {
+                "name": "Школа № 99",
+                "description": "Школа № 99",
+                "h3_address_7": "871016083ffffff",
+                "h3_address_8": "8810160837fffff",
+                "h3_address_9": "8910160837bffff",
+                "h3_address_10": "8a1016083787fff",
+                "stop_id": "9713603",
+                "route_distance": 5137.0,
+                "route_time": 17.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.913716,
+                    56.287218
+                ]
+            },
+            "properties": {
+                "name": "Кировская улица",
+                "description": "Кировская улица",
+                "h3_address_7": "87101609cffffff",
+                "h3_address_8": "88101609ddfffff",
+                "h3_address_9": "89101609ca7ffff",
+                "h3_address_10": "8a101609ca4ffff",
+                "stop_id": "9713604",
+                "route_distance": 5795.0,
+                "route_time": 19.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.917911,
+                    56.286215
+                ]
+            },
+            "properties": {
+                "name": "Улица Дружбы",
+                "description": "Улица Дружбы",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609ddfffff",
+                "h3_address_9": "89101609ddbffff",
+                "h3_address_10": "8a101609dd8ffff",
+                "stop_id": "9713605",
+                "route_distance": 6077.0,
+                "route_time": 20.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.9226,
+                    56.285183
+                ]
+            },
+            "properties": {
+                "name": "Улица Энтузиастов",
+                "description": "Улица Энтузиастов",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609ddfffff",
+                "h3_address_9": "89101609dcbffff",
+                "h3_address_10": "8a101609dc87fff",
+                "stop_id": "9713606",
+                "route_distance": 6388.0,
+                "route_time": 21.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.927896,
+                    56.283932
+                ]
+            },
+            "properties": {
+                "name": "Метро Заречная",
+                "description": "Метро Заречная",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d5fffff",
+                "h3_address_9": "89101609d53ffff",
+                "h3_address_10": "8a101609d517fff",
+                "stop_id": "9712925",
+                "route_distance": 8174.0,
+                "route_time": 27.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.930894,
+                    56.281442
+                ]
+            },
+            "properties": {
+                "name": "Ленинский районный суд",
+                "description": "Ленинский районный суд",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d5fffff",
+                "h3_address_9": "89101609d5bffff",
+                "h3_address_10": "8a101609d59ffff",
+                "stop_id": "9712926",
+                "route_distance": 9223.0,
+                "route_time": 31.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.934027,
+                    56.277538
+                ]
+            },
+            "properties": {
+                "name": "Улица Профинтерна",
+                "description": "Улица Профинтерна",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "8810160989fffff",
+                "h3_address_9": "89101609887ffff",
+                "h3_address_10": "8a1016098877fff",
+                "stop_id": "9712927",
+                "route_distance": 9699.0,
+                "route_time": 32.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.936911,
+                    56.273938
+                ]
+            },
+            "properties": {
+                "name": "Школа",
+                "description": "Школа",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "8810160989fffff",
+                "h3_address_9": "8910160988fffff",
+                "h3_address_10": "8a10160988d7fff",
+                "stop_id": "9712928",
+                "route_distance": 10136.0,
+                "route_time": 34.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.93824,
+                    56.272001
+                ]
+            },
+            "properties": {
+                "name": "Памирская улица",
+                "description": "Памирская улица",
+                "h3_address_7": "871016098ffffff",
+                "h3_address_8": "8810160981fffff",
+                "h3_address_9": "89101609813ffff",
+                "h3_address_10": "8a1016098137fff",
+                "stop_id": "10017449",
+                "route_distance": 10369.0,
+                "route_time": 35.3,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

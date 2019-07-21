@@ -1,0 +1,731 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 89,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.7687683,
+                        56.19282061
+                    ],
+                    [
+                        44.04530568,
+                        56.3394322
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Больница",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская больница № 21",
+                "description": "просп. Ильича, 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85930052,
+                        56.24217402
+                    ],
+                    [
+                        43.86751112,
+                        56.24674574
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1068106891",
+                    "name": "Городская больница № 21",
+                    "address": "Россия, Нижний Новгород, проспект Ильича, 1",
+                    "url": "https://gosuslugi.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-72-79"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-75-63"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-75-26"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-09-08"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-76-35"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-75-99"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Специализированная больница"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Женская консультация"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 10:00–18:00, перерыв 12:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "16:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.863405,
+                    56.244458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Инфекционная больница № 23",
+                "description": "просп. Ильича, 54, корп. 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.82997052,
+                        56.24707584
+                    ],
+                    [
+                        43.83818112,
+                        56.25164697
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1126510922",
+                    "name": "Инфекционная больница № 23",
+                    "address": "Россия, Нижний Новгород, проспект Ильича, 54, корп. 1",
+                    "url": "http://ib23.zdrav-nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-58-63"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-37-12"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-37-34"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-37-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-55-65"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Специализированная больница"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.834074,
+                    56.249362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская больница № 37",
+                "description": "ул. Челюскинцев, 3, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85187145,
+                        56.24186388
+                    ],
+                    [
+                        43.86008205,
+                        56.24643564
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1078820585",
+                    "name": "Городская больница № 37",
+                    "address": "Нижний Новгород, ул. Челюскинцев, 3",
+                    "url": "http://gb37.zdrav-nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-71-03"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-71-39"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-85-40"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-70-97"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–18:00, перерыв 12:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "16:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.855975,
+                    56.244151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Детская городская больница № 25",
+                "description": "ул. Лоскутова, 2А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85727032,
+                        56.24151372
+                    ],
+                    [
+                        43.86548093,
+                        56.24608552
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1053961168",
+                    "name": "Детская городская больница № 25",
+                    "address": "Россия, Нижний Новгород, улица Лоскутова, 2А",
+                    "url": "http://detskayabolnica25.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-71-55"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-71-63"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-70-02"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская больница"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.861373,
+                    56.243801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская клиническая больница № 13",
+                "description": "ул. Патриотов, 51, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.82648506,
+                        56.21727004
+                    ],
+                    [
+                        43.83469566,
+                        56.22184474
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "136861289833",
+                    "name": "Городская клиническая больница № 13",
+                    "address": "Россия, Нижний Новгород, улица Патриотов, 51",
+                    "url": "http://bolnica13nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 255-67-69"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 255-67-68"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.830591,
+                    56.219557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Детская городская больница № 25, детская поликлиника № 2",
+                "description": "просп. Октября, 24, микрорайон Соцгород-I, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.8667206,
+                        56.25446239
+                    ],
+                    [
+                        43.86876876,
+                        56.25560251
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1062848523",
+                    "name": "Детская городская больница № 25, детская поликлиника № 2",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, проспект Октября, 24",
+                    "url": "http://detskayabolnica25.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 292-22-68"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская поликлиника"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Детская больница"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.867749,
+                    56.255032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Синапс",
+                "description": "ул. Челюскинцев, 18А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85530301,
+                        56.24922144
+                    ],
+                    [
+                        43.86351361,
+                        56.25379231
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1004115468",
+                    "name": "Синапс",
+                    "address": "Россия, Нижний Новгород, улица Челюскинцев, 18А",
+                    "url": "http://www.sinaps-nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-11-32"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 297-11-94"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Медцентр, клиника"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–19:00; сб 8:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "13:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.859407,
+                    56.251509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГБУЗ Но Наркологическая больница",
+                "description": "ул. Дьяконова, 39, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.89117274,
+                        56.26621692
+                    ],
+                    [
+                        43.89938334,
+                        56.27078576
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1001209964",
+                    "name": "ГБУЗ Но Наркологическая больница",
+                    "address": "Россия, Нижний Новгород, улица Дьяконова, 39",
+                    "url": "http://www.narko.nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 253-93-69"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Специализированная больница"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Наркологическая клиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–20:00; сб 8:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "13:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.895278,
+                    56.268501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская клиническая больница № 39",
+                "description": "Московское ш., 144, корп. 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87211049,
+                        56.31048755
+                    ],
+                    [
+                        43.88032109,
+                        56.31505108
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "128887525549",
+                    "name": "Городская клиническая больница № 39",
+                    "address": "Россия, Нижний Новгород, Московское шоссе, 144, корп. 1",
+                    "url": "http://gkb39.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 279-20-11"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 279-53-84"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 279-53-98"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 279-97-95"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 282-66-03"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Детская больница"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Медцентр, клиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.876214,
+                    56.312769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Детская городская клиническая больница № 1",
+                "description": "просп. Гагарина, 76, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.97936934,
+                        56.27665845
+                    ],
+                    [
+                        43.98757994,
+                        56.28122604
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1033852848",
+                    "name": "Детская городская клиническая больница № 1",
+                    "address": "Россия, Нижний Новгород, проспект Гагарина, 76",
+                    "url": "http://dgkb1nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 464-10-69"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 465-02-04"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 465-37-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская больница"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.983475,
+                    56.278944
+                ]
+            }
+        }
+    ]
+}

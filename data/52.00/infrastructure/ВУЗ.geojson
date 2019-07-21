@@ -1,0 +1,763 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 89,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.79815219,
+                        56.20578081
+                    ],
+                    [
+                        44.07468957,
+                        56.35234261
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "ВУЗ",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Высшая школа экономики",
+                "description": "Львовская ул., 1В, микрорайон Северный, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87358373,
+                        56.26616193
+                    ],
+                    [
+                        43.88179433,
+                        56.27073077
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1205740075",
+                    "name": "Высшая школа экономики",
+                    "address": "Россия, Нижний Новгород, микрорайон Северный, Львовская улица, 1В",
+                    "url": "https://nnov.hse.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 432-77-94"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 416-96-51"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 257-01-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-55-81"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 257-13-03"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.877685,
+                    56.268445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский государственный педагогический университет им. К. Минина",
+                "description": "ул. Челюскинцев, 9, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85258112,
+                        56.24529525
+                    ],
+                    [
+                        43.86079172,
+                        56.24986659
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1798176246",
+                    "name": "Нижегородский государственный педагогический университет им. К. Минина",
+                    "address": "Россия, Нижний Новгород, ул. Челюскинцев, 9",
+                    "url": "http://www.mininuniver.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 436-01-94"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-26-32"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-15-42"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-26-92"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-15-21"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-15-18"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 262-20-41"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 262-20-47"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.856684,
+                    56.247579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "НГПУ им. К. Минина, факультет управления и социально-технических сервисов",
+                "description": "ул. Челюскинцев, 9, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85240145,
+                        56.24534027
+                    ],
+                    [
+                        43.86061206,
+                        56.24991161
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1299180109",
+                    "name": "НГПУ им. К. Минина, факультет управления и социально-технических сервисов",
+                    "address": "Россия, Нижний Новгород, улица Челюскинцев, 9",
+                    "url": "http://www.mininuniver.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-14-73"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-26-32"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 262-20-41"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 262-20-47"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–17:00; пт 8:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.856507,
+                    56.247626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородская государственная консерватория имени М. И. Глинки",
+                "description": "ул. Пискунова, 40, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.00895086,
+                        56.32514481
+                    ],
+                    [
+                        44.01716146,
+                        56.32970658
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1102331215",
+                    "name": "Нижегородская государственная консерватория имени М. И. Глинки",
+                    "address": "Россия, Нижний Новгород, улица Пискунова, 40",
+                    "url": "http://nnovcons.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-40-15"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-43-44"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-43-45"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-40-66"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        },
+                        {
+                            "class": "university",
+                            "name": "Консерватория"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.01306,
+                    56.327427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "НГПУ им. К. Минина, приемная комиссия",
+                "description": "ул. Челюскинцев, 9, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85240145,
+                        56.24534027
+                    ],
+                    [
+                        43.86061206,
+                        56.24991161
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "130314046897",
+                    "name": "НГПУ им. К. Минина, приемная комиссия",
+                    "address": "Россия, Нижний Новгород, улица Челюскинцев, 9",
+                    "url": "http://www.mininuniver.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 436-01-94"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.856507,
+                    56.247626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "НИУ ВШЭ, центр довузовской подготовки",
+                "description": "Львовская ул., 1В, микрорайон Северный, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87380831,
+                        56.26626191
+                    ],
+                    [
+                        43.88201891,
+                        56.27083074
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1380319620",
+                    "name": "НИУ ВШЭ, центр довузовской подготовки",
+                    "address": "Россия, Нижний Новгород, микрорайон Северный, Львовская улица, 1В",
+                    "url": "https://nnov.hse.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 257-01-67"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 416-96-52"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт,чт 8:30–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:30:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Thursday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.877915,
+                    56.268544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Общежитие кампуса НИУ ВШЭ в Нижнем Новгороде",
+                "description": "Львовская ул., 1В, микрорайон Северный, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87367356,
+                        56.26621192
+                    ],
+                    [
+                        43.88188416,
+                        56.27078076
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "113804867632",
+                    "name": "Общежитие кампуса НИУ ВШЭ в Нижнем Новгороде",
+                    "address": "Россия, Нижний Новгород, микрорайон Северный, Львовская улица, 1В",
+                    "url": "https://nnov.hse.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 257-13-03"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 257-10-30"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Общежитие"
+                        },
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.877779,
+                    56.268496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "НГТУ имени Р. Е. Алексеева, Автозаводская высшая школа управления и технологий",
+                "description": "ул. Лескова, 68, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.84269067,
+                        56.22777502
+                    ],
+                    [
+                        43.85090127,
+                        56.23234847
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1035680498",
+                    "name": "НГТУ имени Р. Е. Алексеева, Автозаводская высшая школа управления и технологий",
+                    "address": "Нижний Новгород, ул. Лескова, 68",
+                    "url": "https://www.nntu.ru/structure/view/podrazdeleniya/avsh",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-00-12"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-29-65"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-02-10"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-29-78"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-29-77"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.846799,
+                    56.230063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский государственный технический университет им. Р. Е. Алексеева",
+                "description": "ул. Минина, 24, корп. 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.02193152,
+                        56.32439611
+                    ],
+                    [
+                        44.03014212,
+                        56.32895797
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1047081143",
+                    "name": "Нижегородский государственный технический университет им. Р. Е. Алексеева",
+                    "address": "Россия, Нижний Новгород, улица Минина, 24, корп. 1",
+                    "url": "http://www.nntu.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 436-23-25"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 432-94-75"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 436-23-62"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 436-63-64"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 436-63-53"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 436-63-88"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 436-98-74"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 436-18-70"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.026037,
+                    56.326676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ФГБОУ ВО Волжский государственный университет водного транспорта",
+                "description": "ул. Нестерова, 5, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.01172665,
+                        56.32585357
+                    ],
+                    [
+                        44.01993726,
+                        56.33041525
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1227998815",
+                    "name": "ФГБОУ ВО Волжский государственный университет водного транспорта",
+                    "address": "Россия, Нижний Новгород, улица Нестерова, 5",
+                    "url": "http://www.vsuwt.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-78-14"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-79-24"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-47-56"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-78-58"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 419-31-79"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.015833,
+                    56.328136
+                ]
+            }
+        }
+    ]
+}

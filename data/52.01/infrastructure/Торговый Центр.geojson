@@ -1,0 +1,586 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 12,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.2786924,
+                        54.90483034
+                    ],
+                    [
+                        43.38226815,
+                        54.9637341
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Торговый Центр",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Атом",
+                "description": "ул. Силкина, 31, Старый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.34874302,
+                        54.92138056
+                    ],
+                    [
+                        43.35695363,
+                        54.92610941
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1188259307",
+                    "name": "Атом",
+                    "address": "Россия, Нижегородская область, Саров, Старый район, улица Силкина, 31",
+                    "url": "http://atom-tc.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 6-87-81"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.352848,
+                    54.923745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Куба",
+                "description": "Арзамасская ул., 3, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.30701628,
+                        54.93788256
+                    ],
+                    [
+                        43.31522688,
+                        54.94260947
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "57371145986",
+                    "name": "Куба",
+                    "address": "Россия, Нижегородская область, Саров, Арзамасская улица, 3",
+                    "url": "http://kuba-sarov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 9-74-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 10:00–21:00; сб,вс 10:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.311119,
+                    54.940248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Плаза",
+                "description": "Московская ул., 5/1, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.3240124,
+                        54.93919105
+                    ],
+                    [
+                        43.33222301,
+                        54.94391781
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1168649915",
+                    "name": "Плаза",
+                    "address": "Россия, Нижегородская область, Саров, Московская улица, 5с1",
+                    "url": "http://plaza-sarov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 9-16-79"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 10:00–21:00; сб,вс 10:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.328114,
+                    54.941554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Торговый центр",
+                "description": "просп. Ленина, 41, Старый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.34573367,
+                        54.9268337
+                    ],
+                    [
+                        43.35394427,
+                        54.93156191
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "121817539415",
+                    "name": "Торговый центр",
+                    "address": "Россия, Нижегородская область, Саров, Старый район, проспект Ленина, 41",
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.349838,
+                    54.929199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Европа",
+                "description": "Московская ул., 3/2, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.32446156,
+                        54.93783602
+                    ],
+                    [
+                        43.33267216,
+                        54.94256293
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "156567787020",
+                    "name": "Европа",
+                    "address": "Россия, Нижегородская область, Саров, Московская улица, 3/2",
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн 10:00–20:00; вт 10:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Tuesday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.32857,
+                    54.940202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Микс",
+                "description": "ул. Юности, 1, Новый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.3211378,
+                        54.93822908
+                    ],
+                    [
+                        43.3293484,
+                        54.94295595
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "115960077733",
+                    "name": "Микс",
+                    "address": "Россия, Нижегородская область, Саров, Новый район, улица Юности, 1",
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 10:00–20:00; сб,вс 10:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.325245,
+                    54.940592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Московский Пассаж",
+                "description": "Московская ул., 3/1, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.32380579,
+                        54.93785153
+                    ],
+                    [
+                        43.33201639,
+                        54.94257844
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "215312531521",
+                    "name": "Московский Пассаж",
+                    "address": "Россия, Нижегородская область, Саров, Московская улица, 3/1",
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 10:00–20:00; сб,вс 10:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.327907,
+                    54.940214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Торговый центр",
+                "description": "Россия, Нижегородская область, Саров",
+                "boundedBy": [
+                    [
+                        43.18779187,
+                        54.85626328
+                    ],
+                    [
+                        43.43826014,
+                        54.99153686
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "150860661578",
+                    "name": "Торговый центр",
+                    "address": "Россия, Нижегородская область, Саров",
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.313023,
+                    54.923955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Апельсин",
+                "description": "ул. Павлика Морозова, 6, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.30399794,
+                        54.93249817
+                    ],
+                    [
+                        43.31220854,
+                        54.93722572
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "204709491222",
+                    "name": "Апельсин",
+                    "address": "Россия, Нижегородская область, Саров, улица Павлика Морозова, 6",
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.308104,
+                    54.934863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Галактика",
+                "description": "ул. Курчатова, 12, Новый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.32721041,
+                        54.94247502
+                    ],
+                    [
+                        43.33542101,
+                        54.94720138
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "152319736550",
+                    "name": "Галактика",
+                    "address": "Россия, Нижегородская область, Саров, Новый район, улица Курчатова, 12",
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.331319,
+                    54.944836
+                ]
+            }
+        }
+    ]
+}

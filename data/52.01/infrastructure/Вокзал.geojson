@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 1,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.31386144,
+                        54.9187779
+                    ],
+                    [
+                        43.32677922,
+                        54.92612493
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Вокзал",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал",
+                "description": "Железнодорожная ул., 1, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.31621503,
+                        54.92008701
+                    ],
+                    [
+                        43.32442563,
+                        54.92481602
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "26140633875",
+                    "name": "Железнодорожный вокзал",
+                    "address": "Россия, Нижегородская область, Саров, Железнодорожная улица, 1",
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.320317,
+                    54.922451
+                ]
+            }
+        }
+    ]
+}

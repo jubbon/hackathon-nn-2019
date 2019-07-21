@@ -1,0 +1,810 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 20,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.82146348,
+                        56.22076368
+                    ],
+                    [
+                        44.09800085,
+                        56.36726793
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Предприятие",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Научно-производственное предприятие Прима",
+                "description": "Сормовское ш., 1Ж, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.90434204,
+                        56.32745072
+                    ],
+                    [
+                        43.91255265,
+                        56.33200223
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1192504298",
+                    "name": "Научно-производственное предприятие Прима",
+                    "address": "Россия, Нижний Новгород, Сормовское шоссе, 1Ж",
+                    "url": "http://www.prima.nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 277-99-91"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 233-19-03"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "scientific organization",
+                            "name": "Научно-производственная организация"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.908445,
+                    56.329729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Лад",
+                "description": "ул. Юлиуса Фучика, 6А, корп. 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86691823,
+                        56.23872236
+                    ],
+                    [
+                        43.87512883,
+                        56.24329449
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1071461409",
+                    "name": "Лад",
+                    "address": "Россия, Нижний Новгород, улица Юлиуса Фучика, 6А, корп. 1",
+                    "url": "https://lad-salon.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 233-36-66"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 233-36-66"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "accountants",
+                            "name": "Бухгалтерские услуги"
+                        },
+                        {
+                            "name": "Регистрация и ликвидация предприятий"
+                        },
+                        {
+                            "name": "Налоговые консультанты"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–19:00, перерыв 12:00–13:00; пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.871024,
+                    56.241008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Агентство регистрации",
+                "description": "просп. Ильича, 11, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85585099,
+                        56.24253917
+                    ],
+                    [
+                        43.86406159,
+                        56.24711085
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1075781465",
+                    "name": "Агентство регистрации",
+                    "address": "Россия, Нижний Новгород, проспект Ильича, 11",
+                    "url": "http://www.agreg.nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 274-66-90"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Регистрация и ликвидация предприятий"
+                        },
+                        {
+                            "class": "legal services",
+                            "name": "Юридические услуги"
+                        },
+                        {
+                            "class": "accountants",
+                            "name": "Бухгалтерские услуги"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.859959,
+                    56.244826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Лад",
+                "description": "ул. Родионова, 23В, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.05539376,
+                        56.31392772
+                    ],
+                    [
+                        44.06360436,
+                        56.31849084
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1211621297",
+                    "name": "Лад",
+                    "address": "Россия, Нижний Новгород, улица Родионова, 23В",
+                    "url": "https://lad-sbis.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 233-36-66"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 228-02-88"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-14-55"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 228-02-22"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 228-05-06"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 217-03-23"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 217-60-17"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (813) 261-77-06"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "accountants",
+                            "name": "Бухгалтерские услуги"
+                        },
+                        {
+                            "name": "Регистрация и ликвидация предприятий"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–18:00; пт 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.0595,
+                    56.316208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Завод Автокомпонент",
+                "description": "ул. Монастырка, 17А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.88243213,
+                        56.23135277
+                    ],
+                    [
+                        43.89064274,
+                        56.23592578
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1004396779",
+                    "name": "Завод Автокомпонент",
+                    "address": "Россия, Нижний Новгород, улица Монастырка, 17А",
+                    "url": "http://www.autocomponent.info/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 255-60-35"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "name": "Пластмассовые и пластиковые изделия"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–17:00; пт 8:00–15:45, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "15:45:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.886537,
+                    56.233639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ИК Асэ",
+                "description": "площадь Свободы, 3, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.00763034,
+                        56.31558528
+                    ],
+                    [
+                        44.01584094,
+                        56.3201482
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1080335354",
+                    "name": "ИК Асэ",
+                    "address": "Россия, Нижний Новгород, площадь Свободы, 3",
+                    "url": "http://www.niaep.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 421-79-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 421-80-30"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 421-79-19"
+                        },
+                        {
+                            "type": "fax",
+                            "formatted": "+7 (831) 419-84-90"
+                        },
+                        {
+                            "type": "fax",
+                            "formatted": "+7 (831) 421-06-04"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Промышленное строительство"
+                        },
+                        {
+                            "name": "Проектная организация"
+                        },
+                        {
+                            "name": "Инжиниринг"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:30–18:00, перерыв 11:30–12:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:30:00",
+                                        "to": "11:30:00"
+                                    },
+                                    {
+                                        "from": "12:30:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.011733,
+                    56.317866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Протезное предприятие",
+                "description": "Порядковая ул., 2Б, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.92350311,
+                        56.25619255
+                    ],
+                    [
+                        43.93171371,
+                        56.26076259
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1198961185",
+                    "name": "Протезное предприятие",
+                    "address": "Россия, Нижний Новгород, Порядковая улица, 2Б",
+                    "url": "http://prop-nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 296-91-12"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 257-66-13"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Медицинская реабилитация"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–16:00, перерыв 12:00–12:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "12:30:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.92761,
+                    56.258476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Торговый дом Ваше хозяйство",
+                "description": "Базовый пр., 9, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86200445,
+                        56.3050096
+                    ],
+                    [
+                        43.87021505,
+                        56.30957378
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1134717323",
+                    "name": "Торговый дом Ваше хозяйство",
+                    "address": "Россия, Нижний Новгород, Базовый проезд, 9",
+                    "url": "http://www.tdvh.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 221-35-34"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 221-35-33"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 221-35-26"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Сельскохозяйственное предприятие"
+                        },
+                        {
+                            "name": "Средства защиты растений"
+                        },
+                        {
+                            "name": "Удобрения"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:30–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:30:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.86611,
+                    56.307292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Лад",
+                "description": "ул. Октябрьской Революции, 35А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.9316688,
+                        56.30418559
+                    ],
+                    [
+                        43.9398794,
+                        56.30874987
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1122217458",
+                    "name": "Лад",
+                    "address": "Россия, Нижний Новгород, улица Октябрьской Революции, 35А",
+                    "url": "https://lad-salon.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 233-36-66"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 233-36-66"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "accountants",
+                            "name": "Бухгалтерские услуги"
+                        },
+                        {
+                            "name": "Регистрация и ликвидация предприятий"
+                        },
+                        {
+                            "name": "Налоговые консультанты"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–19:00, перерыв 12:00–13:00; пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.935774,
+                    56.306468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородское металлообрабатывающее предприятие",
+                "description": "ул. Новикова-Прибоя, 4, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.92288327,
+                        56.25876264
+                    ],
+                    [
+                        43.93109387,
+                        56.26333237
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "150459355474",
+                    "name": "Нижегородское металлообрабатывающее предприятие",
+                    "address": "Россия, Нижний Новгород, улица Новикова-Прибоя, 4",
+                    "url": "http://nmpnn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 216-05-88"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Металлоконструкции"
+                        },
+                        {
+                            "name": "Проектная организация"
+                        },
+                        {
+                            "name": "Металлообработка"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.926989,
+                    56.261048
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.857951,
+                    56.242162
+                ]
+            },
+            "properties": {
+                "name": "Парк Культуры",
+                "description": "Парк Культуры",
+                "h3_address_7": "871016090ffffff",
+                "h3_address_8": "8810160901fffff",
+                "h3_address_9": "89101609007ffff",
+                "h3_address_10": "8a1016090057fff",
+                "stop_id": "M1.1",
+                "route_time": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.877046,
+                    56.24747
+                ]
+            },
+            "properties": {
+                "name": "Кировская",
+                "description": "Кировская",
+                "h3_address_7": "871016091ffffff",
+                "h3_address_8": "8810160915fffff",
+                "h3_address_9": "8910160915bffff",
+                "h3_address_10": "8a1016091587fff",
+                "stop_id": "M1.2",
+                "route_time": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.889457,
+                    56.252137
+                ]
+            },
+            "properties": {
+                "name": "Комсомольская",
+                "description": "Комсомольская",
+                "h3_address_7": "871016091ffffff",
+                "h3_address_8": "8810160917fffff",
+                "h3_address_9": "8910160917bffff",
+                "h3_address_10": "8a10160917a7fff",
+                "stop_id": "M1.3",
+                "route_time": 4.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.903021,
+                    56.257775
+                ]
+            },
+            "properties": {
+                "name": "Автозаводская",
+                "description": "Автозаводская",
+                "h3_address_7": "87101609effffff",
+                "h3_address_8": "88101609e9fffff",
+                "h3_address_9": "89101609e93ffff",
+                "h3_address_10": "8a101609e91ffff",
+                "stop_id": "M1.4",
+                "route_time": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.913362,
+                    56.266389
+                ]
+            },
+            "properties": {
+                "name": "Пролетарская",
+                "description": "Пролетарская",
+                "h3_address_7": "87101609cffffff",
+                "h3_address_8": "88101609c5fffff",
+                "h3_address_9": "89101609c4fffff",
+                "h3_address_10": "8a101609c4c7fff",
+                "stop_id": "M1.5",
+                "route_time": 8.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.92132,
+                    56.27653
+                ]
+            },
+            "properties": {
+                "name": "Двигатель Революции",
+                "description": "Двигатель Революции",
+                "h3_address_7": "87101609cffffff",
+                "h3_address_8": "88101609c3fffff",
+                "h3_address_9": "89101609c2bffff",
+                "h3_address_10": "8a101609c287fff",
+                "stop_id": "M1.6",
+                "route_time": 11.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.92775,
+                    56.285212
+                ]
+            },
+            "properties": {
+                "name": "Заречная",
+                "description": "Заречная",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609d5fffff",
+                "h3_address_9": "89101609d53ffff",
+                "h3_address_10": "8a101609d507fff",
+                "stop_id": "M1.7",
+                "route_time": 13.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.938264,
+                    56.299233
+                ]
+            },
+            "properties": {
+                "name": "Ленинская",
+                "description": "Ленинская",
+                "h3_address_7": "87101609dffffff",
+                "h3_address_8": "88101609dbfffff",
+                "h3_address_9": "89101609dafffff",
+                "h3_address_10": "8a101609dad7fff",
+                "stop_id": "M1.8",
+                "route_time": 15.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.937144,
+                    56.310622
+                ]
+            },
+            "properties": {
+                "name": "Чкаловская",
+                "description": "Чкаловская",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608e7fffff",
+                "h3_address_9": "89101608e67ffff",
+                "h3_address_10": "8a101608e657fff",
+                "stop_id": "M1.9",
+                "route_time": 18.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.946776,
+                    56.321334
+                ]
+            },
+            "properties": {
+                "name": "Московская",
+                "description": "Московская",
+                "h3_address_7": "871016088ffffff",
+                "h3_address_8": "8810160885fffff",
+                "h3_address_9": "89101608843ffff",
+                "h3_address_10": "8a1016088417fff",
+                "stop_id": "M1.10",
+                "route_time": 20.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.994652,
+                    56.314067
+                ]
+            },
+            "properties": {
+                "name": "Горьковская",
+                "description": "Горьковская",
+                "h3_address_7": "871016724ffffff",
+                "h3_address_8": "881016724bfffff",
+                "h3_address_9": "891016724a3ffff",
+                "h3_address_10": "8a1016724b1ffff",
+                "stop_id": "M1.11",
+                "route_time": 24.0
+            }
+        }
+    ]
+}

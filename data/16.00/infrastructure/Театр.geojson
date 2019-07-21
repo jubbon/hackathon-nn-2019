@@ -1,0 +1,694 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 27,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.10311717,
+                        55.77583877
+                    ],
+                    [
+                        49.14276881,
+                        55.80088332
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Театр",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Татарский государственный академический театр им. Г. Камала",
+                "description": "ул. Татарстан, 1, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11349271,
+                        55.78076999
+                    ],
+                    [
+                        49.12170332,
+                        55.78539688
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1047216868",
+                    "name": "Татарский государственный академический театр им. Г. Камала",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район, улица Татарстан, 1",
+                    "url": "http://www.kamalteatr.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-03-74"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-06-38"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-08-29"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-14-24"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–19:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "19:30:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.1176,
+                    55.783085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский академический русский большой драматический театр им. В.И. Качалова",
+                "description": "ул. Баумана, 48, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10915385,
+                        55.78898057
+                    ],
+                    [
+                        49.11736445,
+                        55.79360648
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1050228413",
+                    "name": "Казанский академический русский большой драматический театр им. В.И. Качалова",
+                    "address": "Россия, Республика Татарстан, Казань, улица Баумана, 48",
+                    "url": "http://teatrkachalov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-34-83"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-54-81"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-32-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-54-76"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-36-52"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.113262,
+                    55.791294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Театр на Булаке",
+                "description": "Право-Булачная ул., 13, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10381786,
+                        55.79087351
+                    ],
+                    [
+                        49.11202846,
+                        55.79549919
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1054276424",
+                    "name": "Театр на Булаке",
+                    "address": "Россия, Республика Татарстан, Казань, Право-Булачная улица, 13",
+                    "url": "http://teatrnabulake.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-92-70"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-92-21"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.107923,
+                    55.793184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Татарский академический государственный театр оперы и балета им. М. Джалиля",
+                "description": "площадь Свободы, 2, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12067924,
+                        55.79337874
+                    ],
+                    [
+                        49.12888984,
+                        55.79800412
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1063471493",
+                    "name": "Татарский академический государственный театр оперы и балета им. М. Джалиля",
+                    "address": "Россия, Республика Татарстан, Казань, площадь Свободы, 2",
+                    "url": "http://kazan-opera.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-57-10"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-57-06"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-57-02"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        },
+                        {
+                            "name": "Концертные и театральные агентства"
+                        },
+                        {
+                            "name": "Творческий коллектив"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.124787,
+                    55.795691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Экият",
+                "description": "Петербургская ул., 57, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13384854,
+                        55.77766147
+                    ],
+                    [
+                        49.14205914,
+                        55.78228873
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "80811828570",
+                    "name": "Экият",
+                    "address": "Россия, Республика Татарстан, Казань, Петербургская улица, 57",
+                    "url": "http://www.puppet-show.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-70-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-70-31"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-70-20"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-90-24"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-71-75"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-90-30"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-62-51"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–19:00, перерыв 13:00–13:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "13:00:00"
+                                    },
+                                    {
+                                        "from": "13:30:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.137958,
+                    55.779975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский Татарский Государственный ТЮЗ имени Габдулы Кариева",
+                "description": "Петербургская ул., 55Б, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.1323214,
+                        55.77821839
+                    ],
+                    [
+                        49.140532,
+                        55.78284558
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1314047225",
+                    "name": "Казанский Татарский Государственный ТЮЗ имени Габдулы Кариева",
+                    "address": "Россия, Республика Татарстан, Казань, Петербургская улица, 55Б",
+                    "url": "http://karievteatr.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-62-51"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-53-96"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-93-52"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.136429,
+                    55.780533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский камерный театр Сдвиг",
+                "description": "ул. Лобачевского, 11/27, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.1174992,
+                        55.79443139
+                    ],
+                    [
+                        49.1257098,
+                        55.79905665
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "154874731687",
+                    "name": "Казанский камерный театр Сдвиг",
+                    "address": "Россия, Республика Татарстан, Казань, улица Лобачевского, 11/27",
+                    "url": "https://teatr-sdvig.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (963) 122-67-12"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        },
+                        {
+                            "class": "restaurants",
+                            "name": "Ресторан"
+                        },
+                        {
+                            "class": "cafe",
+                            "name": "Кафе"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 10:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.121605,
+                    55.796744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанское театральное училище, учебный театр",
+                "description": "Профсоюзная ул., 19, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11290881,
+                        55.78876292
+                    ],
+                    [
+                        49.12111941,
+                        55.79338886
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1101167760",
+                    "name": "Казанское театральное училище, учебный театр",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район, Профсоюзная улица, 19",
+                    "url": "http://ktu.16rus.com/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-14-29"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.117014,
+                    55.791077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Артхаб",
+                "description": "ул. Лобачевского, 11/27, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11776869,
+                        55.79443139
+                    ],
+                    [
+                        49.1259793,
+                        55.79905665
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "164834318410",
+                    "name": "Артхаб",
+                    "address": "Россия, Республика Татарстан, Казань, улица Лобачевского, 11/27",
+                    "url": "https://arthab.org/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (962) 563-17-72"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cultural center",
+                            "name": "Культурный центр"
+                        },
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        },
+                        {
+                            "class": "exhibition center",
+                            "name": "Выставочный центр"
+                        },
+                        {
+                            "name": "Творческий коллектив"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.121877,
+                    55.796744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Театр-Вентилятор",
+                "description": "ул. Пушкина, 52, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12122721,
+                        55.79181995
+                    ],
+                    [
+                        49.12943781,
+                        55.79644552
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "179918060680",
+                    "name": "Театр-Вентилятор",
+                    "address": "Россия, Республика Татарстан, Казань, улица Пушкина, 52",
+                    "url": "http://teatrventilyator.timepad.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (953) 412-42-96"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        },
+                        {
+                            "class": "theater education",
+                            "name": "Театральное и цирковое образование"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 15:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "15:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.12533,
+                    55.794134
+                ]
+            }
+        }
+    ]
+}

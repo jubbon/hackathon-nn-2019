@@ -1,0 +1,602 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 57,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.05422187,
+                        55.75423321
+                    ],
+                    [
+                        49.21286435,
+                        55.85438029
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Рынок",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Продуктовый рынок",
+                "description": "ул. Мартына Межлаука, 13, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10440176,
+                        55.78408076
+                    ],
+                    [
+                        49.11261237,
+                        55.78870725
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1094913256",
+                    "name": "Продуктовый рынок",
+                    "address": "Россия, Республика Татарстан, Казань, улица Мартына Межлаука, 13",
+                    "url": "http://bazarkazan.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-80-01"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-80-30"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        },
+                        {
+                            "class": "greengrocery",
+                            "name": "Магазин овощей и фруктов"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн 7:00–17:00; вт-вс 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.108507,
+                    55.786395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ямская",
+                "description": "Ямская ул., 6, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09893102,
+                        55.78032449
+                    ],
+                    [
+                        49.10714162,
+                        55.78495143
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1065619348",
+                    "name": "Ямская",
+                    "address": "Россия, Республика Татарстан, Казань, Ямская улица, 6",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-04-35"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-49-74"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 6:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.103038,
+                    55.782639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Анис",
+                "description": "Портовая ул., 17А/1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09184332,
+                        55.767514
+                    ],
+                    [
+                        49.10005392,
+                        55.77214246
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "243759769863",
+                    "name": "Анис",
+                    "address": "Россия, Республика Татарстан, Казань, Портовая улица, 17А/1",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-12-51"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 8:00–16:30; вс 8:00–14:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "14:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.095951,
+                    55.76983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Вещевой рынок",
+                "description": "ул. Габдуллы Тукая, 2/1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10295548,
+                        55.78288608
+                    ],
+                    [
+                        49.11116608,
+                        55.78751271
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "107064793252",
+                    "name": "Вещевой рынок",
+                    "address": "Россия, Республика Татарстан, Казань, улица Габдуллы Тукая, 2/1",
+                    "Categories": [
+                        {
+                            "class": "market",
+                            "name": "Вещевой рынок"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.107059,
+                    55.785199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Торговая слобода",
+                "description": "ул. Бурхана Шахиди, 26, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10196733,
+                        55.78323537
+                    ],
+                    [
+                        49.11017793,
+                        55.78786197
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1583265745",
+                    "name": "Торговая слобода",
+                    "address": "Россия, Республика Татарстан, Казань, улица Бурхана Шахиди, 26",
+                    "Categories": [
+                        {
+                            "class": "market",
+                            "name": "Вещевой рынок"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.106071,
+                    55.78555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Овощная лавка",
+                "description": "ул. Габдуллы Тукая, 2/3, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10204818,
+                        55.7822381
+                    ],
+                    [
+                        49.11025878,
+                        55.78685469
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "230071892672",
+                    "name": "Овощная лавка",
+                    "address": "Россия, Республика Татарстан, Казань, улица Габдуллы Тукая, 2/3",
+                    "Categories": [
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.10615,
+                    55.784544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Московский",
+                "description": "ул. Шамиля Усманова, 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.07587127,
+                        55.8259825
+                    ],
+                    [
+                        49.08408187,
+                        55.83060399
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1011443902",
+                    "name": "Московский",
+                    "address": "Россия, Республика Татарстан, Казань, улица Шамиля Усманова, 1",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 564-29-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 543-66-81"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 543-67-22"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 544-14-04"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 564-29-29"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        },
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 8:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.079974,
+                    55.828295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Рынок",
+                "description": "ул. Гладилова, 20А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.06678032,
+                        55.80430873
+                    ],
+                    [
+                        49.07499092,
+                        55.80893281
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1762453525",
+                    "name": "Рынок",
+                    "address": "Россия, Республика Татарстан, Казань, улица Гладилова, 20А",
+                    "Categories": [
+                        {
+                            "class": "food market",
+                            "name": "Продуктовый рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.070888,
+                    55.806621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Магазин одежды",
+                "description": "ул. Журналистов, 100, корп. 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.19208632,
+                        55.82554762
+                    ],
+                    [
+                        49.20029692,
+                        55.83016917
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "212308139160",
+                    "name": "Магазин одежды",
+                    "address": "Россия, Республика Татарстан, Казань, улица Журналистов, 100, корп. 1",
+                    "Categories": [
+                        {
+                            "class": "market",
+                            "name": "Вещевой рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 6:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.196192,
+                    55.827858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Рынок",
+                "description": "Гвардейская ул., 53, корп. 5, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.17235033,
+                        55.76858254
+                    ],
+                    [
+                        49.18056093,
+                        55.77321088
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1694759795",
+                    "name": "Рынок",
+                    "address": "Россия, Республика Татарстан, Казань, Гвардейская улица, 53, корп. 5",
+                    "Categories": [
+                        {
+                            "class": "gastro market",
+                            "name": "Рынок"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:30–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:30:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.176458,
+                    55.770896
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,802 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 84,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.77826349,
+                        56.19094733
+                    ],
+                    [
+                        44.05480087,
+                        56.33756611
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Фитнес",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Фитнес Град",
+                "description": "просп. Ленина, 109, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87342203,
+                        56.24642563
+                    ],
+                    [
+                        43.88163263,
+                        56.25099684
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "32572804466",
+                    "name": "Фитнес Град",
+                    "address": "Россия, Нижний Новгород, проспект Ленина, 109",
+                    "url": "http://fitgrad.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 216-11-61"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        },
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивно-развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–23:00; сб,вс 9:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.877527,
+                    56.248711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Режим Звезда",
+                "description": "Молодёжный просп., 2А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85747694,
+                        56.23982292
+                    ],
+                    [
+                        43.86568754,
+                        56.24439492
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "36844079245",
+                    "name": "Режим Звезда",
+                    "address": "Россия, Нижний Новгород, Молодёжный проспект, 2А",
+                    "url": "http://www.regym.su/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 435-17-71"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–23:00; сб,вс 9:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.861583,
+                    56.24211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Талия фитнес",
+                "description": "Комсомольская ул., 17, корп. 1, микрорайон Соцгород-I, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85177263,
+                        56.25022168
+                    ],
+                    [
+                        43.85998324,
+                        56.25479243
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1009968726",
+                    "name": "Талия фитнес",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, Комсомольская улица, 17, корп. 1",
+                    "url": "http://www.taliaclub.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (920) 018-99-06"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (953) 415-89-99"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "spa",
+                            "name": "Спа-салон"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–21:00, перерыв 14:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "14:00:00"
+                                    },
+                                    {
+                                        "from": "16:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.855876,
+                    56.252509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ФизКульт",
+                "description": "Южное ш., 2Г, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.84981431,
+                        56.21887675
+                    ],
+                    [
+                        43.85802491,
+                        56.22345126
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1713686649",
+                    "name": "ФизКульт",
+                    "address": "Россия, Нижний Новгород, Южное шоссе, 2Г",
+                    "url": "https://fizkult-nn.ru/clubs/juzhnoe/?utm_medium=directory&utm_source=ysprav-juzhnoe",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 214-15-54"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        },
+                        {
+                            "class": "swimming pool",
+                            "name": "Бассейн"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–23:00; сб,вс 9:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.853921,
+                    56.221163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X-Fit",
+                "description": "Мотальный пер., 8, корп. 2, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.94208925,
+                        56.29254769
+                    ],
+                    [
+                        43.95029985,
+                        56.29710338
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1101757133",
+                    "name": "X-Fit",
+                    "address": "Россия, Нижний Новгород, микрорайон Молитовка, Мотальный переулок, 8к2",
+                    "url": "http://xfitnn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 467-80-90"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 214-48-49"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        },
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивно-развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 6:30–23:00; сб,вс 9:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:30:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.946196,
+                    56.294828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FitCurves",
+                "description": "просп. Октября, 2А, микрорайон Соцгород-I, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86044138,
+                        56.24056328
+                    ],
+                    [
+                        43.86865198,
+                        56.24513519
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1034489691",
+                    "name": "FitCurves",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, проспект Октября, 2А",
+                    "url": "http://fitcurves.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 600-80-45"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "center health",
+                            "name": "Оздоровительный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–21:00, перерыв 13:00–16:00; сб 9:00–12:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "13:00:00"
+                                    },
+                                    {
+                                        "from": "16:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "12:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.864546,
+                    56.24285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Спортивно-оздоровительный клуб викинг",
+                "description": "Школьная ул., 26А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.8518984,
+                        56.25229709
+                    ],
+                    [
+                        43.860109,
+                        56.25686759
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1229734634",
+                    "name": "Спортивно-оздоровительный клуб викинг",
+                    "address": "Россия, Нижний Новгород, Школьная улица, 26А",
+                    "url": "http://new-fijin.nichost.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 230-21-31"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (904) 785-09-68"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        },
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный клуб, секция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–22:00; сб 10:00–21:00; вс 10:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.856007,
+                    56.25458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Фитнес град",
+                "description": "Коломенская ул., 6, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.83471363,
+                        56.23119265
+                    ],
+                    [
+                        43.84292423,
+                        56.23576568
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1402754906",
+                    "name": "Фитнес град",
+                    "address": "Россия, Нижний Новгород, Коломенская улица, 6",
+                    "url": "http://sochicentr.ru/",
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "beauty",
+                            "name": "Солярий"
+                        },
+                        {
+                            "class": "spa",
+                            "name": "Спа-салон"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–23:00; сб,вс 9:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.838819,
+                    56.233479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liberty",
+                "description": "Молодёжный просп., 35, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.84196303,
+                        56.24027314
+                    ],
+                    [
+                        43.85017363,
+                        56.24484509
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1072805234",
+                    "name": "Liberty",
+                    "address": "Россия, Нижний Новгород, Молодёжный проспект, 35",
+                    "url": "http://www.liberty.nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 259-71-76"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "beauty",
+                            "name": "Косметология"
+                        },
+                        {
+                            "class": "massage",
+                            "name": "Массажный салон"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–21:00; сб 9:00–18:00; вс 10:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.846068,
+                    56.242559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "МетроFitness",
+                "description": "просп. Ленина, 100Д, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86094443,
+                        56.23827712
+                    ],
+                    [
+                        43.86915503,
+                        56.24284931
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "74807521387",
+                    "name": "МетроFitness",
+                    "address": "Россия, Нижний Новгород, проспект Ленина, 100Д",
+                    "url": "http://nizhniy-novgorod.metrofitness.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 416-93-93"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 260-15-55"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.865047,
+                    56.240565
+                ]
+            }
+        }
+    ]
+}

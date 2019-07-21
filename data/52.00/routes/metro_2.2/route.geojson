@@ -1,0 +1,176 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.949638,
+                        56.335164
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.949638,
+                    56.335164
+                ]
+            },
+            "properties": {
+                "name": "Стрелка",
+                "description": "Стрелка",
+                "StopMetaData": {
+                    "id": "M2.5",
+                    "name": "Стрелка"
+                },
+                "extra": {
+                    "route_time": 0.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.946773,
+                        56.321704
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.946773,
+                    56.321704
+                ]
+            },
+            "properties": {
+                "name": "Московская",
+                "description": "Московская",
+                "StopMetaData": {
+                    "id": "M2.4",
+                    "name": "Московская"
+                },
+                "extra": {
+                    "route_time": 4.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.926568,
+                        56.320556
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.926568,
+                    56.320556
+                ]
+            },
+            "properties": {
+                "name": "Канавинская",
+                "description": "Канавинская",
+                "StopMetaData": {
+                    "id": "M2.3",
+                    "name": "Канавинская"
+                },
+                "extra": {
+                    "route_time": 7.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.913653,
+                        56.325211
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.913653,
+                    56.325211
+                ]
+            },
+            "properties": {
+                "name": "Бурнаковская",
+                "description": "Бурнаковская",
+                "StopMetaData": {
+                    "id": "M2.2",
+                    "name": "Бурнаковская"
+                },
+                "extra": {
+                    "route_time": 9.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.894079,
+                        56.333335
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.894079,
+                    56.333335
+                ]
+            },
+            "properties": {
+                "name": "Буревестник",
+                "description": "Буревестник",
+                "StopMetaData": {
+                    "id": "M2.1",
+                    "name": "Буревестник"
+                },
+                "extra": {
+                    "route_time": 11.0
+                }
+            }
+        }
+    ],
+    "properties": {
+        "ThreadMetaData": {
+            "id": "metro_1",
+            "lineId": "1",
+            "name": "M1",
+            "type": "metro",
+            "Types": [
+                "metro"
+            ],
+            "EssentialStops": [
+                {
+                    "id": "M2.1",
+                    "name": "Буревестник"
+                },
+                {
+                    "id": "M2.5",
+                    "name": "Стрелка"
+                }
+            ]
+        }
+    }
+}

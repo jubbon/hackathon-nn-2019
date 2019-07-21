@@ -1,0 +1,710 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 24,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        48.987504,
+                        55.69698069
+                    ],
+                    [
+                        49.30480692,
+                        55.89732153
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Стадион",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казань Арена",
+                "description": "просп. Ямашева, 115А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.15689931,
+                        55.81897336
+                    ],
+                    [
+                        49.16510991,
+                        55.82359569
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1216041023",
+                    "name": "Казань Арена",
+                    "address": "Россия, Республика Татарстан, Казань, проспект Ямашева, 115А",
+                    "url": "http://kazanarena.com/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 245-20-02"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 245-34-34"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-71-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-71-20"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        },
+                        {
+                            "name": "Экскурсии"
+                        },
+                        {
+                            "name": "Организация конференций и семинаров"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.161006,
+                    55.821283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Центральный стадион",
+                "description": "ул. Ташаяк, 2А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09481674,
+                        55.79447693
+                    ],
+                    [
+                        49.10302734,
+                        55.79910219
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1222362901",
+                    "name": "Центральный стадион",
+                    "address": "Россия, Республика Татарстан, Казань, улица Ташаяк, 2А",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-58-46"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-57-02"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-18-66"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-26-06"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–18:00, перерыв 13:00–14:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "13:00:00"
+                                    },
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.098921,
+                    55.796788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Футбольно Легкоатлетический Манеж",
+                "description": "ул. Ташаяк, 2А, корп. 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09198705,
+                        55.79434536
+                    ],
+                    [
+                        49.10019765,
+                        55.79897062
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1313462880",
+                    "name": "Футбольно Легкоатлетический Манеж",
+                    "address": "Россия, Республика Татарстан, Казань, улица Ташаяк, 2Ак1",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-59-39"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный комплекс"
+                        },
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        },
+                        {
+                            "class": "sport school",
+                            "name": "Спортивная школа"
+                        },
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный клуб, секция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.09609,
+                    55.796658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Динамо",
+                "description": "ул. Горького, 10А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12546726,
+                        55.79093931
+                    ],
+                    [
+                        49.13367786,
+                        55.79556498
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1017666063",
+                    "name": "Динамо",
+                    "address": "Россия, Республика Татарстан, Казань, улица Максима Горького, 10А",
+                    "url": "http://dinamo-tatarstan.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 291-35-64"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 291-33-53"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 291-35-25"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-70-78"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный комплекс"
+                        },
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        },
+                        {
+                            "name": "Спортивное объединение"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 8:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.129575,
+                    55.79325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Электрон",
+                "description": "ул. Карима Тинчурина, 27А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        48.92907757,
+                        55.68565506
+                    ],
+                    [
+                        49.29050574,
+                        55.8597916
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1047748766",
+                    "name": "Электрон",
+                    "address": "Россия, Республика Татарстан, Казань, улица Карима Тинчурина, 27А",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-52-39"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.109795,
+                    55.772823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Трудовые резервы",
+                "description": "ул. Николая Ершова, 7А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.14955109,
+                        55.79345971
+                    ],
+                    [
+                        49.15776169,
+                        55.79808508
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1055176034",
+                    "name": "Трудовые резервы",
+                    "address": "Россия, Республика Татарстан, Казань, улица Николая Ершова, 7А",
+                    "url": "http://www.kazan-tr.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-31-63"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (919) 680-95-95"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        },
+                        {
+                            "class": "sportcenter",
+                            "name": "Спортивный клуб, секция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.153656,
+                    55.795771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Центр хоккея на траве",
+                "description": "Оренбургский тракт, 11, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.15309943,
+                        55.75614304
+                    ],
+                    [
+                        49.16131004,
+                        55.76077287
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "171205818835",
+                    "name": "Центр хоккея на траве",
+                    "address": "Россия, Республика Татарстан, Казань, Оренбургский тракт, 11",
+                    "url": "http://www.kazanfieldhockey.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 533-36-54"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 533-36-13"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.157208,
+                    55.758457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "КАИ Олимп",
+                "description": "Чистопольская ул., 67, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13538466,
+                        55.81789609
+                    ],
+                    [
+                        49.14359526,
+                        55.82251854
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1037417771",
+                    "name": "КАИ Олимп",
+                    "address": "Россия, Республика Татарстан, Казань, Чистопольская улица, 67",
+                    "url": "http://kaiolimp.ucoz.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 562-03-85"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-02-39"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 562-03-80"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "swimming pool",
+                            "name": "Бассейн"
+                        },
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 8:00–22:00; вс 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.139488,
+                    55.820205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "МАУ ШОР Тасма г. Казани",
+                "description": "ул. Гагарина, 56, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.05867752,
+                        55.83374366
+                    ],
+                    [
+                        49.06688812,
+                        55.83836423
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1084632439",
+                    "name": "МАУ ШОР Тасма г. Казани",
+                    "address": "Казань, ул. Гагарина, 56",
+                    "url": "https://edu.tatar.ru/moskow/org5721",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 560-71-36"
+                        },
+                        {
+                            "type": "phone_fax",
+                            "formatted": "+7 (843) 590-16-91"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "sport school",
+                            "name": "Спортивная школа"
+                        },
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.062783,
+                    55.836056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Стадион",
+                "description": "Россия, Республика Татарстан, Казань, Советский район",
+                "boundedBy": [
+                    [
+                        49.06301638,
+                        55.72553383
+                    ],
+                    [
+                        49.28958946,
+                        55.91666813
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1775715540",
+                    "name": "Стадион",
+                    "address": "Россия, Республика Татарстан, Казань, Советский район",
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.176307,
+                    55.821218
+                ]
+            }
+        }
+    ]
+}

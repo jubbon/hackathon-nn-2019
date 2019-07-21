@@ -1,0 +1,645 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 90,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.79330129,
+                        56.22858067
+                    ],
+                    [
+                        44.06983867,
+                        56.37505489
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Фабрика",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ариель",
+                "description": "ш. Жиркомбината, 8А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.90952532,
+                        56.31266952
+                    ],
+                    [
+                        43.91773593,
+                        56.31723279
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1055967846",
+                    "name": "Ариель",
+                    "address": "Россия, Нижний Новгород, шоссе Жиркомбината, 8А",
+                    "url": "http://www.f-ariel.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (910) 790-02-36"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 215-00-52"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 217-10-07"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 215-00-33"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 215-09-18"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "name": "Ёлки и ёлочные игрушки"
+                        },
+                        {
+                            "name": "Экскурсии"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.913635,
+                    56.314953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Фабрика грёз",
+                "description": "ул. Премудрова, 6А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.91191484,
+                        56.2907942
+                    ],
+                    [
+                        43.92012544,
+                        56.29536009
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1106366752",
+                    "name": "Фабрика грёз",
+                    "address": "Россия, Нижний Новгород, улица Премудрова, 6а",
+                    "url": "http://www.pospel.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone_fax",
+                            "formatted": "+7 (831) 249-39-87"
+                        },
+                        {
+                            "type": "phone_fax",
+                            "formatted": "+7 (831) 249-39-90"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 249-39-89"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 249-39-88"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Производство продуктов питания"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "name": "Продукты питания оптом"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.916016,
+                    56.293076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Большая одежда",
+                "description": "ул. Маршала Казакова, 3, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.92555127,
+                        56.31935447
+                    ],
+                    [
+                        43.93376187,
+                        56.32391693
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1014582639",
+                    "name": "Большая одежда",
+                    "address": "Россия, Нижний Новгород, улица Маршала Казакова, 3",
+                    "Phones": [
+                        {
+                            "type": "phone_fax",
+                            "formatted": "+7 (831) 241-33-95"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 241-84-83"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 241-84-81"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "class": "clothes shop",
+                            "name": "Магазин одежды"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–16:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.929661,
+                    56.321634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Loymina",
+                "description": "Новая ул., 24, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.99020302,
+                        56.30980347
+                    ],
+                    [
+                        43.99841362,
+                        56.31436708
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "53449553006",
+                    "name": "Loymina",
+                    "address": "Россия, Нижний Новгород, Новая улица, 24",
+                    "url": "http://www.миласса.рф/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 301-10-04"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 421-47-77"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "building materials",
+                            "name": "Стройматериалы оптом"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.994308,
+                    56.312085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ПепсиКо Холдингс",
+                "description": "Восточный пр., 11, корп. 4, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.9130557,
+                        56.24953151
+                    ],
+                    [
+                        43.9212663,
+                        56.25410235
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "85511521759",
+                    "name": "ПепсиКо Холдингс",
+                    "address": "Россия, Нижний Новгород, Восточный проезд, 11, корп. 4",
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.917157,
+                    56.251817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ПАО завод Красное Сормово",
+                "description": "Россия, Нижний Новгород, Сормовский район",
+                "boundedBy": [
+                    [
+                        43.74121697,
+                        56.30711199
+                    ],
+                    [
+                        43.99642834,
+                        56.42004039
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "218683865930",
+                    "name": "ПАО завод Красное Сормово",
+                    "address": "Россия, Нижний Новгород, Сормовский район",
+                    "url": "http://krsormovo.nnov.ru/",
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.868822,
+                    56.363617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Градирня",
+                "description": "Россия, Нижний Новгород, Автозаводский район",
+                "boundedBy": [
+                    [
+                        43.78547697,
+                        56.19114268
+                    ],
+                    [
+                        44.01894911,
+                        56.28889075
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "190822912341",
+                    "name": "Градирня",
+                    "address": "Россия, Нижний Новгород, Автозаводский район",
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.902217,
+                    56.24005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Колёсный цех ГАЗ",
+                "description": "Россия, Нижний Новгород, Автозаводский район",
+                "boundedBy": [
+                    [
+                        43.77873062,
+                        56.20225575
+                    ],
+                    [
+                        44.01220276,
+                        56.29999536
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "162606326316",
+                    "name": "Колёсный цех ГАЗ",
+                    "address": "Россия, Нижний Новгород, Автозаводский район",
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.895467,
+                    56.251159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Евросид",
+                "description": "Памирская ул., 11, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.94064297,
+                        56.2689163
+                    ],
+                    [
+                        43.94885357,
+                        56.27348481
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1055830541",
+                    "name": "Евросид",
+                    "address": "Россия, Нижний Новгород, Памирская улица, 11",
+                    "url": "http://evrosid.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 280-98-95"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (930) 070-26-65"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (930) 070-24-36"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (930) 070-26-27"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "name": "Автокресла"
+                        },
+                        {
+                            "name": "Теплоизоляционные материалы"
+                        },
+                        {
+                            "name": "Автоателье"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.944751,
+                    56.2712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "НижТекстиль",
+                "description": "Донбасская ул., 2А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.89813469,
+                        56.28783158
+                    ],
+                    [
+                        43.90634529,
+                        56.29239782
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1060272715",
+                    "name": "НижТекстиль",
+                    "address": "Россия, Нижний Новгород, Донбасская улица, 2А",
+                    "url": "https://nizhtextilnn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 550-78-54"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 269-67-61"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 269-67-69"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Спецодежда"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "name": "Одежда оптом"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 9:00–17:00; пт 9:00–16:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "16:30:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.902239,
+                    56.290115
+                ]
+            }
+        }
+    ]
+}

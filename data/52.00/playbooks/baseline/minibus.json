@@ -1,0 +1,458 @@
+{
+    "23243_t40_minibus_dtvnn": {
+        "route_ref": "т40",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 5
+            }
+        ]
+    },
+    "2081628300": {
+        "route_ref": "т63",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t198_minibus_dtvnn": {
+        "route_ref": "т98",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 5
+            }
+        ]
+    },
+    "23243_t83_minibus_dtvnn": {
+        "route_ref": "т83",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 4
+            }
+        ]
+    },
+    "2007385008": {
+        "route_ref": "т75",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 3
+            }
+        ]
+    },
+    "2007385057": {
+        "route_ref": "т67",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "2007384927": {
+        "route_ref": "т34",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t59_minibus_dtvnn": {
+        "route_ref": "т59",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "1704938784": {
+        "route_ref": "т49",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "2007385062": {
+        "route_ref": "т70",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "23243_t47_minibus_dtvnn": {
+        "route_ref": "т47",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385030": {
+        "route_ref": "т50",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "23243_t37_minibus_dtvnn": {
+        "route_ref": "т37",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "2007385504": {
+        "route_ref": "т87",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t97_minibus_dtvnn": {
+        "route_ref": "т97",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 4
+            }
+        ]
+    },
+    "t171_minibus_default": {
+        "route_ref": "т71",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "2007385498": {
+        "route_ref": "т13",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007384899": {
+        "route_ref": "т44",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385449": {
+        "route_ref": "т81",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2011521409": {
+        "route_ref": "т86",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t4_minibus_dtvnn": {
+        "route_ref": "т4",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "2007384995": {
+        "route_ref": "т89",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t78_minibus_dtvnn": {
+        "route_ref": "т78",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385467": {
+        "route_ref": "т14",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385441": {
+        "route_ref": "т39",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t57_minibus_dtvnn": {
+        "route_ref": "т57",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "t31_minibus_default": {
+        "route_ref": "т31",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t45k_minibus_dtvnn": {
+        "route_ref": "т45",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 2
+            }
+        ]
+    },
+    "t24_minibus_default": {
+        "route_ref": "т24",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t76_minibus_dtvnn": {
+        "route_ref": "т76",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2067447954": {
+        "route_ref": "т91",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385453": {
+        "route_ref": "т18",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t46_minibus_dtvnn": {
+        "route_ref": "т46",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2067321354": {
+        "route_ref": "т74",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "23243_t65_minibus_dtvnn": {
+        "route_ref": "т65",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385454": {
+        "route_ref": "т29",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2136135188": {
+        "route_ref": "т94",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    },
+    "2007385436": {
+        "route_ref": "т92",
+        "route_type": "minibus",
+        "intervals": [
+            {
+                "from": "05:00",
+                "until": "23:00",
+                "value": 12.0,
+                "vehicles_count": 1
+            }
+        ]
+    }
+}

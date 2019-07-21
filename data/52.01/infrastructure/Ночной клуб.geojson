@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 1,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        42.69954853,
+                        54.69303579
+                    ],
+                    [
+                        43.52822642,
+                        55.16440743
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Ночной клуб",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Велоклуб",
+                "description": "ул. Силкина, 25, Старый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.34857234,
+                        54.92075966
+                    ],
+                    [
+                        43.35678295,
+                        54.92548859
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "151083487026",
+                    "name": "Велоклуб",
+                    "address": "Россия, Нижегородская область, Саров, Старый район, улица Силкина, 25",
+                    "url": "http://sarov.info/forum/viewforum.php?f=74",
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.352675,
+                    54.923125
+                ]
+            }
+        }
+    ]
+}

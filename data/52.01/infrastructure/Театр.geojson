@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 2,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.29901229,
+                        54.9254472
+                    ],
+                    [
+                        43.35079118,
+                        54.95488441
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Театр",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "МБУК Театр драмы",
+                "description": "просп. Музрукова, 26, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.32467716,
+                        54.93206884
+                    ],
+                    [
+                        43.33286979,
+                        54.93678609
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1009399696",
+                    "name": "МБУК Театр драмы",
+                    "address": "Россия, Нижегородская область, Саров, проспект Музрукова, 26",
+                    "url": "http://teatrsarov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-60-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 5-74-25"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 5-84-89"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-00-70"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-65-40"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-63-30"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-62-63"
+                        },
+                        {
+                            "type": "fax",
+                            "formatted": "+7 (83130) 3-48-97"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт 14:00–18:00; ср-вс 11:00–18:00, перерыв 13:00–14:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Tuesday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "13:00:00"
+                                    },
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.328769,
+                    54.93443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Саровский драматический театр, подразделение театр кукол Кузнечик",
+                "description": "ул. Курчатова, 30, корп. 1, Новый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.3169247,
+                        54.94354548
+                    ],
+                    [
+                        43.3251353,
+                        54.94827172
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1098191892",
+                    "name": "Саровский драматический театр, подразделение театр кукол Кузнечик",
+                    "address": "Россия, Нижегородская область, Саров, Новый район, улица Курчатова, 30, корп. 1",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 5-74-20"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-60-09"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theatre",
+                            "name": "Театр"
+                        },
+                        {
+                            "name": "Театрально-концертная касса"
+                        },
+                        {
+                            "name": "Творческий коллектив"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "вт-вс 9:00–17:00, перерыв 13:00–14:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "13:00:00"
+                                    },
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.321031,
+                    54.945908
+                ]
+            }
+        }
+    ]
+}

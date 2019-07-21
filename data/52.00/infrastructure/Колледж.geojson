@@ -1,0 +1,759 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 30,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.77113985,
+                        56.21808091
+                    ],
+                    [
+                        44.04767723,
+                        56.36459547
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Колледж",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГБПОУ Нижегородский индустриальный колледж",
+                "description": "ул. Юлиуса Фучика, 12А, корп. 2, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87290101,
+                        56.23276876
+                    ],
+                    [
+                        43.88111161,
+                        56.2373416
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1062859321",
+                    "name": "ГБПОУ Нижегородский индустриальный колледж",
+                    "address": "Россия, Нижний Новгород, улица Юлиуса Фучика, 12А, корп. 2",
+                    "url": "http://www.nik.nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-54-66"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 256-47-84"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.877006,
+                    56.235054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский индустриальный колледж Учебный корпус № 2",
+                "description": "ул. Бурденко, 31, микрорайон Северный, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.88401317,
+                        56.26566702
+                    ],
+                    [
+                        43.89222377,
+                        56.27023592
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1130575794",
+                    "name": "Нижегородский индустриальный колледж Учебный корпус № 2",
+                    "address": "Россия, Нижний Новгород, микрорайон Северный, улица Бурденко, 31",
+                    "url": "http://www.nik.nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 253-96-33"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 253-92-75"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00; сб 8:00–16:25",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:25:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.888121,
+                    56.267954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский технологический колледж",
+                "description": "Россия, Нижний Новгород, Автозаводский район",
+                "boundedBy": [
+                    [
+                        43.71076408,
+                        56.19108257
+                    ],
+                    [
+                        43.94423623,
+                        56.2888308
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "95744025710",
+                    "name": "Нижегородский технологический колледж",
+                    "address": "Россия, Нижний Новгород, Автозаводский район",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-32-78"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 294-66-12"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-45-08"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.827504,
+                    56.23999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский Губернский колледж",
+                "description": "Витебская ул., 41, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.93430984,
+                        56.30666755
+                    ],
+                    [
+                        43.94252044,
+                        56.31123153
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1084204574",
+                    "name": "Нижегородский Губернский колледж",
+                    "address": "Россия, Нижний Новгород, Витебская улица, 41",
+                    "url": "http://ngknn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 245-43-33"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 245-38-53"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 245-51-47"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 241-07-81"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 245-40-47"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–16:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.938417,
+                    56.30895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГБПОУ Нижегородский Губернский колледж",
+                "description": "Московское ш., 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.9438769,
+                        56.32338784
+                    ],
+                    [
+                        43.9520875,
+                        56.32794981
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1269470559",
+                    "name": "ГБПОУ Нижегородский Губернский колледж",
+                    "address": "Россия, Нижний Новгород, Московское шоссе, 1",
+                    "url": "http://ngknn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 241-07-81"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 241-07-18"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 241-08-70"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 249-77-99"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        },
+                        {
+                            "class": "university",
+                            "name": "Училище"
+                        },
+                        {
+                            "class": "school",
+                            "name": "Техникум"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.947978,
+                    56.325669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский индустриальный колледж, Корпус № 3",
+                "description": "ул. Спутника, 2А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.82687133,
+                        56.23701142
+                    ],
+                    [
+                        43.83508194,
+                        56.24158375
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1098445464",
+                    "name": "Нижегородский индустриальный колледж, Корпус № 3",
+                    "address": "Россия, Нижний Новгород, улица Спутника, 2А",
+                    "url": "http://www.nik.nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 293-44-37"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–16:30; пт 8:00–15:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "15:30:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.830973,
+                    56.239298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Нижегородский радиотехнический колледж",
+                "description": "Студенческая ул., 6, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.98436397,
+                        56.30030502
+                    ],
+                    [
+                        43.99257457,
+                        56.30486977
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1033480666",
+                    "name": "Нижегородский радиотехнический колледж",
+                    "address": "Россия, Нижний Новгород, Студенческая улица, 6",
+                    "url": "http://www.nntc.nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 433-86-05"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 433-95-35"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 433-36-21"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 434-08-64"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 433-34-01"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–16:50, перерыв 12:30–13:10; сб 8:00–14:00, перерыв 12:30–13:10",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:10:00",
+                                        "to": "16:50:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:10:00",
+                                        "to": "14:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.988468,
+                    56.302586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГБПОУ Но Нижегородский медицинский колледж",
+                "description": "ул. Июльских Дней, 8, корп. 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.93751683,
+                        56.30200313
+                    ],
+                    [
+                        43.94572743,
+                        56.30656767
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1192672762",
+                    "name": "ГБПОУ Но Нижегородский медицинский колледж",
+                    "address": "Россия, Нижний Новгород, улица Июльских Дней, 8, корп. 1",
+                    "url": "http://nmbc.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 282-19-79"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 282-19-64"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        },
+                        {
+                            "class": "further education",
+                            "name": "Дополнительное образование"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–16:45, перерыв 12:30–13:00; пт 8:00–15:45, перерыв 12:30–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "16:45:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "15:45:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.941625,
+                    56.304283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГБПОУ Но Нижегородский медицинский колледж, Учебный корпус № 3",
+                "description": "ул. Павла Мочалова, 9, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85922865,
+                        56.3453841
+                    ],
+                    [
+                        43.86743925,
+                        56.34994344
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1057736401",
+                    "name": "ГБПОУ Но Нижегородский медицинский колледж, Учебный корпус № 3",
+                    "address": "Россия, Нижний Новгород, улица Павла Мочалова, 9",
+                    "url": "http://nmbc.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 282-19-61"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 282-19-60"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        },
+                        {
+                            "class": "further education",
+                            "name": "Дополнительное образование"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–16:45, перерыв 12:30–13:00; пт 8:00–15:30, перерыв 12:30–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "16:45:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "15:30:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.863337,
+                    56.347666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Анпоо Нижегородский колледж безопасности",
+                "description": "ул. Костина, 2Б, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.98720265,
+                        56.31063735
+                    ],
+                    [
+                        43.99541325,
+                        56.31520086
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1025072375",
+                    "name": "Анпоо Нижегородский колледж безопасности",
+                    "address": "Нижний Новгород, ул. Костина, 2Б",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 437-02-05"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "college",
+                            "name": "Колледж"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–17:00; пт 8:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.99131,
+                    56.312918
+                ]
+            }
+        }
+    ]
+}

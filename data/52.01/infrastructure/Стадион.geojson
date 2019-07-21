@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 3,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.31597248,
+                        54.91991626
+                    ],
+                    [
+                        43.34186193,
+                        54.9346396
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Стадион",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Стадион Юниор",
+                "description": "Россия, Нижегородская область, Саров, Заречный район",
+                "boundedBy": [
+                    [
+                        43.31784996,
+                        54.9244849
+                    ],
+                    [
+                        43.33489999,
+                        54.93259645
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "209055452227",
+                    "name": "Стадион Юниор",
+                    "address": "Россия, Нижегородская область, Саров, Заречный район",
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.326379,
+                    54.928541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Стадион Авангард",
+                "description": "Россия, Нижегородская область, Саров, Старый район",
+                "boundedBy": [
+                    [
+                        43.32292544,
+                        54.91390845
+                    ],
+                    [
+                        43.34895862,
+                        54.94674635
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "202622122381",
+                    "name": "Стадион Авангард",
+                    "address": "Россия, Нижегородская область, Саров, Старый район",
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.335945,
+                    54.93033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Стадион Старт",
+                "description": "Россия, Нижегородская область, Саров",
+                "boundedBy": [
+                    [
+                        43.19664926,
+                        54.85653277
+                    ],
+                    [
+                        43.44711753,
+                        54.99180544
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "199156016661",
+                    "name": "Стадион Старт",
+                    "address": "Россия, Нижегородская область, Саров",
+                    "Categories": [
+                        {
+                            "class": "stadium",
+                            "name": "Стадион"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.321883,
+                    54.924224
+                ]
+            }
+        }
+    ]
+}

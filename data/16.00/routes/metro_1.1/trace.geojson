@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.084632,
+                    55.855826
+                ]
+            },
+            "properties": {
+                "name": "Авиастроительная",
+                "description": "Авиастроительная",
+                "h3_address_7": "8710a812dffffff",
+                "h3_address_8": "8810a812d5fffff",
+                "h3_address_9": "8910a812d53ffff",
+                "h3_address_10": "8a10a812d537fff",
+                "stop_id": "M1.1",
+                "route_time": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.082268,
+                    55.842509
+                ]
+            },
+            "properties": {
+                "name": "Северный вокзал",
+                "description": "Северный вокзал",
+                "h3_address_7": "8710a812cffffff",
+                "h3_address_8": "8810a812c7fffff",
+                "h3_address_9": "8910a812c6fffff",
+                "h3_address_10": "8a10a812c6c7fff",
+                "stop_id": "M1.2",
+                "route_time": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.082663,
+                    55.828051
+                ]
+            },
+            "properties": {
+                "name": "Яшьлек",
+                "description": "Яшьлек",
+                "h3_address_7": "8710a812effffff",
+                "h3_address_8": "8810a812e3fffff",
+                "h3_address_9": "8910a812e3bffff",
+                "h3_address_10": "8a10a812e3a7fff",
+                "stop_id": "M1.3",
+                "route_time": 4.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.09881,
+                    55.816789
+                ]
+            },
+            "properties": {
+                "name": "Козья слобода",
+                "description": "Козья слобода",
+                "h3_address_7": "8710a812affffff",
+                "h3_address_8": "8810a812adfffff",
+                "h3_address_9": "8910a812ac3ffff",
+                "h3_address_10": "8a10a812ac07fff",
+                "stop_id": "M1.4",
+                "route_time": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.107035,
+                    55.795308
+                ]
+            },
+            "properties": {
+                "name": "Кремлёвская",
+                "description": "Кремлёвская",
+                "h3_address_7": "8710a8101ffffff",
+                "h3_address_8": "8810a8101dfffff",
+                "h3_address_9": "8910a8101c3ffff",
+                "h3_address_10": "8a10a8101c2ffff",
+                "stop_id": "M1.5",
+                "route_time": 9.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.123991,
+                    55.786317
+                ]
+            },
+            "properties": {
+                "name": "Площадь Габдуллы Тукая",
+                "description": "Площадь Габдуллы Тукая",
+                "h3_address_7": "8710a8103ffffff",
+                "h3_address_8": "8810a81015fffff",
+                "h3_address_9": "8910a81014bffff",
+                "h3_address_10": "8a10a8103b27fff",
+                "stop_id": "M1.6",
+                "route_time": 11.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.142653,
+                    55.776879
+                ]
+            },
+            "properties": {
+                "name": "Суконная слобода",
+                "description": "Суконная слобода",
+                "h3_address_7": "8710a8103ffffff",
+                "h3_address_8": "8810a81033fffff",
+                "h3_address_9": "8910a81032bffff",
+                "h3_address_10": "8a10a810339ffff",
+                "stop_id": "M1.7",
+                "route_time": 13.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.166875,
+                    55.764936
+                ]
+            },
+            "properties": {
+                "name": "Аметьево",
+                "description": "Аметьево",
+                "h3_address_7": "8710a811dffffff",
+                "h3_address_8": "8810a811d5fffff",
+                "h3_address_9": "8910a811d57ffff",
+                "h3_address_10": "8a10a811d54ffff",
+                "stop_id": "M1.8",
+                "route_time": 16.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.190873,
+                    55.760352
+                ]
+            },
+            "properties": {
+                "name": "Горки",
+                "description": "Горки",
+                "h3_address_7": "8710a8119ffffff",
+                "h3_address_8": "8810a8119dfffff",
+                "h3_address_9": "8910a8119c3ffff",
+                "h3_address_10": "8a10a8119c37fff",
+                "stop_id": "M1.9",
+                "route_time": 18.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.208762,
+                    55.75009
+                ]
+            },
+            "properties": {
+                "name": "Проспект Победы",
+                "description": "Проспект Победы",
+                "h3_address_7": "8710a811bffffff",
+                "h3_address_8": "8810a811b9fffff",
+                "h3_address_9": "8910a811b87ffff",
+                "h3_address_10": "8a10a811b84ffff",
+                "stop_id": "M1.10",
+                "route_time": 20.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.219437,
+                    55.743829
+                ]
+            },
+            "properties": {
+                "name": "Дубравная",
+                "description": "Дубравная",
+                "h3_address_7": "8710a811bffffff",
+                "h3_address_8": "8810a811b1fffff",
+                "h3_address_9": "8910a811b07ffff",
+                "h3_address_10": "8a10a811b057fff",
+                "stop_id": "M1.11",
+                "route_time": 22.0
+            }
+        }
+    ]
+}

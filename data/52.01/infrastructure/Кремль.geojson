@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 0,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        37.61245196,
+                        55.74780392
+                    ],
+                    [
+                        37.62536974,
+                        55.75499817
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Кремль",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": []
+}

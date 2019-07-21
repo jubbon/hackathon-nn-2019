@@ -1,0 +1,327 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 6,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.58372434,
+                        56.10848719
+                    ],
+                    [
+                        44.13679909,
+                        56.40181349
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Вокзал",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Московский вокзал",
+                "description": "площадь Революции, 2А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.94530522,
+                        56.32115157
+                    ],
+                    [
+                        43.94735338,
+                        56.32228968
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1023567998",
+                    "name": "Московский вокзал",
+                    "address": "Россия, Нижний Новгород, площадь Революции, 2А",
+                    "url": "http://rzd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        },
+                        {
+                            "class": "travel",
+                            "name": "Железнодорожные и авиабилеты"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.946327,
+                    56.321721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал",
+                "description": "ул. Октябрьской Революции, 23А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.92952182,
+                        56.30576867
+                    ],
+                    [
+                        43.93773242,
+                        56.31033276
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "195183407772",
+                    "name": "Железнодорожный вокзал",
+                    "address": "Россия, Нижний Новгород, улица Октябрьской Революции, 23А",
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.933627,
+                    56.308051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал",
+                "description": "ул. Крупской, 15, Бор, Россия",
+                "boundedBy": [
+                    [
+                        44.06786238,
+                        56.35561442
+                    ],
+                    [
+                        44.07607298,
+                        56.36017253
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "177017590786",
+                    "name": "Железнодорожный вокзал",
+                    "address": "Россия, Нижегородская область, Бор, улица Крупской, 15",
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 5:20–21:45",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "05:20:00",
+                                        "to": "21:45:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.071964,
+                    56.357893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Пригородный вокзал",
+                "description": "Московское ш., 2Г, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.93988838,
+                        56.31998846
+                    ],
+                    [
+                        43.94808102,
+                        56.32455084
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1777049674",
+                    "name": "Пригородный вокзал",
+                    "address": "Россия, Нижний Новгород, Московское шоссе, 2Г",
+                    "url": "http://rzd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 4:00–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "04:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.943989,
+                    56.322269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "РЖД",
+                "description": "площадь Революции, 2, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.9430235,
+                        56.32009329
+                    ],
+                    [
+                        43.9512341,
+                        56.32465566
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "94086845640",
+                    "name": "РЖД",
+                    "address": "Россия, Нижний Новгород, площадь Революции, 2",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 248-28-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.947129,
+                    56.322375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал",
+                "description": "Россия, Нижегородская область, Богородский район, посёлок Кудьма",
+                "boundedBy": [
+                    [
+                        43.84318474,
+                        56.15823024
+                    ],
+                    [
+                        43.90022776,
+                        56.17382809
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "161268408940",
+                    "name": "Железнодорожный вокзал",
+                    "address": "Россия, Нижегородская область, Богородский район, посёлок Кудьма",
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.871702,
+                    56.166031
+                ]
+            }
+        }
+    ]
+}

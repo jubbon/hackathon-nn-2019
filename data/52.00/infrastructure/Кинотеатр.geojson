@@ -1,0 +1,572 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 21,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.83010527,
+                        56.22093885
+                    ],
+                    [
+                        44.10664265,
+                        56.36744243
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Кинотеатр",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LP Fashion Gallery",
+                "description": "Алексеевская ул., 10/16, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.00102772,
+                        56.32035786
+                    ],
+                    [
+                        44.00923832,
+                        56.3249202
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1193626535",
+                    "name": "LP Fashion Gallery",
+                    "address": "Россия, Нижний Новгород, Алексеевская улица, 10/16",
+                    "url": "http://lplaza.ru/galereya/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 299-99-79"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        },
+                        {
+                            "class": "restaurants",
+                            "name": "Ресторан"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.005136,
+                    56.322637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Мир",
+                "description": "ул. Героя Юрия Смирнова, 14, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85562641,
+                        56.23865232
+                    ],
+                    [
+                        43.86383701,
+                        56.24322446
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1073538134",
+                    "name": "Мир",
+                    "address": "Россия, Нижний Новгород, улица Героя Юрия Смирнова, 14",
+                    "url": "http://империягрез.рф/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-70-17"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 9:00–0:00; пт,сб 9:00–1:30; вс 9:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "01:30:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.859734,
+                    56.240936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Синема Парк",
+                "description": "ул. Бетанкура, 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.9548633,
+                        56.33760104
+                    ],
+                    [
+                        43.9630739,
+                        56.34216131
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1092445951",
+                    "name": "Синема Парк",
+                    "address": "Россия, Нижний Новгород, улица Бетанкура, 1",
+                    "url": "https://kinoteatr.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 700-01-11"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.958971,
+                    56.339879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Россия",
+                "description": "просп. Ленина, 32, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.92701552,
+                        56.28388438
+                    ],
+                    [
+                        43.93522612,
+                        56.2884511
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1075160599",
+                    "name": "Россия",
+                    "address": "Россия, Нижний Новгород, проспект Ленина, 32",
+                    "url": "http://кинотеатр-россия.рф/",
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.931118,
+                    56.286168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Электрон",
+                "description": "просп. Гагарина, 98, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.97472505,
+                        56.27218529
+                    ],
+                    [
+                        43.98293565,
+                        56.27675341
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1068376234",
+                    "name": "Электрон",
+                    "address": "Россия, Нижний Новгород, проспект Гагарина, 98",
+                    "url": "http://империягрез.рф/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 700-27-52"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.97883,
+                    56.274469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Синема",
+                "description": "Московское ш., 12, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.92123037,
+                        56.3149662
+                    ],
+                    [
+                        43.92944097,
+                        56.31952919
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1171132756",
+                    "name": "Синема",
+                    "address": "Россия, Нижний Новгород, Московское шоссе, 12",
+                    "url": "https://cinema-nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 211-27-27"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 211-27-57"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.92534,
+                    56.317248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Небо",
+                "description": "Большая Покровская ул., 82, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.98329497,
+                        56.30679738
+                    ],
+                    [
+                        43.99150558,
+                        56.31136135
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "145526496519",
+                    "name": "Небо",
+                    "address": "Россия, Нижний Новгород, Большая Покровская улица, 82",
+                    "url": "http://империягрез.рф/",
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–3:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "03:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.987399,
+                    56.309079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Империя грёз",
+                "description": "ул. Коминтерна, 105, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86720569,
+                        56.34522447
+                    ],
+                    [
+                        43.87541629,
+                        56.34978383
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1104164392",
+                    "name": "Империя грёз",
+                    "address": "Россия, Нижний Новгород, улица Коминтерна, 105",
+                    "url": "http://империягрез.рф/",
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–1:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "01:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.871312,
+                    56.347505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Синема Парк",
+                "description": "ул. Родионова, 187В, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.07289294,
+                        56.30404576
+                    ],
+                    [
+                        44.08110354,
+                        56.30861006
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "149069029284",
+                    "name": "Синема Парк",
+                    "address": "Россия, Нижний Новгород, улица Родионова, 187В",
+                    "url": "https://kinoteatr.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 700-01-11"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.077,
+                    56.30633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Арлекино",
+                "description": "Советская площадь, 5, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.03704118,
+                        56.29435604
+                    ],
+                    [
+                        44.04525178,
+                        56.2989215
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1708602987",
+                    "name": "Арлекино",
+                    "address": "Россия, Нижний Новгород, Советская площадь, 5",
+                    "url": "http://www.arlekino52.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 202-98-98"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.041143,
+                    56.296641
+                ]
+            }
+        }
+    ]
+}

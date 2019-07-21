@@ -1,0 +1,772 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 84,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.04893978,
+                        55.73876869
+                    ],
+                    [
+                        49.20758226,
+                        55.83895567
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Поликлиника",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская поликлиника № 7",
+                "description": "ул. Фатыха Карима, 14/67, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11272016,
+                        55.77642609
+                    ],
+                    [
+                        49.12093076,
+                        55.7810535
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1186696287",
+                    "name": "Городская поликлиника № 7",
+                    "address": "Россия, Республика Татарстан, Казань, улица Фатыха Карима, 14/67",
+                    "url": "https://zdrav.tatar.ru/kgp7/about",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-38-78"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 528-08-46"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-21-02"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-84-09"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        },
+                        {
+                            "class": "emergency",
+                            "name": "Травмпункт"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:30–20:00; сб 8:00–18:00; вс 9:00–15:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:30:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "15:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.116828,
+                    55.778741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Поликлиника Казанского научного центра РАН",
+                "description": "ул. Муштари, 33, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13137817,
+                        55.79355081
+                    ],
+                    [
+                        49.13958877,
+                        55.79817617
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1056069075",
+                    "name": "Поликлиника Казанского научного центра РАН",
+                    "address": "Россия, Республика Татарстан, Казань, улица Муштари, 33",
+                    "url": "http://clinicran.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-89-86"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 264-49-88"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-89-73"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-89-63"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        },
+                        {
+                            "name": "Медицинская помощь на дому"
+                        },
+                        {
+                            "class": "dental",
+                            "name": "Стоматологическая поликлиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.135479,
+                    55.795866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Республиканская клиническая офтальмологическая больница Министерства здравоохранения Республики Татарстан",
+                "description": "ул. Бутлерова, 40/11, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13222259,
+                        55.78690025
+                    ],
+                    [
+                        49.14043319,
+                        55.7915264
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "106549493653",
+                    "name": "Республиканская клиническая офтальмологическая больница Министерства здравоохранения Республики Татарстан",
+                    "address": "Россия, Республика Татарстан, Казань, улица Бутлерова, 40/11",
+                    "url": "http://www.rkob.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 528-02-02"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 528-01-01"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–18:30; сб 8:00–16:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:30:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.136328,
+                    55.789211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская поликлиника № 10",
+                "description": "ул. Бондаренко, 4А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10132953,
+                        55.82370694
+                    ],
+                    [
+                        49.10954013,
+                        55.82832871
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1032236061",
+                    "name": "Городская поликлиника № 10",
+                    "address": "Россия, Республика Татарстан, Казань, улица Бондаренко, 4А",
+                    "url": "http://poliklinika10.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 523-88-61"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 523-88-02"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–20:00; сб 8:00–18:00; вс 9:00–15:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "15:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.105435,
+                    55.826017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Поликлиника МКДЦ",
+                "description": "ул. Карбышева, 12А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.16696942,
+                        55.75085404
+                    ],
+                    [
+                        49.17518002,
+                        55.75548449
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1325440437",
+                    "name": "Поликлиника МКДЦ",
+                    "address": "Россия, Республика Татарстан, Казань, улица Карбышева, 12А",
+                    "url": "http://www.icdc.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 291-11-23"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.171075,
+                    55.753169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Центральная городская клиническая больница № 18, поликлиническое отделение № 1, поликлиника Горки",
+                "description": "ул. Хусаина Мавлютова, 2, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.18311215,
+                        55.75636087
+                    ],
+                    [
+                        49.19132275,
+                        55.76099067
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "21265848106",
+                    "name": "Центральная городская клиническая больница № 18, поликлиническое отделение № 1, поликлиника Горки",
+                    "address": "Россия, Республика Татарстан, Казань, улица Хусаина Мавлютова, 2",
+                    "url": "https://zdrav.tatar.ru/pol1/about",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 528-20-05"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 295-61-71"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–20:00; сб 8:00–18:00; вс 9:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.187217,
+                    55.758676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Будь Здоров",
+                "description": "ул. Нариманова, 65, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10557856,
+                        55.77823358
+                    ],
+                    [
+                        49.11378916,
+                        55.78286077
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1236199162",
+                    "name": "Будь Здоров",
+                    "address": "Россия, Республика Татарстан, Казань, улица Нариманова, 65",
+                    "url": "https://klinikabudzdorov.ru/kazan/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-11-11"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Медцентр, клиника"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Детская поликлиника"
+                        },
+                        {
+                            "class": "dental",
+                            "name": "Стоматологическая клиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.109683,
+                    55.780545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГАУЗ Студенческая городская поликлиника № 21",
+                "description": "Оренбургский тракт, 95, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.17435357,
+                        55.74030427
+                    ],
+                    [
+                        49.18256418,
+                        55.74493598
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1040999970",
+                    "name": "ГАУЗ Студенческая городская поликлиника № 21",
+                    "address": "Россия, Республика Татарстан, Казань, Оренбургский тракт, 95",
+                    "url": "http://studpolik.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-99-56"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-55-14"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        },
+                        {
+                            "class": "private practitioners",
+                            "name": "Частнопрактикующие врачи"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–20:00; сб 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.178462,
+                    55.74262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Поликлиника ГБ № 16",
+                "description": "ул. Восстания, 50, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.07279005,
+                        55.83264658
+                    ],
+                    [
+                        49.08100065,
+                        55.83726728
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1292308905",
+                    "name": "Поликлиника ГБ № 16",
+                    "address": "Россия, Республика Татарстан, Казань, улица Восстания, 50",
+                    "url": "http://www.pol11.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 564-18-81"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 564-48-75"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 564-58-13"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.076898,
+                    55.834958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Поликлиническое отделение при 2 Клинической больницы",
+                "description": "ул. Гладилова, 28/5, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.06518132,
+                        55.80577089
+                    ],
+                    [
+                        49.07339192,
+                        55.8103948
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "223351668113",
+                    "name": "Поликлиническое отделение при 2 Клинической больницы",
+                    "address": "Россия, Республика Татарстан, Казань, улица Гладилова, 28/5",
+                    "url": "http://zdrav.tatar.ru/pol17kaz/about",
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.069289,
+                    55.808082
+                ]
+            }
+        }
+    ]
+}

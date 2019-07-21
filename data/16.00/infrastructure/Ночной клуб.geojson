@@ -1,0 +1,714 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 48,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.09712541,
+                        55.77373242
+                    ],
+                    [
+                        49.13677705,
+                        55.79877834
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Ночной клуб",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zажигалка",
+                "description": "Московская ул., 11, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09971256,
+                        55.79076216
+                    ],
+                    [
+                        49.10792316,
+                        55.79538786
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1051860731",
+                    "name": "Zажигалка",
+                    "address": "Россия, Республика Татарстан, Казань, Московская улица, 11",
+                    "url": "http://russtriptease.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 333-88-68"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (952) 893-88-68"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 22:00–6:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "22:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.103818,
+                    55.793075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ночной клуб Bash",
+                "description": "ул. Пушкина, 29А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12001448,
+                        55.79035726
+                    ],
+                    [
+                        49.12822508,
+                        55.79498301
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1007872117",
+                    "name": "Ночной клуб Bash",
+                    "address": "Россия, Республика Татарстан, Казань, улица Пушкина, 29А",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 211-06-11"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "karaoke",
+                            "name": "Караоке-клуб"
+                        },
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пт,сб 23:00–6:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "23:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.12412,
+                    55.79267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Арена",
+                "description": "ул. Пушкина, 17, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11963719,
+                        55.78683951
+                    ],
+                    [
+                        49.12784779,
+                        55.79146567
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "52225563777",
+                    "name": "Арена",
+                    "address": "Россия, Республика Татарстан, Казань, улица Пушкина, 17",
+                    "Categories": [
+                        {
+                            "class": "office",
+                            "name": "Бизнес-центр"
+                        },
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.123743,
+                    55.789155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Руки Вверх",
+                "description": "ул. Баумана, 82, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11646614,
+                        55.78517922
+                    ],
+                    [
+                        49.12467674,
+                        55.78979546
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "131483203372",
+                    "name": "Руки Вверх",
+                    "address": "Россия, Республика Татарстан, Казань, улица Баумана, 82",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 245-45-54"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        },
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "karaoke",
+                            "name": "Караоке-клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 18:00–6:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "18:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.120567,
+                    55.787485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Тихое место",
+                "description": "ул. Бурхана Шахиди, 21/16, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10300039,
+                        55.7838479
+                    ],
+                    [
+                        49.11121099,
+                        55.78847442
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "114134558624",
+                    "name": "Тихое место",
+                    "address": "Россия, Республика Татарстан, Казань, улица Бурхана Шахиди, 21/16",
+                    "url": "http://tihoe-mesto.ru/price",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-03-54"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 21:00–4:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "21:00:00",
+                                        "to": "04:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.107106,
+                    55.786161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Максимилианс",
+                "description": "Спартаковская ул., 6, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.1259793,
+                        55.77658811
+                    ],
+                    [
+                        49.1341899,
+                        55.7812155
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1043571162",
+                    "name": "Максимилианс",
+                    "address": "Россия, Республика Татарстан, Казань, Спартаковская улица, 6",
+                    "url": "https://kazan.maximilians.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 526-55-66"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (917) 901-56-66"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "restaurants",
+                            "name": "Ресторан"
+                        },
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "concert hall",
+                            "name": "Концертный зал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 11:00–2:00; пт 11:00–5:00; сб 12:00–5:00; вс 12:00–2:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "02:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "02:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.130087,
+                    55.7789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Idol",
+                "description": "ул. Пушкина, 46, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12114636,
+                        55.79129865
+                    ],
+                    [
+                        49.12935696,
+                        55.79591416
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "52904926611",
+                    "name": "Idol",
+                    "address": "Россия, Республика Татарстан, Казань, улица Пушкина, 46",
+                    "url": "http://idolclub.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 215-60-60"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (987) 215-60-60"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пт,сб 23:00–6:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "23:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.125252,
+                    55.793609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Соль",
+                "description": "Профсоюзная ул., 22, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11180388,
+                        55.78899069
+                    ],
+                    [
+                        49.12001448,
+                        55.7936166
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1396519913",
+                    "name": "Соль",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район, Профсоюзная улица, 22",
+                    "url": "http://barsol.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 258-62-82"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        },
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "cafe",
+                            "name": "Кафе"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 11:00–3:00; пт 11:00–6:00; сб 13:00–6:00; вс 13:00–3:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "03:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "03:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.115906,
+                    55.791304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bazzar",
+                "description": "Профсоюзная ул., 26, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11247762,
+                        55.78860602
+                    ],
+                    [
+                        49.12068822,
+                        55.79323197
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "129932517561",
+                    "name": "Bazzar",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район, Профсоюзная улица, 26",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (937) 615-47-40"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пт,сб 22:00–6:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "22:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.116579,
+                    55.790918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бар Джем",
+                "description": "Профсоюзная ул., 34, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11443595,
+                        55.78768481
+                    ],
+                    [
+                        49.12264655,
+                        55.79231087
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1230596620",
+                    "name": "Бар Джем",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район, Профсоюзная улица, 34",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (917) 852-52-21"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 258-70-73"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "musicclub",
+                            "name": "Музыкальный клуб"
+                        },
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пт,сб 22:00–5:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "22:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.118541,
+                    55.789998
+                ]
+            }
+        }
+    ]
+}

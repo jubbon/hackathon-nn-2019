@@ -1,0 +1,730 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 82,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.74382209,
+                        56.21981272
+                    ],
+                    [
+                        44.02035946,
+                        56.36632062
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Поликлиника",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ЛПУ ЦМП ГАЗ",
+                "description": "просп. Ленина, 88, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87858735,
+                        56.2460255
+                    ],
+                    [
+                        43.88679795,
+                        56.25059676
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1136372549",
+                    "name": "ЛПУ ЦМП ГАЗ",
+                    "address": "Россия, Нижний Новгород, проспект Ленина, 88",
+                    "url": "http://lpu.gaz.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 290-92-92"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 290-97-20"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 290-93-40"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 290-86-81"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Женская консультация"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Медсанчасть"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:30–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:30:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.882693,
+                    56.248311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГБУЗ Но Детская городская больница № 25, детская поликлиника № 4",
+                "description": "ул. Политбойцов, 4, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.8474158,
+                        56.25825764
+                    ],
+                    [
+                        43.85562641,
+                        56.26282743
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1060540488",
+                    "name": "ГБУЗ Но Детская городская больница № 25, детская поликлиника № 4",
+                    "address": "Россия, Нижний Новгород, улица Политбойцов, 4",
+                    "url": "http://detskayabolnica25.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 297-80-68"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 297-81-66"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 297-81-49"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская поликлиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.851518,
+                    56.260544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Детская городская больница № 25, детская поликлиника № 2",
+                "description": "просп. Октября, 24, микрорайон Соцгород-I, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.8667206,
+                        56.25446239
+                    ],
+                    [
+                        43.86876876,
+                        56.25560251
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1062848523",
+                    "name": "Детская городская больница № 25, детская поликлиника № 2",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, проспект Октября, 24",
+                    "url": "http://detskayabolnica25.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 292-22-68"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская поликлиника"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Детская больница"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.867749,
+                    56.255032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская больница № 37",
+                "description": "просп. Кирова, 10А, микрорайон Соцгород-I, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.8487004,
+                        56.24805113
+                    ],
+                    [
+                        43.856911,
+                        56.25262214
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1676233923",
+                    "name": "Городская больница № 37",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, проспект Кирова, 10А",
+                    "url": "http://gb37.zdrav-nnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 282-44-98"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–19:00; сб 8:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.852807,
+                    56.250337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Детская поликлиника № 5",
+                "description": "Львовская ул., 2А, корп. 1, микрорайон Северный, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.8769075,
+                        56.26529209
+                    ],
+                    [
+                        43.8851181,
+                        56.26986103
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1022322679",
+                    "name": "Детская поликлиника № 5",
+                    "address": "Россия, Нижний Новгород, микрорайон Северный, Львовская улица, 2Ак1",
+                    "url": "http://detskayabolnica25.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 257-11-86"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 257-36-88"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская поликлиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–19:00; сб 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.881015,
+                    56.267579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Детская поликлиника № 1",
+                "description": "просп. Ленина, 100, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86129478,
+                        56.23923262
+                    ],
+                    [
+                        43.86950538,
+                        56.24380469
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1092183550",
+                    "name": "Детская поликлиника № 1",
+                    "address": "Россия, Нижний Новгород, проспект Ленина, 100",
+                    "url": "http://detskayabolnica25.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-85-49"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 295-84-49"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская поликлиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.865403,
+                    56.241521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская больница № 33, Поликлиника",
+                "description": "просп. Ленина, 54, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.92083511,
+                        56.27506917
+                    ],
+                    [
+                        43.92904571,
+                        56.27963694
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "16601241017",
+                    "name": "Городская больница № 33, Поликлиника",
+                    "address": "Россия, Нижний Новгород, проспект Ленина, 54",
+                    "url": "http://mlpu33nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 258-45-06"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 258-10-85"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 258-38-43"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–19:00; сб,вс 9:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.92494,
+                    56.277353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Медлэнд",
+                "description": "Дворовая ул., 30, микрорайон Северный, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87094268,
+                        56.26165253
+                    ],
+                    [
+                        43.87915328,
+                        56.26622192
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "14346167284",
+                    "name": "Медлэнд",
+                    "address": "Россия, Нижний Новгород, микрорайон Северный, Дворовая улица, 30",
+                    "url": "https://medland.clinic/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 281-77-35"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Детская поликлиника"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Диагностический центр"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Медцентр, клиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–20:00; сб 8:00–16:00; вс 9:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.875052,
+                    56.263938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "РЖД",
+                "description": "Таллинская ул., 8В, корп. 2, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85027245,
+                        56.28797646
+                    ],
+                    [
+                        43.85848305,
+                        56.29254269
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "131359703850",
+                    "name": "РЖД",
+                    "address": "Россия, Нижний Новгород, Таллинская улица, 8В, корп. 2",
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.85438,
+                    56.290259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская клиническая больница № 12, поликлиника № 3",
+                "description": "ул. Циолковского, 9, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.83513583,
+                        56.34254547
+                    ],
+                    [
+                        43.84334644,
+                        56.34710514
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1097269544",
+                    "name": "Городская клиническая больница № 12, поликлиника № 3",
+                    "address": "Россия, Нижний Новгород, улица Циолковского, 9",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 225-01-87"
+                        },
+                        {
+                            "type": "phone_fax",
+                            "formatted": "+7 (831) 225-49-49"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 225-13-57"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 225-00-47"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 225-00-67"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Поликлиника для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.839241,
+                    56.344825
+                ]
+            }
+        }
+    ]
+}

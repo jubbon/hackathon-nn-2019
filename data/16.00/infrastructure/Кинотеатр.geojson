@@ -1,0 +1,671 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 25,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.07544906,
+                        55.74933914
+                    ],
+                    [
+                        49.23409154,
+                        55.84949885
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Кинотеатр",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Родина",
+                "description": "ул. Мусы Джалиля, 8/44, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10762672,
+                        55.78926907
+                    ],
+                    [
+                        49.11583732,
+                        55.79389494
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1188523179",
+                    "name": "Родина",
+                    "address": "Россия, Республика Татарстан, Казань, улица Мусы Джалиля, 8/44",
+                    "url": "http://www.rodina-kazan.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-10-75"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-79-37"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-10-72"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        },
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        },
+                        {
+                            "class": "restaurants",
+                            "name": "Ресторан"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:30–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:30:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.111736,
+                    55.791584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "КАРО",
+                "description": "Петербургская ул., 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12026601,
+                        55.78406051
+                    ],
+                    [
+                        49.12847661,
+                        55.788687
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1115167109",
+                    "name": "КАРО",
+                    "address": "Россия, Республика Татарстан, Казань, Петербургская улица, 1",
+                    "url": "https://karofilm.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-20-20"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (962) 555-58-91"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-05-22"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-73-52"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-ср 10:00–0:00; чт-вс 9:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.124374,
+                    55.786373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Алмаз Синема Гранд",
+                "description": "Спартаковская ул., 6, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12543132,
+                        55.77611724
+                    ],
+                    [
+                        49.13364193,
+                        55.78074468
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1066566653",
+                    "name": "Алмаз Синема Гранд",
+                    "address": "Россия, Республика Татарстан, Казань, Спартаковская улица, 6",
+                    "url": "https://www.almazcinema.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 526-53-33"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–1:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "01:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.129535,
+                    55.778429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Корстон",
+                "description": "ул. Николая Ершова, 1А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.14647885,
+                        55.79109114
+                    ],
+                    [
+                        49.15468945,
+                        55.7957168
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "41086680327",
+                    "name": "Корстон",
+                    "address": "Россия, Республика Татарстан, Казань, улица Николая Ершова, 1А",
+                    "url": "http://www.korston.ru/kazan/entertainment/cinema/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 279-31-21"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–2:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "02:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.150583,
+                    55.793404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Киномакс",
+                "description": "просп. Ибрагимова, 56, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.08823209,
+                        55.81890255
+                    ],
+                    [
+                        49.09644269,
+                        55.82352489
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1074246981",
+                    "name": "Киномакс",
+                    "address": "Россия, Республика Татарстан, Казань, проспект Ибрагимова, 56",
+                    "url": "https://kinomax.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 518-92-70"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (903) 307-24-16"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 518-92-65"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–0:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "00:30:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.09234,
+                    55.821212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Алмаз Синема Порт",
+                "description": "ул. Фатыха Амирхана, 1Б, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12288909,
+                        55.81362715
+                    ],
+                    [
+                        49.13109969,
+                        55.81825012
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1121373906",
+                    "name": "Алмаз Синема Порт",
+                    "address": "Россия, Республика Татарстан, Казань, улица Фатыха Амирхана, 1Б",
+                    "url": "https://almazcinema.ru/kzn/cinema/46/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 526-56-66"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 526-56-29"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–1:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "01:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.126992,
+                    55.815937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Синема 5",
+                "description": "просп. Ямашева, 46/33, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11294474,
+                        55.82818207
+                    ],
+                    [
+                        49.12115534,
+                        55.83280331
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1675954580",
+                    "name": "Синема 5",
+                    "address": "Россия, Республика Татарстан, Казань, проспект Ямашева, 46/33",
+                    "url": "https://cinema5.ru/kazan",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 528-05-45"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 528-05-35"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:30–1:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:30:00",
+                                        "to": "01:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.117046,
+                    55.830493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Киномакс",
+                "description": "просп. Победы, 91, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.21307995,
+                        55.76606559
+                    ],
+                    [
+                        49.22129055,
+                        55.77069423
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1089830413",
+                    "name": "Киномакс",
+                    "address": "Россия, Республика Татарстан, Казань, проспект Победы, 91",
+                    "url": "https://kinomax.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 233-39-10"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (903) 307-24-16"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 233-39-13"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 5:00–0:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "05:00:00",
+                                        "to": "00:30:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.217187,
+                    55.768378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25 Кадр",
+                "description": "Чистопольская ул., 20А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10756383,
+                        55.81547337
+                    ],
+                    [
+                        49.11577443,
+                        55.82009612
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1723320713",
+                    "name": "25 Кадр",
+                    "address": "Россия, Республика Татарстан, Казань, Чистопольская улица, 20А",
+                    "url": "http://кино-кафе.рф/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 216-66-15"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        },
+                        {
+                            "class": "amusement",
+                            "name": "Антикафе"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 12:00–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.111669,
+                    55.817785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5d Кинотеатр",
+                "description": "ул. Фатыха Амирхана, 1Б, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12308672,
+                        55.81360692
+                    ],
+                    [
+                        49.13129732,
+                        55.81822989
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1316647143",
+                    "name": "5d Кинотеатр",
+                    "address": "Россия, Республика Татарстан, Казань, улица Фатыха Амирхана, 1Б",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 226-89-59"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 11:00–23:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "23:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.127192,
+                    55.815918
+                ]
+            }
+        }
+    ]
+}

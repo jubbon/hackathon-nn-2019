@@ -1,0 +1,335 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.774025,
+                    56.326799
+                ]
+            },
+            "properties": {
+                "name": "Торфопредприятие",
+                "description": "Торфопредприятие",
+                "h3_address_7": "8710160a0ffffff",
+                "h3_address_8": "8810160a01fffff",
+                "h3_address_9": "8910160a00bffff",
+                "h3_address_10": "8a10160a008ffff",
+                "stop_id": "9713566",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.797731005,
+                    56.33557324
+                ]
+            },
+            "properties": {
+                "name": "Буревестник",
+                "description": "Буревестник",
+                "h3_address_7": "8710160a1ffffff",
+                "h3_address_8": "8810160a15fffff",
+                "h3_address_9": "8910160a14bffff",
+                "h3_address_10": "8a10160a1487fff",
+                "stop_id": "9713567",
+                "route_distance": 1826.0,
+                "route_time": 3.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.802695,
+                    56.337562
+                ]
+            },
+            "properties": {
+                "name": "Асфальтобетон",
+                "description": "Асфальтобетон",
+                "h3_address_7": "8710160a1ffffff",
+                "h3_address_8": "8810160a15fffff",
+                "h3_address_9": "8910160a14fffff",
+                "h3_address_10": "8a10160a14dffff",
+                "stop_id": "9713568",
+                "route_distance": 2332.0,
+                "route_time": 4.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.814238813,
+                    56.341209218
+                ]
+            },
+            "properties": {
+                "name": "АО Нефтранс",
+                "description": "АО Нефтранс",
+                "h3_address_7": "8710160aeffffff",
+                "h3_address_8": "8810160a17fffff",
+                "h3_address_9": "8910160a16fffff",
+                "h3_address_10": "8a10160a16d7fff",
+                "stop_id": "9712546",
+                "route_distance": 3221.0,
+                "route_time": 6.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.820392471,
+                    56.341222345
+                ]
+            },
+            "properties": {
+                "name": "АО Бумснаб",
+                "description": "АО Бумснаб",
+                "h3_address_7": "8710160aeffffff",
+                "h3_address_8": "8810160aedfffff",
+                "h3_address_9": "8910160aed7ffff",
+                "h3_address_10": "8a10160aed47fff",
+                "stop_id": "9712547",
+                "route_distance": 3600.0,
+                "route_time": 7.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.826054,
+                    56.341253
+                ]
+            },
+            "properties": {
+                "name": "Предприятие ВОС",
+                "description": "Предприятие ВОС",
+                "h3_address_7": "8710160aeffffff",
+                "h3_address_8": "8810160aedfffff",
+                "h3_address_9": "8910160aec7ffff",
+                "h3_address_10": "8a10160aec4ffff",
+                "stop_id": "9712548",
+                "route_distance": 3948.0,
+                "route_time": 9.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.833328,
+                    56.342566
+                ]
+            },
+            "properties": {
+                "name": "Улица Достоевского",
+                "description": "Улица Достоевского",
+                "h3_address_7": "8710160aeffffff",
+                "h3_address_8": "8810160ae1fffff",
+                "h3_address_9": "8910160ae03ffff",
+                "h3_address_10": "8a10160ae007fff",
+                "stop_id": "9712549",
+                "route_distance": 4426.0,
+                "route_time": 10.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.838231,
+                    56.343914
+                ]
+            },
+            "properties": {
+                "name": "Улица Островского",
+                "description": "Улица Островского",
+                "h3_address_7": "8710160aeffffff",
+                "h3_address_8": "8810160ae1fffff",
+                "h3_address_9": "8910160ae07ffff",
+                "h3_address_10": "8a10160ae057fff",
+                "stop_id": "9712550",
+                "route_distance": 4764.0,
+                "route_time": 11.5,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.841906,
+                    56.345047
+                ]
+            },
+            "properties": {
+                "name": "Улица Шимборского",
+                "description": "Улица Шимборского",
+                "h3_address_7": "8710160aeffffff",
+                "h3_address_8": "8810160ae3fffff",
+                "h3_address_9": "8910160ae3bffff",
+                "h3_address_10": "8a10160ae3a7fff",
+                "stop_id": "10014534",
+                "route_distance": 5021.0,
+                "route_time": 12.7,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.847181793,
+                    56.347860066
+                ]
+            },
+            "properties": {
+                "name": "Пожарная часть",
+                "description": "Пожарная часть",
+                "h3_address_7": "8710160aeffffff",
+                "h3_address_8": "8810160ae3fffff",
+                "h3_address_9": "8910160ae23ffff",
+                "h3_address_10": "8a10160ae22ffff",
+                "stop_id": "9712552",
+                "route_distance": 5472.0,
+                "route_time": 14.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.853144682,
+                    56.348597703
+                ]
+            },
+            "properties": {
+                "name": "Улица Никиты Рыбакова",
+                "description": "Улица Никиты Рыбакова",
+                "h3_address_7": "8710160a8ffffff",
+                "h3_address_8": "8810160ae3fffff",
+                "h3_address_9": "8910160a85bffff",
+                "h3_address_10": "8a10160a85b7fff",
+                "stop_id": "9712553",
+                "route_distance": 5863.0,
+                "route_time": 15.4,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.864648,
+                    56.349101
+                ]
+            },
+            "properties": {
+                "name": "Улица Культуры",
+                "description": "Улица Культуры",
+                "h3_address_7": "8710160aaffffff",
+                "h3_address_8": "8810160a85fffff",
+                "h3_address_9": "8910160aab3ffff",
+                "h3_address_10": "8a10160aab27fff",
+                "stop_id": "9712554",
+                "route_distance": 6634.0,
+                "route_time": 18.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.868484,
+                    56.349381
+                ]
+            },
+            "properties": {
+                "name": "Центр Сормова",
+                "description": "Центр Сормова",
+                "h3_address_7": "8710160aaffffff",
+                "h3_address_8": "8810160aabfffff",
+                "h3_address_9": "8910160aab7ffff",
+                "h3_address_10": "8a10160aab77fff",
+                "stop_id": "9712659",
+                "route_distance": 7087.0,
+                "route_time": 20.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.865631585,
+                    56.356277033
+                ]
+            },
+            "properties": {
+                "name": "Улица Баррикад",
+                "description": "Улица Баррикад",
+                "h3_address_7": "8710160a8ffffff",
+                "h3_address_8": "8810160a87fffff",
+                "h3_address_9": "8910160a873ffff",
+                "h3_address_10": "8a10160a8737fff",
+                "stop_id": "9712660",
+                "route_distance": 7873.0,
+                "route_time": 22.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.868892,
+                    56.358458
+                ]
+            },
+            "properties": {
+                "name": "Красное Сормово",
+                "description": "Красное Сормово",
+                "h3_address_7": "8710160a8ffffff",
+                "h3_address_8": "8810160a87fffff",
+                "h3_address_9": "8910160a877ffff",
+                "h3_address_10": "8a10160a8777fff",
+                "stop_id": "10014540",
+                "route_distance": 8260.0,
+                "route_time": 23.9,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

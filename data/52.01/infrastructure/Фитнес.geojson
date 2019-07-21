@@ -1,0 +1,458 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 6,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.27323962,
+                        54.90527032
+                    ],
+                    [
+                        43.37681538,
+                        54.96417343
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Фитнес",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Икар",
+                "description": "просп. Музрукова, 43, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.20000896,
+                        54.86963713
+                    ],
+                    [
+                        43.45047723,
+                        55.00491725
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "9299256596",
+                    "name": "Икар",
+                    "address": "Россия, Нижегородская область, Саров, проспект Музрукова, 43",
+                    "url": "http://sarov-sport.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 9-93-64"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "skating rink",
+                            "name": "Каток"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–22:00, перерыв 14:00–17:00; сб,вс 8:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "14:00:00"
+                                    },
+                                    {
+                                        "from": "17:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.325246,
+                    54.937332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Fitness",
+                "description": "просп. Ленина, 41, Старый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.34548214,
+                        54.926813
+                    ],
+                    [
+                        43.35369274,
+                        54.93154122
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "187996867432",
+                    "name": "Galaxy Fitness",
+                    "address": "Россия, Нижегородская область, Саров, Старый район, проспект Ленина, 41",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-08-02"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "fitness",
+                            "name": "Спортивный, тренажёрный зал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–22:00; сб,вс 9:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.349587,
+                    54.929177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Рго-Движение",
+                "description": "ул. Силкина, 31, Старый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.34874302,
+                        54.92138056
+                    ],
+                    [
+                        43.35695363,
+                        54.92610941
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1373029411",
+                    "name": "Рго-Движение",
+                    "address": "Россия, Нижегородская область, Саров, Старый район, улица Силкина, 31",
+                    "url": "http://sarovpro.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 6-02-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "climbing wall",
+                            "name": "Скалодром"
+                        },
+                        {
+                            "name": "Организация и проведение детских праздников"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:30–22:00; сб,вс 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:30:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.352848,
+                    54.923745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Броско фитнес",
+                "description": "Раменская ул., 3, корп. 1, Новый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.33104621,
+                        54.94334897
+                    ],
+                    [
+                        43.33925681,
+                        54.94807523
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1035575140",
+                    "name": "Броско фитнес",
+                    "address": "Россия, Нижегородская область, Саров, Новый район, Раменская улица, 3, корп. 1",
+                    "url": "https://sarov.brosko.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 6-87-89"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        },
+                        {
+                            "class": "massage",
+                            "name": "Массажный салон"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–21:00; сб,вс 10:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.335152,
+                    54.945712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Фитнес-центр Парадиз",
+                "description": "Садовая ул., 68, корп. 1, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.29310138,
+                        54.9326637
+                    ],
+                    [
+                        43.30131198,
+                        54.93738088
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1275860000",
+                    "name": "Фитнес-центр Парадиз",
+                    "address": "Россия, Нижегородская область, Саров, Садовая улица, 68, корп. 1",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 9-69-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 9-69-01"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.297203,
+                    54.93502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Fitness",
+                "description": "ул. Курчатова, 12, Новый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.32716549,
+                        54.94251121
+                    ],
+                    [
+                        43.33537609,
+                        54.94723758
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "6223740716",
+                    "name": "Galaxy Fitness",
+                    "address": "Россия, Нижегородская область, Саров, Новый район, улица Курчатова, 12",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 3-28-22"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "fitness",
+                            "name": "Фитнес-клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–22:00; сб,вс 9:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.331271,
+                    54.944874
+                ]
+            }
+        }
+    ]
+}

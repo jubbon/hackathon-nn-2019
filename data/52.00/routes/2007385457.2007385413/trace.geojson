@@ -1,0 +1,313 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.945495,
+                    56.323314808
+                ]
+            },
+            "properties": {
+                "name": "Тоннель Московского вокзала",
+                "description": "Тоннель Московского вокзала",
+                "h3_address_7": "871016088ffffff",
+                "h3_address_8": "8810160885fffff",
+                "h3_address_9": "89101608843ffff",
+                "h3_address_10": "8a1016088427fff",
+                "stop_id": "9712569",
+                "route_distance": 0,
+                "route_time": 0.0,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.936415822,
+                    56.321266172
+                ]
+            },
+            "properties": {
+                "name": "Московское шоссе",
+                "description": "Московское шоссе",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608e3fffff",
+                "h3_address_9": "89101608e27ffff",
+                "h3_address_10": "8a101608e267fff",
+                "stop_id": "9712570",
+                "route_distance": 609.0,
+                "route_time": 1.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.92654,
+                    56.319267
+                ]
+            },
+            "properties": {
+                "name": "Сормовский поворот",
+                "description": "Сормовский поворот",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608ebfffff",
+                "h3_address_9": "89101608e33ffff",
+                "h3_address_10": "8a101608e327fff",
+                "stop_id": "9712868",
+                "route_distance": 1408.0,
+                "route_time": 4.3,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.918874,
+                    56.317794
+                ]
+            },
+            "properties": {
+                "name": "Имени Героя Степанова",
+                "description": "Имени Героя Степанова",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608e1fffff",
+                "h3_address_9": "89101608e17ffff",
+                "h3_address_10": "8a101608e167fff",
+                "stop_id": "9712869",
+                "route_distance": 1932.0,
+                "route_time": 6.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.911194237,
+                    56.316371446
+                ]
+            },
+            "properties": {
+                "name": "Масложиркомбинат",
+                "description": "Масложиркомбинат",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608e9fffff",
+                "h3_address_9": "89101608e8bffff",
+                "h3_address_10": "8a101608e8affff",
+                "stop_id": "9712870",
+                "route_distance": 2431.0,
+                "route_time": 7.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.904575955,
+                    56.315189829
+                ]
+            },
+            "properties": {
+                "name": "Металлургическая",
+                "description": "Металлургическая",
+                "h3_address_7": "87101608effffff",
+                "h3_address_8": "88101608e9fffff",
+                "h3_address_9": "89101608e9bffff",
+                "h3_address_10": "8a101608e987fff",
+                "stop_id": "9712871",
+                "route_distance": 2964.0,
+                "route_time": 10.1,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.889429,
+                    56.314564
+                ]
+            },
+            "properties": {
+                "name": "Актюбинская улица",
+                "description": "Актюбинская улица",
+                "h3_address_7": "871016081ffffff",
+                "h3_address_8": "8810160817fffff",
+                "h3_address_9": "89101608173ffff",
+                "h3_address_10": "8a1016081727fff",
+                "stop_id": "9712872",
+                "route_distance": 4117.0,
+                "route_time": 12.8,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.882148,
+                    56.314244
+                ]
+            },
+            "properties": {
+                "name": "Берёзовская улица",
+                "description": "Берёзовская улица",
+                "h3_address_7": "871016081ffffff",
+                "h3_address_8": "8810160811fffff",
+                "h3_address_9": "8910160811bffff",
+                "h3_address_10": "8a101608119ffff",
+                "stop_id": "9712873",
+                "route_distance": 4568.0,
+                "route_time": 14.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.873682,
+                    56.313915
+                ]
+            },
+            "properties": {
+                "name": "Улица Красных Зорь",
+                "description": "Улица Красных Зорь",
+                "h3_address_7": "871016081ffffff",
+                "h3_address_8": "881016081dfffff",
+                "h3_address_9": "891016081c3ffff",
+                "h3_address_10": "8a1016081c0ffff",
+                "stop_id": "9712874",
+                "route_distance": 5092.0,
+                "route_time": 15.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.869546201,
+                    56.308934248
+                ]
+            },
+            "properties": {
+                "name": "Станция Костариха",
+                "description": "Станция Костариха",
+                "h3_address_7": "871016080ffffff",
+                "h3_address_8": "8810160803fffff",
+                "h3_address_9": "89101608037ffff",
+                "h3_address_10": "8a101608036ffff",
+                "stop_id": "9713106",
+                "route_distance": 6600.0,
+                "route_time": 18.2,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.871649,
+                    56.304719
+                ]
+            },
+            "properties": {
+                "name": "Ближняя улица",
+                "description": "Ближняя улица",
+                "h3_address_7": "871016080ffffff",
+                "h3_address_8": "8810160803fffff",
+                "h3_address_9": "89101608023ffff",
+                "h3_address_10": "8a101608021ffff",
+                "stop_id": "9713107",
+                "route_distance": 7086.0,
+                "route_time": 19.6,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.87358,
+                    56.301642
+                ]
+            },
+            "properties": {
+                "name": "Кузбасская улица",
+                "description": "Кузбасская улица",
+                "h3_address_7": "871016080ffffff",
+                "h3_address_8": "8810160803fffff",
+                "h3_address_9": "8910160802bffff",
+                "h3_address_10": "8a101608029ffff",
+                "stop_id": "9713108",
+                "route_distance": 7448.0,
+                "route_time": 20.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.880497243,
+                    56.302370041
+                ]
+            },
+            "properties": {
+                "name": "Школа № 167",
+                "description": "Школа № 167",
+                "h3_address_7": "871016083ffffff",
+                "h3_address_8": "8810160839fffff",
+                "h3_address_9": "89101608397ffff",
+                "h3_address_10": "8a1016083957fff",
+                "stop_id": "9713595",
+                "route_distance": 8045.0,
+                "route_time": 22.9,
+                "stop_time": 0.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.884323414,
+                    56.30335124
+                ]
+            },
+            "properties": {
+                "name": "Посёлок Березовский",
+                "description": "Посёлок Березовский",
+                "h3_address_7": "871016083ffffff",
+                "h3_address_8": "8810160839fffff",
+                "h3_address_9": "89101608387ffff",
+                "h3_address_10": "8a1016083867fff",
+                "stop_id": "9713596",
+                "route_distance": 8308.0,
+                "route_time": 24.3,
+                "stop_time": 0.8
+            }
+        }
+    ]
+}

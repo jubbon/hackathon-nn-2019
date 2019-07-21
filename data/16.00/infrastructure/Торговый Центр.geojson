@@ -1,0 +1,664 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 87,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.07580839,
+                        55.74682601
+                    ],
+                    [
+                        49.23445087,
+                        55.8469922
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Торговый Центр",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "МЕГА",
+                "description": "просп. Победы, 141, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.20900159,
+                        55.77746908
+                    ],
+                    [
+                        49.2172122,
+                        55.78209636
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1223246773",
+                    "name": "МЕГА",
+                    "address": "Россия, Республика Татарстан, Казань, проспект Победы, 141",
+                    "url": "https://mega.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 707-10-44"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 276-92-97"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.213105,
+                    55.779781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Тандем",
+                "description": "просп. Ибрагимова, 56, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.08936397,
+                        55.81872048
+                    ],
+                    [
+                        49.09757457,
+                        55.82334284
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1190290251",
+                    "name": "Тандем",
+                    "address": "Россия, Республика Татарстан, Казань, проспект Ибрагимова, 56",
+                    "url": "http://tandemkazan.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 518-99-99"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 518-92-71"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.093472,
+                    55.82103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Парк Хаус",
+                "description": "просп. Ямашева, 46/33, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11316034,
+                        55.82680167
+                    ],
+                    [
+                        49.12137094,
+                        55.83142306
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1010558915",
+                    "name": "Парк Хаус",
+                    "address": "Россия, Республика Татарстан, Казань, проспект Ямашева, 46/33",
+                    "url": "http://kazan.atrium-parkhouse.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 513-08-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 513-07-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.117264,
+                    55.829113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Южный",
+                "description": "просп. Победы, 91, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.21266672,
+                        55.76701263
+                    ],
+                    [
+                        49.22087732,
+                        55.77164116
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1079216171",
+                    "name": "Южный",
+                    "address": "Россия, Республика Татарстан, Казань, проспект Победы, 91",
+                    "url": "http://www.ug-center.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 270-31-93"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 270-31-90"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.216776,
+                    55.769326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Республика",
+                "description": "Петербургская ул., 9, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12217044,
+                        55.7829367
+                    ],
+                    [
+                        49.13038104,
+                        55.78756333
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1226874018",
+                    "name": "Республика",
+                    "address": "Россия, Республика Татарстан, Казань, Петербургская улица, 9",
+                    "url": "http://tc-kazan.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 212-01-09"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.12628,
+                    55.785248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Сувар Плаза",
+                "description": "Спартаковская ул., 6, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12567387,
+                        55.77616787
+                    ],
+                    [
+                        49.13388447,
+                        55.78079531
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1085627098",
+                    "name": "Сувар Плаза",
+                    "address": "Россия, Республика Татарстан, Казань, Спартаковская улица, 6",
+                    "url": "http://suvarplaza.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 526-53-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.129776,
+                    55.778483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский ЦУМ Конференц-зал",
+                "description": "Московская ул., 2, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09789796,
+                        55.79040281
+                    ],
+                    [
+                        49.10610856,
+                        55.79502855
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1115489666",
+                    "name": "Казанский ЦУМ Конференц-зал",
+                    "address": "Россия, Республика Татарстан, Казань, Московская улица, 2",
+                    "url": "http://www.kazantsum.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-11-38"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-30-25"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 527-88-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 527-88-01"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Конференц-зал"
+                        },
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.102001,
+                    55.792715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Кольцо",
+                "description": "Петербургская ул., 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12002347,
+                        55.78425287
+                    ],
+                    [
+                        49.12823407,
+                        55.78887934
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1002974978",
+                    "name": "Кольцо",
+                    "address": "Россия, Республика Татарстан, Казань, Петербургская улица, 1",
+                    "url": "http://koltso-kazan.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-28-28"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-71-10"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 231-71-30"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.124128,
+                    55.786566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Горки Парк",
+                "description": "ул. Рихарда Зорге, 11Б, Приволжский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.18122569,
+                        55.76242407
+                    ],
+                    [
+                        49.18943629,
+                        55.76705315
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "27519986326",
+                    "name": "Горки Парк",
+                    "address": "Россия, Республика Татарстан, Казань, Приволжский район, улица Рихарда Зорге, 11Б",
+                    "url": "http://горкипарк.рф/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 210-01-10"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.185329,
+                    55.764738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостинично-торгово-развлекательный комплекс Корстон Казань",
+                "description": "ул. Николая Ершова, 1А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.14536494,
+                        55.79126828
+                    ],
+                    [
+                        49.15357554,
+                        55.79589392
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1157195150",
+                    "name": "Гостинично-торгово-развлекательный комплекс Корстон Казань",
+                    "address": "Россия, Республика Татарстан, Казань, улица Николая Ершова, 1А",
+                    "url": "http://www.korston.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 279-30-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 279-33-02"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-00-50"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 279-30-26"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 279-30-39"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.14947,
+                    55.793581
+                ]
+            }
+        }
+    ]
+}

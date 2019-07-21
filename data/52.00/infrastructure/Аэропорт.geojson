@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 1,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.78728258,
+                        56.21727004
+                    ],
+                    [
+                        43.79590641,
+                        56.22184474
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Аэропорт",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Международный аэропорт Нижний Новгород имени В. П. Чкалова",
+                "description": "Россия, городской округ Нижний Новгород, аэропорт Нижний Новгород (Стригино)",
+                "boundedBy": [
+                    [
+                        43.78748919,
+                        56.21727004
+                    ],
+                    [
+                        43.79568183,
+                        56.22184474
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1793464775",
+                    "name": "Международный аэропорт Нижний Новгород имени В. П. Чкалова",
+                    "address": "Россия, городской округ Нижний Новгород, аэропорт Нижний Новгород (Стригино)",
+                    "url": "http://goj.aero/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (930) 816-91-99"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "airports",
+                            "name": "Аэропорт"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.79159,
+                    56.219555
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,742 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 90,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        48.94731337,
+                        55.680326
+                    ],
+                    [
+                        49.26461629,
+                        55.88075266
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Фабрика",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Швейная фабрика № 1",
+                "description": "Техническая ул., 120Б, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13082122,
+                        55.75084897
+                    ],
+                    [
+                        49.13903182,
+                        55.75547942
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "239311933880",
+                    "name": "Швейная фабрика № 1",
+                    "address": "Россия, Республика Татарстан, Казань, Техническая улица, 120Б",
+                    "url": "http://kazanfabrika.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 717-93-29"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Швейная фабрика"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "class": "tailor",
+                            "name": "Ателье по пошиву одежды"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 8:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.134927,
+                    55.753164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Фабрика Дымоходов",
+                "description": "ул. Журналистов, 62, корп. 4, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.19605687,
+                        55.82623027
+                    ],
+                    [
+                        49.20426747,
+                        55.83085174
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1403846034",
+                    "name": "Фабрика Дымоходов",
+                    "address": "Россия, Республика Татарстан, Казань, улица Журналистов, 62, корп. 4",
+                    "url": "http://fabd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 258-14-73"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-65-71"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (962) 556-45-65"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Системы вентиляции"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "name": "Камины, печи"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.200158,
+                    55.828541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Фабрика Тумана",
+                "description": "ул. Хади Такташа, 131, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13340836,
+                        55.76326484
+                    ],
+                    [
+                        49.14161897,
+                        55.76789382
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "70355180547",
+                    "name": "Фабрика Тумана",
+                    "address": "Россия, Республика Татарстан, Казань, улица Хади Такташа, 131",
+                    "url": "http://fabrica-tumana.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 505-17-53"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (937) 006-89-53"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Очистители, увлажнители и ароматизаторы воздуха"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–17:00; пт 8:00–16:30; сб,вс 10:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:30:00"
+                                    }
+                                ],
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.137511,
+                    55.765581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lakko",
+                "description": "ул. Восстания, 100, корп. 205Б, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.03450385,
+                        55.83500249
+                    ],
+                    [
+                        49.04271445,
+                        55.83962291
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1040259716",
+                    "name": "Lakko",
+                    "address": "Россия, Республика Татарстан, Казань, улица Восстания, 100к205Б",
+                    "url": "http://kraski-lakko.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 212-51-51"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 212-51-52"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 212-51-53"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Лакокрасочные материалы"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "name": "Декоративные покрытия"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:30–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:30:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.038609,
+                    55.837313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "АлтынПак",
+                "description": "1-я Тракторная ул., 118А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        48.9317815,
+                        55.66093731
+                    ],
+                    [
+                        49.29320967,
+                        55.83507327
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1370488293",
+                    "name": "АлтынПак",
+                    "address": "Россия, Республика Татарстан, Казань, 1-я Тракторная улица, 118А",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (927) 447-28-99"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.112494,
+                    55.748101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nikpromo",
+                "description": "Техническая ул., 120А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12941086,
+                        55.75169506
+                    ],
+                    [
+                        49.13762146,
+                        55.75632541
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "2373017970",
+                    "name": "Nikpromo",
+                    "address": "Россия, Республика Татарстан, Казань, Техническая улица, 120А",
+                    "url": "http://www.nikpromo.info/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 239-23-19"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Швейная фабрика"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "class": "tailor",
+                            "name": "Ателье по пошиву одежды"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.133518,
+                    55.754012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Барс_Лес116",
+                "description": "Петербургская ул., 40А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12453301,
+                        55.78065356
+                    ],
+                    [
+                        49.13274361,
+                        55.78528046
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "124945559266",
+                    "name": "Барс_Лес116",
+                    "address": "Россия, Республика Татарстан, Казань, Петербургская улица, 40А",
+                    "url": "http://www.barsles116.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (966) 250-77-55"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (927) 415-77-55"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Строительство дачных домов и коттеджей"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 8:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.128638,
+                    55.782967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гранд-Ард",
+                "description": "ул. Васильченко, 41, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.02100217,
+                        55.83281342
+                    ],
+                    [
+                        49.02921277,
+                        55.8374341
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "46353583943",
+                    "name": "Гранд-Ард",
+                    "address": "Россия, Республика Татарстан, Казань, улица Васильченко, 41",
+                    "url": "http://kupe-kazan.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (927) 415-23-44"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (904) 661-36-14"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "online store",
+                            "name": "Интернет-магазин"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "name": "Мебельная фабрика"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.025104,
+                    55.835124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Агросила",
+                "description": "ул. Татарстан, 55, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10224581,
+                        55.77152469
+                    ],
+                    [
+                        49.11045641,
+                        55.77615268
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "205405058829",
+                    "name": "Агросила",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район, улица Татарстан, 55",
+                    "url": "http://agrosila-holding.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 267-66-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.106348,
+                    55.773841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Виэль мебель",
+                "description": "Дорожная ул., 1, жилой массив Отары, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09376571,
+                        55.72161472
+                    ],
+                    [
+                        49.10197631,
+                        55.72624866
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "148051094924",
+                    "name": "Виэль мебель",
+                    "address": "Россия, Республика Татарстан, Казань, жилой массив Отары, Дорожная улица, 1",
+                    "url": "http://viellmebel.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 239-07-11"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (903) 306-45-40"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 240-57-04"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Мебельная фабрика"
+                        },
+                        {
+                            "class": "industrial enterprise",
+                            "name": "Производственное предприятие"
+                        },
+                        {
+                            "name": "Мебель на заказ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.097872,
+                    55.723931
+                ]
+            }
+        }
+    ]
+}

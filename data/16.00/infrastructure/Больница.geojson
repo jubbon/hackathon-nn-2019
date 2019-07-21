@@ -1,0 +1,665 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 88,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        48.98939046,
+                        55.68168625
+                    ],
+                    [
+                        49.30669338,
+                        55.8821059
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Больница",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Республиканская клиническая офтальмологическая больница",
+                "description": "ул. Бутлерова, 14, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12571879,
+                        55.78406557
+                    ],
+                    [
+                        49.13392939,
+                        55.78869206
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "15982574762",
+                    "name": "Республиканская клиническая офтальмологическая больница",
+                    "address": "Россия, Республика Татарстан, Казань, улица Бутлерова, 14",
+                    "url": "http://www.rkob.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 528-02-02"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.129825,
+                    55.786378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГАУЗ Клиника медицинского университета В.П. Крупина",
+                "description": "ул. Шарифа Камала, 12, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10513838,
+                        55.76533124
+                    ],
+                    [
+                        49.11334898,
+                        55.76995996
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "224702541824",
+                    "name": "ГАУЗ Клиника медицинского университета В.П. Крупина",
+                    "address": "Россия, Республика Татарстан, Казань, улица Шарифа Камала, 12",
+                    "url": "https://zdrav.tatar.ru/pol3kaz/section/infgp3",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-27-10"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-27-30"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-27-60"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-28-30"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 264-36-54"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.109247,
+                    55.767648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Республиканская Клиническая больница № 2",
+                "description": "ул. Чехова, 1А, Вахитовский район, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.14597579,
+                        55.78819603
+                    ],
+                    [
+                        49.1541864,
+                        55.79282203
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1057707139",
+                    "name": "Республиканская Клиническая больница № 2",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район, улица Чехова, 1А",
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.150085,
+                    55.79051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Городская клиническая больница № 7",
+                "description": "ул. Маршала Чуйкова, 54, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13465702,
+                        55.83309148
+                    ],
+                    [
+                        49.14286762,
+                        55.83771213
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1055543744",
+                    "name": "Городская клиническая больница № 7",
+                    "address": "Россия, Республика Татарстан, Казань, улица Маршала Чуйкова, 54",
+                    "url": "http://emckzn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 221-39-03"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 221-39-02"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-91-78"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-91-71"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 221-39-01"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 521-11-53"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.138766,
+                    55.835403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Детская республиканская клиническая больница",
+                "description": "Оренбургский тракт, 140, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.17469493,
+                        55.72625373
+                    ],
+                    [
+                        49.18290554,
+                        55.73088712
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "184849014438",
+                    "name": "Детская республиканская клиническая больница",
+                    "address": "Россия, Республика Татарстан, Казань, Оренбургский тракт, 140",
+                    "url": "http://drkbmzrt.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-30-50"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 267-84-08"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Специализированная больница"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Детская больница"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Медцентр, клиника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.1788,
+                    55.72857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Медико-санитарная часть КФУ",
+                "description": "ул. Николая Ершова, 2, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.14545477,
+                        55.78976509
+                    ],
+                    [
+                        49.15366537,
+                        55.7943909
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1385049332",
+                    "name": "Медико-санитарная часть КФУ",
+                    "address": "Россия, Республика Татарстан, Казань, улица Николая Ершова, 2",
+                    "url": "http://uniclinic.kpfu.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 233-30-22"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-22-01"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-17-47"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Медсанчасть"
+                        },
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.149562,
+                    55.792078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГАУЗ Республиканский клинический неврологический центр",
+                "description": "ул. Ватутина, 13, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11682546,
+                        55.76213537
+                    ],
+                    [
+                        49.12503607,
+                        55.76676448
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1004345210",
+                    "name": "ГАУЗ Республиканский клинический неврологический центр",
+                    "address": "Россия, Республика Татарстан, Казань, улица Ватутина, 13",
+                    "url": "http://www.rkbvl.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-97-18"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-23-17"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-27-93"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-97-08"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.120935,
+                    55.764451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Республиканская клиническая офтальмологическая больница МЗ РТ",
+                "description": "ул. Бутлерова, 14, корп. Б, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.1260332,
+                        55.78430855
+                    ],
+                    [
+                        49.1342438,
+                        55.78893501
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "58574359814",
+                    "name": "Республиканская клиническая офтальмологическая больница МЗ РТ",
+                    "address": "Россия, Республика Татарстан, Казань, улица Бутлерова, 14кБ",
+                    "url": "http://www.rkob.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 528-01-01"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 528-02-02"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Специализированная больница"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–18:30; сб 9:00–16:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "16:30:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.130138,
+                    55.78662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Университетская клиника Казань, отделение терапии",
+                "description": "ул. Лейтенанта Шмидта, 31, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.15425826,
+                        55.78690025
+                    ],
+                    [
+                        49.16246886,
+                        55.7915264
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1275021268",
+                    "name": "Университетская клиника Казань, отделение терапии",
+                    "address": "Россия, Республика Татарстан, Казань, улица Лейтенанта Шмидта, 31",
+                    "url": "http://uniclinic.kpfu.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 236-41-01"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.158361,
+                    55.789211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ГАУЗ ЦГКБ № 18, Хирургическое отделение",
+                "description": "ул. Хусаина Мавлютова, 2, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.18271689,
+                        55.75656857
+                    ],
+                    [
+                        49.19092749,
+                        55.76119834
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1118900780",
+                    "name": "ГАУЗ ЦГКБ № 18, Хирургическое отделение",
+                    "address": "Россия, Республика Татарстан, Казань, улица Хусаина Мавлютова, 2",
+                    "url": "http://hm2.polickliniki.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 224-68-01"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 229-48-82"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 229-79-61"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "medicine",
+                            "name": "Больница для взрослых"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–20:00; сб 8:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.186826,
+                    55.758886
+                ]
+            }
+        }
+    ]
+}

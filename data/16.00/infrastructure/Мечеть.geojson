@@ -1,0 +1,616 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 76,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.0553268,
+                        55.74383131
+                    ],
+                    [
+                        49.21396928,
+                        55.84400523
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Мечеть",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Кул Шариф",
+                "description": "13, территория Кремль, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10123071,
+                        55.79623804
+                    ],
+                    [
+                        49.10944131,
+                        55.80086308
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1009467292",
+                    "name": "Кул Шариф",
+                    "address": "Россия, Республика Татарстан, Казань, территория Кремль, 13",
+                    "url": "http://www.kul-sharif.com/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-77"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-78"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        },
+                        {
+                            "class": "museum",
+                            "name": "Музей"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 9:00–19:00; пт 9:00–19:00, перерыв 11:30–13:15; сб,вс 9:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "11:30:00"
+                                    },
+                                    {
+                                        "from": "13:15:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.10534,
+                    55.798553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Апанаевская мечеть",
+                "description": "ул. Каюма Насыри, 29, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11531629,
+                        55.77562611
+                    ],
+                    [
+                        49.1235269,
+                        55.78025361
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1075525578",
+                    "name": "Апанаевская мечеть",
+                    "address": "Россия, Республика Татарстан, Казань, улица Каюма Насыри, 29",
+                    "url": "http://apanay.tatar/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-42-92"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.11942,
+                    55.777938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Мечеть Ирек",
+                "description": "Федосеевская ул., 5, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.1109415,
+                        55.80030142
+                    ],
+                    [
+                        49.1191521,
+                        55.80492598
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "194165964650",
+                    "name": "Мечеть Ирек",
+                    "address": "Россия, Республика Татарстан, Казань, Федосеевская улица, 5",
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.115046,
+                    55.802613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Зангар",
+                "description": "ул. Фатыха Карима, 19/8, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11171405,
+                        55.7767957
+                    ],
+                    [
+                        49.11376221,
+                        55.77795006
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1078294714",
+                    "name": "Зангар",
+                    "address": "Россия, Республика Татарстан, Казань, улица Фатыха Карима, 19/8",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-49-09"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.112734,
+                    55.777374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Галеевская мечеть",
+                "description": "ул. Парижской Коммуны, 22/40, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10728536,
+                        55.77898794
+                    ],
+                    [
+                        49.11549596,
+                        55.78361504
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1688192737",
+                    "name": "Галеевская мечеть",
+                    "address": "Россия, Республика Татарстан, Казань, улица Парижской Коммуны, 22/40",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-20-60"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.111393,
+                    55.781304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Аль-Марджани",
+                "description": "ул. Каюма Насыри, 17, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11378916,
+                        55.77746401
+                    ],
+                    [
+                        49.12199976,
+                        55.7820913
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "39355214079",
+                    "name": "Аль-Марджани",
+                    "address": "Россия, Республика Татарстан, Казань, улица Каюма Насыри, 17",
+                    "url": "http://marjani-mechet.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-36-86"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 293-00-35"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.117891,
+                    55.77978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Султан",
+                "description": "ул. Габдуллы Тукая, 14, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.1049138,
+                        55.78161037
+                    ],
+                    [
+                        49.1131244,
+                        55.78623715
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1069041137",
+                    "name": "Султан",
+                    "address": "Россия, Республика Татарстан, Казань, улица Габдуллы Тукая, 14",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (917) 915-83-56"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 292-78-81"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.109019,
+                    55.783924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Мечеть Иске Таш",
+                "description": "ул. Мазита Гафури, 34А, корп. 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09770033,
+                        55.76720508
+                    ],
+                    [
+                        49.10591093,
+                        55.77183358
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1068077923",
+                    "name": "Мечеть Иске Таш",
+                    "address": "Россия, Республика Татарстан, Казань, улица Мазита Гафури, 34А, корп. 1",
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.101804,
+                    55.769518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казан Нуры",
+                "description": "ул. Фатыха Амирхана, 3, корп. 2, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12856644,
+                        55.81660129
+                    ],
+                    [
+                        49.13677705,
+                        55.82122391
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1087668997",
+                    "name": "Казан Нуры",
+                    "address": "Россия, Республика Татарстан, Казань, улица Фатыха Амирхана, 3к2",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 523-14-95"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 523-27-25"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 523-16-56"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 523-16-65"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (900) 325-14-95"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "theological school",
+                            "name": "Духовное учебное заведение"
+                        },
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        },
+                        {
+                            "name": "Религиозное объединение"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132673,
+                    55.818915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Закабанная мечеть имени 1000-летия принятия Ислама",
+                "description": "ул. Хади Такташа, 26, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12406588,
+                        55.77519067
+                    ],
+                    [
+                        49.13227649,
+                        55.77981823
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "235247827064",
+                    "name": "Закабанная мечеть имени 1000-летия принятия Ислама",
+                    "address": "Россия, Республика Татарстан, Казань, улица Хади Такташа, 26",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 537-12-83"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "mosque",
+                            "name": "Мечеть"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 6:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.128171,
+                    55.777506
+                ]
+            }
+        }
+    ]
+}

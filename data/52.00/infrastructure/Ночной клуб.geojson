@@ -1,0 +1,862 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 49,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.81303728,
+                        56.21257464
+                    ],
+                    [
+                        44.08957466,
+                        56.35911035
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Ночной клуб",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Milo Concert Hall",
+                "description": "ул. Родионова, 4, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.03941273,
+                        56.31973886
+                    ],
+                    [
+                        44.04762333,
+                        56.32430127
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1218503426",
+                    "name": "Milo Concert Hall",
+                    "address": "Россия, Нижний Новгород, улица Родионова, 4",
+                    "url": "http://miloconcerthall.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 218-00-22"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "musicclub",
+                            "name": "Музыкальный клуб"
+                        },
+                        {
+                            "class": "concert hall",
+                            "name": "Концертный зал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 13:00–20:00; пт 14:00–5:00; сб 21:00–5:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "21:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.043521,
+                    56.322022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gagarin",
+                "description": "Молодёжный просп., 12А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.85497962,
+                        56.23997299
+                    ],
+                    [
+                        43.86319022,
+                        56.24454498
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1221997005",
+                    "name": "Gagarin",
+                    "address": "Россия, Нижний Новгород, Молодёжный проспект, 12А",
+                    "url": "http://www.gagarinclub-nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 255-53-33"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (902) 780-97-30"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "cafe",
+                            "name": "Кафе"
+                        },
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "restaurants",
+                            "name": "Ресторан"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 10:00–0:00; пт 10:00–5:00; сб 11:00–5:00; вс 11:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "11:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.859082,
+                    56.242257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shizgara Mix Bar Club",
+                "description": "просп. Октября, 4А, микрорайон Соцгород-I, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86161817,
+                        56.24380969
+                    ],
+                    [
+                        43.86982877,
+                        56.24838122
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "51190155443",
+                    "name": "Shizgara Mix Bar Club",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, проспект Октября, 4А",
+                    "url": "http://www.shizgara.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 413-88-53"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "bars",
+                            "name": "Кальян-бар"
+                        },
+                        {
+                            "class": "cafe",
+                            "name": "Кафе"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 19:00–6:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "19:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.865724,
+                    56.246096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rozas",
+                "description": "Зеленский съезд, 10, Нижегородский район, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.99229609,
+                        56.32723111
+                    ],
+                    [
+                        44.0005067,
+                        56.33179263
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "236226296304",
+                    "name": "Rozas",
+                    "address": "Россия, Нижний Новгород, Нижегородский район, Зеленский съезд, 10",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 219-95-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 282-92-10"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        },
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "name": "Доставка еды и обедов"
+                        },
+                        {
+                            "class": "cafe",
+                            "name": "Кафе"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 12:00–0:00; пт 12:00–4:00; сб 16:00–4:00; вс 16:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "04:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "16:00:00",
+                                        "to": "04:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "16:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.996403,
+                    56.329511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Top Club",
+                "description": "площадь Маркина, 3, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.9829626,
+                        56.32661721
+                    ],
+                    [
+                        43.9911732,
+                        56.3311788
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1140751430",
+                    "name": "The Top Club",
+                    "address": "Россия, Нижний Новгород, площадь Маркина, 3",
+                    "url": "http://thetopclub.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (910) 388-22-22"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (920) 075-30-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "events hall",
+                            "name": "Банкетный зал"
+                        },
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пт,сб 23:00–6:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "23:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.987065,
+                    56.328898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mixtura Bar",
+                "description": "Нижне-Волжская наб., 16, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.98231581,
+                        56.32652737
+                    ],
+                    [
+                        43.99052641,
+                        56.33108898
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1190787705",
+                    "name": "Mixtura Bar",
+                    "address": "Россия, Нижний Новгород, Нижне-Волжская набережная, 16",
+                    "url": "https://mixturabar.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 217-80-90"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        },
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "cafe",
+                            "name": "Кафе"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 19:00–6:00; сб,вс 20:00–6:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "19:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "20:00:00",
+                                        "to": "06:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.98642,
+                    56.328806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Феличита",
+                "description": "ул. Максима Горького, 141, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.00481861,
+                        56.31547045
+                    ],
+                    [
+                        44.00686677,
+                        56.31660874
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1040024496",
+                    "name": "Феличита",
+                    "address": "Россия, Нижний Новгород, улица Максима Горького, 141",
+                    "url": "http://www.felichitaclub.com/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (953) 415-26-76"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 415-26-76"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пт,сб 19:00–5:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "19:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.005846,
+                    56.31604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MaxxRoyal",
+                "description": "Удмуртская ул., 34А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.88402215,
+                        56.28708714
+                    ],
+                    [
+                        43.89223275,
+                        56.29165347
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "90672676196",
+                    "name": "MaxxRoyal",
+                    "address": "Россия, Нижний Новгород, Удмуртская улица, 34А",
+                    "url": "http://www.maxxroyal-nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 424-42-47"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (987) 544-42-47"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (987) 544-34-14"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (915) 933-00-09"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "restaurants",
+                            "name": "Ресторан"
+                        },
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "events hall",
+                            "name": "Банкетный зал"
+                        },
+                        {
+                            "class": "karaoke",
+                            "name": "Караоке-клуб"
+                        },
+                        {
+                            "class": "cafe",
+                            "name": "Кафе"
+                        },
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 12:00–0:00; пт,сб 12:00–5:00; вс 12:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "12:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.888124,
+                    56.28937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sklad",
+                "description": "Почаинская ул., 17, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.99124507,
+                        56.32503001
+                    ],
+                    [
+                        43.99945567,
+                        56.32959179
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1208873775",
+                    "name": "Sklad",
+                    "address": "Россия, Нижний Новгород, Почаинская улица, 17",
+                    "url": "http://skladclub.business.site/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (920) 290-93-68"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (920) 013-86-76"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "cafe",
+                            "name": "Кафе"
+                        },
+                        {
+                            "class": "bars",
+                            "name": "Бар, паб"
+                        },
+                        {
+                            "class": "concert hall",
+                            "name": "Концертный зал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пт,сб 23:00–8:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "23:00:00",
+                                        "to": "08:00:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.995349,
+                    56.327309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DЫМ Лондон",
+                "description": "Большая Покровская ул., 21, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.9953324,
+                        56.31948926
+                    ],
+                    [
+                        44.003543,
+                        56.3240517
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "58468350896",
+                    "name": "DЫМ Лондон",
+                    "address": "Россия, Нижний Новгород, Большая Покровская улица, 21",
+                    "url": "https://dimcafe.ru/dimlondon",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 291-48-44"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "bars",
+                            "name": "Кальян-бар"
+                        },
+                        {
+                            "class": "night club",
+                            "name": "Ночной клуб"
+                        },
+                        {
+                            "class": "cafe",
+                            "name": "Кафе"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 14:00–2:00; пт,сб 14:00–5:00; вс 14:00–2:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "02:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "05:00:00"
+                                    }
+                                ],
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "14:00:00",
+                                        "to": "02:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.999436,
+                    56.321769
+                ]
+            }
+        }
+    ]
+}

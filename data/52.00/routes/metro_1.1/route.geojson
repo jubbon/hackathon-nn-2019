@@ -1,0 +1,356 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.857951,
+                        56.242162
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.857951,
+                    56.242162
+                ]
+            },
+            "properties": {
+                "name": "Парк Культуры",
+                "description": "Парк Культуры",
+                "StopMetaData": {
+                    "id": "M1.1",
+                    "name": "Парк Культуры"
+                },
+                "extra": {
+                    "route_time": 0.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.877046,
+                        56.247470
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.877046,
+                    56.247470
+                ]
+            },
+            "properties": {
+                "name": "Кировская",
+                "description": "Кировская",
+                "StopMetaData": {
+                    "id": "M1.2",
+                    "name": "Кировская"
+                },
+                "extra": {
+                    "route_time": 3.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.889457,
+                        56.252137
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.889457,
+                    56.252137
+                ]
+            },
+            "properties": {
+                "name": "Комсомольская",
+                "description": "Комсомольская",
+                "StopMetaData": {
+                    "id": "M1.3",
+                    "name": "Комсомольская"
+                },
+                "extra": {
+                    "route_time": 4.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.903021,
+                        56.257775
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.903021,
+                    56.257775
+                ]
+            },
+            "properties": {
+                "name": "Автозаводская",
+                "description": "Автозаводская",
+                "StopMetaData": {
+                    "id": "M1.4",
+                    "name": "Автозаводская"
+                },
+                "extra": {
+                    "route_time": 6.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.913362,
+                        56.266389
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.913362,
+                    56.266389
+                ]
+            },
+            "properties": {
+                "name": "Пролетарская",
+                "description": "Пролетарская",
+                "StopMetaData": {
+                    "id": "M1.5",
+                    "name": "Пролетарская"
+                },
+                "extra": {
+                    "route_time": 8.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.921320,
+                        56.276530
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.921320,
+                    56.276530
+                ]
+            },
+            "properties": {
+                "name": "Двигатель Революции",
+                "description": "Двигатель Революции",
+                "StopMetaData": {
+                    "id": "M1.6",
+                    "name": "Двигатель Революции"
+                },
+                "extra": {
+                    "route_time": 11.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.927750,
+                        56.285212
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.927750,
+                    56.285212
+                ]
+            },
+            "properties": {
+                "name": "Заречная",
+                "description": "Заречная",
+                "StopMetaData": {
+                    "id": "M1.7",
+                    "name": "Заречная"
+                },
+                "extra": {
+                    "route_time": 13.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.938264,
+                        56.299233
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.938264,
+                    56.299233
+                ]
+            },
+            "properties": {
+                "name": "Ленинская",
+                "description": "Ленинская",
+                "StopMetaData": {
+                    "id": "M1.8",
+                    "name": "Ленинская"
+                },
+                "extra": {
+                    "route_time": 15.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.937144,
+                        56.310622
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.937144,
+                    56.310622
+                ]
+            },
+            "properties": {
+                "name": "Чкаловская",
+                "description": "Чкаловская",
+                "StopMetaData": {
+                    "id": "M1.9",
+                    "name": "Чкаловская"
+                },
+                "extra": {
+                    "route_time": 18.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.946776,
+                        56.321334
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.946776,
+                    56.321334
+                ]
+            },
+            "properties": {
+                "name": "Московская",
+                "description": "Московская",
+                "StopMetaData": {
+                    "id": "M1.10",
+                    "name": "Московская"
+                },
+                "extra": {
+                    "route_time": 20.0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        43.994652,
+                        56.314067
+                    ]
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.994652,
+                    56.314067
+                ]
+            },
+            "properties": {
+                "name": "Горьковская",
+                "description": "Горьковская",
+                "StopMetaData": {
+                    "id": "M1.11",
+                    "name": "Горьковская"
+                },
+                "extra": {
+                    "route_time": 24.0
+                }
+            }
+        }
+    ],
+    "properties": {
+        "ThreadMetaData": {
+            "id": "metro_1",
+            "lineId": "1",
+            "name": "M1",
+            "type": "metro",
+            "Types": [
+                "metro"
+            ],
+            "EssentialStops": [
+                {
+                    "id": "M1.1",
+                    "name": "Парк Культуры"
+                },
+                {
+                    "id": "M1.11",
+                    "name": "Горьковская"
+                }
+            ]
+        }
+    }
+}

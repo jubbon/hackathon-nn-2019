@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 8,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        48.8719537,
+                        55.71122438
+                    ],
+                    [
+                        49.18925663,
+                        55.91149182
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Вокзал",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал Казань-1",
+                "description": "Привокзальная площадь, 1А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09620014,
+                        55.78596381
+                    ],
+                    [
+                        49.10441075,
+                        55.79059008
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1046424043",
+                    "name": "Железнодорожный вокзал Казань-1",
+                    "address": "Россия, Республика Татарстан, Казань, Привокзальная площадь, 1А",
+                    "url": "http://www.rzd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.100306,
+                    55.788275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казань-1",
+                "description": "ул. Чернышевского, 36А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09649659,
+                        55.7869863
+                    ],
+                    [
+                        49.10470719,
+                        55.79161244
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "190696910757",
+                    "name": "Казань-1",
+                    "address": "Россия, Республика Татарстан, Казань, улица Чернышевского, 36А",
+                    "url": "http://www.rzd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        },
+                        {
+                            "class": "travel",
+                            "name": "Железнодорожные и авиабилеты"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.100605,
+                    55.789298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Багажное отделение Вокзала Казань-Пассажирская",
+                "description": "Россия, Республика Татарстан, Казань, улица Саид-Галеева",
+                "boundedBy": [
+                    [
+                        49.09591268,
+                        55.78627765
+                    ],
+                    [
+                        49.10412329,
+                        55.79090388
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1227264520",
+                    "name": "Багажное отделение Вокзала Казань-Пассажирская",
+                    "address": "Россия, Республика Татарстан, Казань, улица Саид-Галеева",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-04-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-03-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-03-40"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-05-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-12-76"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.100019,
+                    55.788592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал Казань-2",
+                "description": "ул. Воровского, 33, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.07640128,
+                        55.8401385
+                    ],
+                    [
+                        49.08461188,
+                        55.84475831
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "50918390495",
+                    "name": "Железнодорожный вокзал Казань-2",
+                    "address": "Россия, Республика Татарстан, Казань, улица Воровского, 33",
+                    "url": "http://dzvr.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.08051,
+                    55.84245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал",
+                "description": "Россия, Республика Татарстан, Казань, улица Толбухина",
+                "boundedBy": [
+                    [
+                        49.05397933,
+                        55.68331036
+                    ],
+                    [
+                        49.28055241,
+                        55.87444029
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "72031625770",
+                    "name": "Железнодорожный вокзал",
+                    "address": "Россия, Республика Татарстан, Казань, улица Толбухина",
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.16727,
+                    55.778995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал",
+                "description": "Привокзальная ул., 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        48.89140223,
+                        55.8127116
+                    ],
+                    [
+                        48.89961283,
+                        55.81733468
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "13198627226",
+                    "name": "Железнодорожный вокзал",
+                    "address": "Россия, Республика Татарстан, Казань, Привокзальная улица, 1",
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.895511,
+                    55.815022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал",
+                "description": "Россия, Республика Татарстан, Казань, жилой массив Новое Аракчино",
+                "boundedBy": [
+                    [
+                        48.93849191,
+                        55.80012432
+                    ],
+                    [
+                        48.96973532,
+                        55.81006092
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "202504941426",
+                    "name": "Железнодорожный вокзал",
+                    "address": "Россия, Республика Татарстан, Казань, жилой массив Новое Аракчино",
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.954118,
+                    55.805095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал",
+                "description": "Россия, Республика Татарстан, Казань, жилой массив Залесный",
+                "boundedBy": [
+                    [
+                        48.85972763,
+                        55.83125116
+                    ],
+                    [
+                        48.92814332,
+                        55.85663383
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "234827613719",
+                    "name": "Железнодорожный вокзал",
+                    "address": "Россия, Республика Татарстан, Казань, жилой массив Залесный",
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.893939,
+                    55.843947
+                ]
+            }
+        }
+    ]
+}

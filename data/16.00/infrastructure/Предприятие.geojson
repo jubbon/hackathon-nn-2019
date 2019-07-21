@@ -1,0 +1,818 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 20,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.04420566,
+                        55.74203236
+                    ],
+                    [
+                        49.20284814,
+                        55.84221091
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Предприятие",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Куб2б",
+                "description": "Петербургская ул., 28, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12302384,
+                        55.78199511
+                    ],
+                    [
+                        49.13123444,
+                        55.78662185
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "95781241687",
+                    "name": "Куб2б",
+                    "address": "Россия, Республика Татарстан, Казань, Петербургская улица, 28",
+                    "url": "https://www.qb2b.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 216-06-71"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "accountants",
+                            "name": "Бухгалтерские услуги"
+                        },
+                        {
+                            "name": "Регистрация и ликвидация предприятий"
+                        },
+                        {
+                            "name": "Интернет-маркетинг"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–18:00; сб 10:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.127125,
+                    55.78431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Знать",
+                "description": "ул. Пушкина, 54/1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.12133501,
+                        55.79237667
+                    ],
+                    [
+                        49.12954561,
+                        55.79700217
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1030783624",
+                    "name": "Знать",
+                    "address": "Россия, Республика Татарстан, Казань, улица Пушкина, 54/1",
+                    "url": "http://znatclub.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 700-08-64"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 238-98-98"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "legal services",
+                            "name": "Юридические услуги"
+                        },
+                        {
+                            "name": "Регистрация и ликвидация предприятий"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 9:00–18:00; пт 9:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.125441,
+                    55.79469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Дельта",
+                "description": "ул. Карима Тинчурина, 31, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10960301,
+                        55.7696308
+                    ],
+                    [
+                        49.11781361,
+                        55.77425902
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1342948685",
+                    "name": "Дельта",
+                    "address": "Россия, Республика Татарстан, Казань, улица Карима Тинчурина, 31",
+                    "url": "https://kzn.delta.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (906) 324-89-40"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 211-07-10"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 211-09-11"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 211-77-33"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (927) 249-50-54"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 202-33-29"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 211-77-44"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 211-77-40"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 207-06-12"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Охранное предприятие"
+                        },
+                        {
+                            "name": "Системы безопасности и охраны"
+                        },
+                        {
+                            "name": "Противопожарные системы"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.113705,
+                    55.771946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Налоговая консультация",
+                "description": "ул. Тельмана, 5, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.11953838,
+                        55.7959344
+                    ],
+                    [
+                        49.12774898,
+                        55.80055948
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1055706484",
+                    "name": "Налоговая консультация",
+                    "address": "Россия, Республика Татарстан, Казань, улица Тельмана, 5",
+                    "url": "http://nknalog.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 200-98-92"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "accountants",
+                            "name": "Бухгалтерские услуги"
+                        },
+                        {
+                            "name": "Регистрация и ликвидация предприятий"
+                        },
+                        {
+                            "name": "Налоговые консультанты"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 9:00–17:00, перерыв 12:30–13:00; пт 9:00–16:15, перерыв 12:30–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "16:15:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.123641,
+                    55.798249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанское протезно-ортопедическое предприятие",
+                "description": "ул. Академика Кирпичникова, 22, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.18140535,
+                        55.80920599
+                    ],
+                    [
+                        49.18961595,
+                        55.81382948
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1016698679",
+                    "name": "Казанское протезно-ортопедическое предприятие",
+                    "address": "Россия, Республика Татарстан, Казань, улица Академика Кирпичникова, 22",
+                    "url": "http://www.kazanprop.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 279-56-18"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 279-54-82"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 299-71-54"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Изготовление протезно-ортопедических изделий"
+                        },
+                        {
+                            "name": "Медицинское оборудование, медтехника"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 7:45–16:30, перерыв 12:00–12:30; пт 7:45–15:15, перерыв 12:00–12:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:45:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "12:30:00",
+                                        "to": "16:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:45:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "12:30:00",
+                                        "to": "15:15:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.185511,
+                    55.81152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Учебно-производственное предприятие Картонажно-полиграфические изделия",
+                "description": "Техническая ул., 120Б, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.13017443,
+                        55.75068178
+                    ],
+                    [
+                        49.13838503,
+                        55.75531225
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1154141006",
+                    "name": "Учебно-производственное предприятие Картонажно-полиграфические изделия",
+                    "address": "Россия, Республика Татарстан, Казань, Техническая улица, 120Б",
+                    "url": "http://fkpi.su/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-42-68"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-46-40"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-47-46"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 278-42-88"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Тара и упаковочные материалы"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:30–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:30:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.134279,
+                    55.752998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Муниципальное унитарное предприятие Пассажирское автотранспортное предприятие № 4",
+                "description": "ул. Восстания, 108А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.04566093,
+                        55.82895063
+                    ],
+                    [
+                        49.05387153,
+                        55.83357177
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1046809669",
+                    "name": "Муниципальное унитарное предприятие Пассажирское автотранспортное предприятие № 4",
+                    "address": "Россия, Республика Татарстан, Казань, улица Восстания, 108А",
+                    "url": "http://kazan-patp4.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 560-77-08"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 560-76-86"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 560-77-40"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Автобусный парк"
+                        },
+                        {
+                            "name": "Автобусные междугородные перевозки"
+                        },
+                        {
+                            "name": "Автотранспортное предприятие, автобаза"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.049763,
+                    55.831261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанское электромонтажное предприятие",
+                "description": "ул. Журналистов, 50А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.19318226,
+                        55.81848783
+                    ],
+                    [
+                        49.20139286,
+                        55.82311022
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1019549185",
+                    "name": "Казанское электромонтажное предприятие",
+                    "address": "Россия, Республика Татарстан, Казань, улица Журналистов, 50А",
+                    "url": "http://www.kepkazan.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 273-19-31"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Электротехническая продукция"
+                        },
+                        {
+                            "name": "Прокладка кабеля"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.197287,
+                    55.820797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ППК Содружество",
+                "description": "ул. Галиаскара Камала, 11, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.10552466,
+                        55.78222292
+                    ],
+                    [
+                        49.11373526,
+                        55.78684963
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1131640583",
+                    "name": "ППК Содружество",
+                    "address": "Россия, Республика Татарстан, Казань, улица Галиаскара Камала, 11",
+                    "url": "https://sodruzhestvoppk.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 237-88-68"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Железнодорожная пассажирская компания"
+                        },
+                        {
+                            "name": "Управление и обслуживание железных дорог"
+                        },
+                        {
+                            "name": "Железнодорожные грузоперевозки"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00, перерыв 12:00–13:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:00:00"
+                                    },
+                                    {
+                                        "from": "13:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.10963,
+                    55.784535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Компания Акустовъ",
+                "description": "Старо-Пугачёвская ул., 22, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.15376419,
+                        55.77913476
+                    ],
+                    [
+                        49.16197479,
+                        55.78376184
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1222465417",
+                    "name": "Компания Акустовъ",
+                    "address": "Россия, Республика Татарстан, Казань, Старо-Пугачёвская улица, 22",
+                    "url": "http://www.akustov.com/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 333-37-65"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 537-89-95"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 537-89-96"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 537-89-97"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (919) 621-36-10"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (495) 118-36-46"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "name": "Изоляционные работы"
+                        },
+                        {
+                            "class": "finishing works",
+                            "name": "Строительные и отделочные работы"
+                        },
+                        {
+                            "name": "Проектная организация"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–17:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "17:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.157869,
+                    55.781449
+                ]
+            }
+        }
+    ]
+}

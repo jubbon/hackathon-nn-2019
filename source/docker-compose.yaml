@@ -1,0 +1,53 @@
+version: '3'
+
+services:
+  fetcher-yandex-transport:
+    image: fetcher-yandex-transport
+    build: images/fetcher-yandex-transport
+    environment:
+      TZ: Europe/Moscow
+      YANDEX_MAP_REGION_UID: ${YANDEX_MAP_REGION_UID}
+      YANDEX_MAP_CITY: ${YANDEX_MAP_CITY}
+      YANDEX_MAP_BBOX: ${YANDEX_MAP_BBOX}
+      YANDEX_MAP_CSRF_TOKEN: ${YANDEX_MAP_CSRF_TOKEN}
+      YANDEX_MAP_SESSION_ID: ${YANDEX_MAP_SESSION_ID}
+    # user: $USER
+    volumes:
+      - ../data/${REGION_UID}:/data
+
+  fetcher-gis:
+    image: fetcher-gis
+    build: images/fetcher-gis
+    command: python app
+    environment:
+      TZ: Europe/Moscow
+      REGION: ${REGION_UID}
+      REGION_NAME: ${GIS_REGION_ID}
+    # user: $USER
+    volumes:
+      - ../data/${REGION_UID}/houses:/data
+
+  geocoder:
+    image: geocoder
+    build: images/geocoder
+    command: python app geocoder
+    network_mode: host
+    environment:
+      TZ: Europe/Moscow
+      GEOCODER_PROVIDER: ${GEOCODER_PROVIDER}
+      NOMINATIM_URL: ${NOMINATIM_URL}
+    # user: $USER
+    volumes:
+      - ../data/${REGION_UID}/houses:/data
+
+  simulator:
+    image: simulator
+    build: images/simulator
+    command: python app simulator
+    network_mode: host
+    environment:
+      TZ: Europe/Moscow
+      H3_RES: ${H3_RES}
+    # user: $USER
+    volumes:
+      - ../data/${REGION_UID}:/data

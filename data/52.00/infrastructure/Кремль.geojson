@@ -1,0 +1,176 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 2,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        36.45143336,
+                        53.64610331
+                    ],
+                    [
+                        45.30053959,
+                        58.36299551
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Кремль",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Кремль",
+                "description": "Моторный пер., 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86199546,
+                        56.2530122
+                    ],
+                    [
+                        43.87020606,
+                        56.25758262
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1224321515",
+                    "name": "Кремль",
+                    "address": "Россия, Нижний Новгород, микрорайон Соцгород-I, моторный переулок 1",
+                    "url": "http://an-kreml.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 411-11-62"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 411-11-64"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 411-11-63"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "real estate",
+                            "name": "Агентство недвижимости"
+                        },
+                        {
+                            "class": "legal services",
+                            "name": "Юридические услуги"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.866103,
+                    56.255297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Кремль",
+                "description": "ул. Героя Юрия Смирнова, 17, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86093545,
+                        56.23656116
+                    ],
+                    [
+                        43.86914605,
+                        56.24113355
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1024179780",
+                    "name": "Кремль",
+                    "address": "Россия, Нижний Новгород, улица Героя Юрия Смирнова, 17",
+                    "url": "http://an-kreml.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 261-76-71"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 261-76-72"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "real estate",
+                            "name": "Агентство недвижимости"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 9:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.865038,
+                    56.238849
+                ]
+            }
+        }
+    ]
+}

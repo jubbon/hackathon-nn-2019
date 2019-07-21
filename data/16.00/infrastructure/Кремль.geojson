@@ -1,0 +1,170 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 2,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.10248835,
+                        55.79306496
+                    ],
+                    [
+                        49.11236982,
+                        55.79930965
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Кремль",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казанский Кремль",
+                "description": "Россия, Республика Татарстан, Казань, территория Кремль",
+                "boundedBy": [
+                    [
+                        49.10415922,
+                        55.79413786
+                    ],
+                    [
+                        49.11236982,
+                        55.79876316
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "95813866834",
+                    "name": "Казанский Кремль",
+                    "address": "Россия, Республика Татарстан, Казань, территория Кремль",
+                    "url": "http://kazan-kremlin.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone_fax",
+                            "formatted": "+7 (843) 567-81-01"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-73"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-81-25"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-24"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-28"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-17"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-74"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-67"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 567-80-68"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "museum",
+                            "name": "Музей"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.108266,
+                    55.796452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Кремлёвская",
+                "description": "Россия, Республика Татарстан, Казань, улица Баумана",
+                "boundedBy": [
+                    [
+                        49.09711643,
+                        55.78954745
+                    ],
+                    [
+                        49.11603495,
+                        55.80230007
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "231383448407",
+                    "name": "Кремлёвская",
+                    "address": "Россия, Республика Татарстан, Казань, улица Баумана",
+                    "url": "http://www.kazanmetro.ru/",
+                    "Categories": [
+                        {
+                            "name": "Станция метро"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 6:00–0:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:00:00",
+                                        "to": "00:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.106578,
+                    55.795922
+                ]
+            }
+        }
+    ]
+}

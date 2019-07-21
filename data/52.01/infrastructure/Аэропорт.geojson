@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 1,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.30931597,
+                        54.94805972
+                    ],
+                    [
+                        43.32223374,
+                        54.95540139
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Аэропорт",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Аэропорт Миус",
+                "description": "Россия, Нижегородская область, городской округ Саров, Миус",
+                "boundedBy": [
+                    [
+                        43.31166057,
+                        54.94936788
+                    ],
+                    [
+                        43.31987117,
+                        54.95409343
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "113805476585",
+                    "name": "Аэропорт Миус",
+                    "address": "Россия, Нижегородская область, городской округ Саров, Миус",
+                    "Categories": [
+                        {
+                            "class": "airports",
+                            "name": "Аэропорт"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.315769,
+                    54.95173
+                ]
+            }
+        }
+    ]
+}

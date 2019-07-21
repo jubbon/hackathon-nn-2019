@@ -1,0 +1,673 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 87,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.82068194,
+                        56.20854955
+                    ],
+                    [
+                        44.09721932,
+                        56.35510072
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Торговый Центр",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Открытый материк Гипермаркет мебели",
+                "description": "ул. Ларина, 7, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.97258706,
+                        56.23921261
+                    ],
+                    [
+                        43.98079766,
+                        56.24378468
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1008725979",
+                    "name": "Открытый материк Гипермаркет мебели",
+                    "address": "Россия, Нижний Новгород, улица Ларина, 7",
+                    "url": "http://www.materiknn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 469-84-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "furniture store",
+                            "name": "Магазин мебели"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–20:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "20:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.976696,
+                    56.241497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LP Fashion Gallery",
+                "description": "Алексеевская ул., 10/16, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.00102772,
+                        56.32035786
+                    ],
+                    [
+                        44.00923832,
+                        56.3249202
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1193626535",
+                    "name": "LP Fashion Gallery",
+                    "address": "Россия, Нижний Новгород, Алексеевская улица, 10/16",
+                    "url": "http://lplaza.ru/galereya/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 299-99-79"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "restaurants",
+                            "name": "Ресторан"
+                        },
+                        {
+                            "class": "cinemas",
+                            "name": "Кинотеатр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.005136,
+                    56.322637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ПортУЮТ",
+                "description": "Бурнаковская ул., 77А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.90656987,
+                        56.33915778
+                    ],
+                    [
+                        43.91478047,
+                        56.34371786
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "53574058764",
+                    "name": "ПортУЮТ",
+                    "address": "Россия, Нижний Новгород, Бурнаковская улица, 77А",
+                    "url": "http://portuyut.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 469-84-04"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "furniture store",
+                            "name": "Мягкая мебель"
+                        },
+                        {
+                            "name": "Шкафы-купе"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 9:00–21:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "09:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.910674,
+                    56.341439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Фантастика",
+                "description": "ул. Родионова, 187В, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.07212937,
+                        56.30453018
+                    ],
+                    [
+                        44.08033997,
+                        56.30909442
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1703734865",
+                    "name": "Фантастика",
+                    "address": "Россия, Нижний Новгород, улица Родионова, 187В",
+                    "url": "https://www.fantastika-nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 220-22-26"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 220-22-22"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.076233,
+                    56.306813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Крым",
+                "description": "Южное ш., 2Г, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.84968854,
+                        56.21996788
+                    ],
+                    [
+                        43.85789914,
+                        56.22454226
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1736196508",
+                    "name": "Крым",
+                    "address": "Россия, Нижний Новгород, Южное шоссе, 2Г",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (952) 785-41-90"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (952) 455-15-05"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (953) 558-28-38"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 299-28-53"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 299-28-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (904) 055-65-58"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 299-28-57"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.853795,
+                    56.222255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Седьмое небо",
+                "description": "ул. Бетанкура, 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.95256361,
+                        56.33696236
+                    ],
+                    [
+                        43.96077421,
+                        56.3415227
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1022523219",
+                    "name": "Седьмое небо",
+                    "address": "Россия, Нижний Новгород, улица Бетанкура, 1",
+                    "url": "https://7nebonnov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 202-90-60"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 202-90-70"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 202-90-73"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.956672,
+                    56.339241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Небо",
+                "description": "Большая Покровская ул., 82, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.98226191,
+                        56.30657766
+                    ],
+                    [
+                        43.99047251,
+                        56.31113167
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "205582373376",
+                    "name": "Небо",
+                    "address": "Россия, Нижний Новгород, Большая Покровская улица, 82",
+                    "url": "https://nebo-nn.com/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 262-24-24"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.986363,
+                    56.308857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Мега",
+                "description": "Россия, Нижегородская область, Кстовский район, село Федяково",
+                "boundedBy": [
+                    [
+                        44.06359538,
+                        56.2204834
+                    ],
+                    [
+                        44.08172338,
+                        56.23149287
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "30867394339",
+                    "name": "Мега",
+                    "address": "Россия, Нижегородская область, Кстовский район, село Федяково",
+                    "url": "https://mega.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 707-10-44"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 296-08-80"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.072662,
+                    56.225991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Автозаводец",
+                "description": "просп. Ленина, 108, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86230089,
+                        56.23993798
+                    ],
+                    [
+                        43.87051149,
+                        56.24450996
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "191373847847",
+                    "name": "Автозаводец",
+                    "address": "Россия, Нижний Новгород, проспект Ленина, 108",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-87-13"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 280-98-46"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (951) 913-90-06"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.866406,
+                    56.242224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Жар-Птица",
+                "description": "Советская площадь, 5, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.03803831,
+                        56.29403634
+                    ],
+                    [
+                        44.04624891,
+                        56.29860184
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1446441651",
+                    "name": "Жар-Птица",
+                    "address": "Россия, Нижний Новгород, Советская площадь, 5",
+                    "url": "https://www.zharptitsann.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 202-99-99"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "malls",
+                            "name": "Торговый центр"
+                        },
+                        {
+                            "class": "entertainments",
+                            "name": "Развлекательный центр"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 10:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "10:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.04214,
+                    56.29632
+                ]
+            }
+        }
+    ]
+}

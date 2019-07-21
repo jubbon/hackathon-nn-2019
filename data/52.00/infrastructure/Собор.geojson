@@ -1,0 +1,700 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 77,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.78310541,
+                        56.21649418
+                    ],
+                    [
+                        44.05964279,
+                        56.36301484
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Собор",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.58344586,
+                        56.10833659
+                    ],
+                    [
+                        44.13707757,
+                        56.40196293
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Православный храм в честь Николая Чудотворца",
+                "description": "ул. Дьяконова, 15Б, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87489527,
+                        56.26021261
+                    ],
+                    [
+                        43.88310587,
+                        56.26478217
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1153599220",
+                    "name": "Православный храм в честь Николая Чудотворца",
+                    "address": "Россия, Нижний Новгород, улица Дьяконова, 15Б",
+                    "url": "http://www.nikolasobor-nn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 217-16-83"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 6:30–18:00; сб,вс 6:30–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:30:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:30:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.879001,
+                    56.262498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Кафедральный собор во имя святого благоверного князя Александра Невского",
+                "description": "ул. Стрелка, 3А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.96699055,
+                        56.33121374
+                    ],
+                    [
+                        43.97520115,
+                        56.33577478
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1061156993",
+                    "name": "Кафедральный собор во имя святого благоверного князя Александра Невского",
+                    "address": "Россия, Нижний Новгород, улица Стрелка, 3А",
+                    "url": "http://nevskiy-nne.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 413-92-73"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 246-02-16"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 246-03-31"
+                        },
+                        {
+                            "type": "fax",
+                            "formatted": "+7 (831) 246-24-84"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        },
+                        {
+                            "name": "Воскресная школа"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.971098,
+                    56.333492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Храм в честь Собора Архангела Михаила и прочих Небесных Сил Бесплотных",
+                "description": "Мончегорская ул., 17А/8, микрорайон Мончегорский, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.81442068,
+                        56.23046712
+                    ],
+                    [
+                        43.82263129,
+                        56.23504024
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1631742899",
+                    "name": "Храм в честь Собора Архангела Михаила и прочих Небесных Сил Бесплотных",
+                    "address": "Россия, Нижний Новгород, микрорайон Мончегорский, Мончегорская улица, 17А/8",
+                    "url": "http://nne.ru/objects/hram-v-chest-sobora-arhistratiga-mihaila-i-prochih-nebesnyh-sil-besplotnyh",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (903) 602-35-46"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (969) 762-39-27"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-сб 7:00–19:00; вс 6:15–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true,
+                                "Saturday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:15:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.818523,
+                    56.232754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Храм СВ. великомученика и целителя Пантелеимона",
+                "description": "просп. Гагарина, 119АК2, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.9390799,
+                        56.22744976
+                    ],
+                    [
+                        43.9472905,
+                        56.23202324
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1127785710",
+                    "name": "Храм СВ. великомученика и целителя Пантелеимона",
+                    "address": "Россия, Нижний Новгород, проспект Гагарина, 119Ак2",
+                    "url": "http://prioknn.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 463-11-58"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        },
+                        {
+                            "name": "Воскресная школа"
+                        },
+                        {
+                            "name": "Религиозные товары"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–18:00; сб,вс 6:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.943186,
+                    56.229736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Церковь Троицы Живоначальной при Архиерейском подворье",
+                "description": "ул. Юлиуса Фучика, 48, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.87478747,
+                        56.23053717
+                    ],
+                    [
+                        43.88299807,
+                        56.23511028
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1772598031",
+                    "name": "Церковь Троицы Живоначальной при Архиерейском подворье",
+                    "address": "Россия, Нижний Новгород, улица Юлиуса Фучика, 48",
+                    "url": "http://nnhram-32.cerkov.ru/",
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.878895,
+                    56.232826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Храм в честь преподобномученицы великой княгини Елисаветы Феодоровны",
+                "description": "ул. Героя Юрия Смирнова, 71Б, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.8399508,
+                        56.23066727
+                    ],
+                    [
+                        43.84816141,
+                        56.23524036
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "191623862091",
+                    "name": "Храм в честь преподобномученицы великой княгини Елисаветы Феодоровны",
+                    "address": "Россия, Нижний Новгород, улица Героя Юрия Смирнова, 71Б",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (920) 027-80-44"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.844055,
+                    56.232956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Собор Архангела Михаила",
+                "description": "2А, Кремль, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.99758717,
+                        56.32601329
+                    ],
+                    [
+                        44.00579777,
+                        56.33057495
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1049655571",
+                    "name": "Собор Архангела Михаила",
+                    "address": "Россия, Нижний Новгород, Кремль, 2А",
+                    "url": "http://amnne.cerkov.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 439-10-94"
+                        },
+                        {
+                            "type": "phone_fax",
+                            "formatted": "+7 (831) 419-78-97"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 8:00–18:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "18:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.001694,
+                    56.328292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Собор Преображения Господня в Сормове",
+                "description": "ул. Щербакова, 13А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.86755603,
+                        56.34752916
+                    ],
+                    [
+                        43.87576664,
+                        56.35208824
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1382282527",
+                    "name": "Собор Преображения Господня в Сормове",
+                    "address": "Россия, Нижний Новгород, улица Щербакова, 13А",
+                    "url": "http://pravsormovo.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 270-47-97"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 270-47-95"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 270-47-99"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:30–18:30; сб,вс 6:30–18:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:30:00",
+                                        "to": "18:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:30:00",
+                                        "to": "18:30:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.871661,
+                    56.34981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Собор Всемилостивого Спаса и Происхождения честных древ Животворящего Креста Господня",
+                "description": "Ярмарочный пр., 10, корп. 1, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        43.94962612,
+                        56.32896795
+                    ],
+                    [
+                        43.95783672,
+                        56.33352926
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1008648857",
+                    "name": "Собор Всемилостивого Спаса и Происхождения честных древ Животворящего Креста Господня",
+                    "address": "Россия, Нижний Новгород, Ярмарочный проезд, 10, корп. 1",
+                    "url": "http://nne.ru/objects/spasskij-staroyarmarochnyj-sobor/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 246-07-15"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 7:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.953729,
+                    56.331247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Храм во имя Всемилостивейшего Спаса",
+                "description": "ул. Максима Горького, 177А, Нижний Новгород, Россия",
+                "boundedBy": [
+                    [
+                        44.0201259,
+                        56.31694822
+                    ],
+                    [
+                        44.0283365,
+                        56.32151098
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1119856661",
+                    "name": "Храм во имя Всемилостивейшего Спаса",
+                    "address": "Россия, Нижний Новгород, улица Максима Горького, 177А",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (831) 262-23-53"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "orthodox church",
+                            "name": "Православный храм"
+                        },
+                        {
+                            "name": "Воскресная школа"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 7:00–18:30; сб,вс 6:00–19:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "07:00:00",
+                                        "to": "18:30:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:00:00",
+                                        "to": "19:00:00"
+                                    }
+                                ],
+                                "Saturday": true,
+                                "Sunday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.024231,
+                    56.31923
+                ]
+            }
+        }
+    ]
+}

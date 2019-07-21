@@ -1,0 +1,231 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 3,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        43.28244736,
+                        54.91104653
+                    ],
+                    [
+                        43.38602311,
+                        54.96994115
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "ВУЗ",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        43.23661531,
+                        54.87038834
+                    ],
+                    [
+                        43.44400038,
+                        54.98835507
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "НИЯУ МИФИ, Саровский физико-технический институт",
+                "description": "ул. Духова, 6, корп. 1, Старый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.34454789,
+                        54.92323802
+                    ],
+                    [
+                        43.35275849,
+                        54.92796666
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1095495892",
+                    "name": "НИЯУ МИФИ, Саровский физико-технический институт",
+                    "address": "Россия, Нижегородская область, Саров, Старый район, улица Духова, 6, корп. 1",
+                    "url": "http://sarfti.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-15-51"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-02-22"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 3-48-09"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (495) 788-56-99"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-чт 8:00–17:12, перерыв 12:30–13:30; пт 8:00–16:12, перерыв 12:30–13:30",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:30:00",
+                                        "to": "17:12:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "12:30:00"
+                                    },
+                                    {
+                                        "from": "13:30:00",
+                                        "to": "16:12:00"
+                                    }
+                                ],
+                                "Friday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.348655,
+                    54.925601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Саровский физико-технический институт",
+                "description": "ул. Духова, 6, корп. 2, Старый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.34489823,
+                        54.9236364
+                    ],
+                    [
+                        43.35310884,
+                        54.92836499
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "28706238780",
+                    "name": "Саровский физико-технический институт",
+                    "address": "Россия, Нижегородская область, Саров, Старый район, улица Духова, 6, корп. 2",
+                    "url": "http://www.sarfti.ru/",
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.349,
+                    54.926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "СарФТИ НИЯУ МИФИ",
+                "description": "ул. Александровича, 33, Старый район, Саров, Россия",
+                "boundedBy": [
+                    [
+                        43.31535265,
+                        54.95303359
+                    ],
+                    [
+                        43.32356325,
+                        54.95775871
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "106369792012",
+                    "name": "СарФТИ НИЯУ МИФИ",
+                    "address": "Россия, Нижегородская область, Саров, Старый район, улица Александровича, 33",
+                    "url": "http://sarfti.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (83130) 7-97-64"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "university",
+                            "name": "ВУЗ"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "пн-пт 8:00–21:00; сб 8:00–16:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "21:00:00"
+                                    }
+                                ],
+                                "Monday": true,
+                                "Tuesday": true,
+                                "Wednesday": true,
+                                "Thursday": true,
+                                "Friday": true
+                            },
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "08:00:00",
+                                        "to": "16:00:00"
+                                    }
+                                ],
+                                "Saturday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.319458,
+                    54.955396
+                ]
+            }
+        }
+    ]
+}

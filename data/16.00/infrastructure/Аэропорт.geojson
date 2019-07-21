@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 1,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        49.29365883,
+                        55.60495608
+                    ],
+                    [
+                        49.3035403,
+                        55.61123103
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Аэропорт",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Международный аэропорт Казань имени Г.М. Тукая",
+                "description": "Россия, Республика Татарстан, Лаишевский район,  Международный аэропорт Казань,улица Аэропортная 1, ",
+                "boundedBy": [
+                    [
+                        49.29449426,
+                        55.60576975
+                    ],
+                    [
+                        49.30270486,
+                        55.61041748
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1040136978",
+                    "name": "Международный аэропорт Казань имени Г.М. Тукая",
+                    "address": "Россия, Республика Татарстан, Лаишевский район,  Международный аэропорт Казань,улица Аэропортная 1, ",
+                    "url": "http://kazan.aero/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 267-88-07"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 267-87-22"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "airports",
+                            "name": "Аэропорт"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.298596,
+                    55.608092
+                ]
+            }
+        }
+    ]
+}

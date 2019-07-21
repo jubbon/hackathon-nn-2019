@@ -1,0 +1,555 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "ResponseMetaData": {
+            "SearchResponse": {
+                "found": 20,
+                "display": "multiple",
+                "boundedBy": [
+                    [
+                        48.88680285,
+                        55.70687269
+                    ],
+                    [
+                        49.20410578,
+                        55.90716256
+                    ]
+                ]
+            },
+            "SearchRequest": {
+                "request": "Станция",
+                "skip": 0,
+                "results": 10,
+                "boundedBy": [
+                    [
+                        48.79312653,
+                        55.58647625
+                    ],
+                    [
+                        49.4284151,
+                        55.98768389
+                    ]
+                ]
+            }
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Станция Казань-Пассажирская",
+                "description": "Привокзальная площадь, 1А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09575997,
+                        55.78582714
+                    ],
+                    [
+                        49.10397057,
+                        55.79045343
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "214544205365",
+                    "name": "Станция Казань-Пассажирская",
+                    "address": "Россия, Республика Татарстан, Казань, Привокзальная площадь, 1А",
+                    "url": "http://zhdkazan.ru/shema-proezda/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway station",
+                            "name": "Железнодорожная станция"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.099862,
+                    55.788141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожный вокзал Казань-1",
+                "description": "Привокзальная площадь, 1А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09620014,
+                        55.78596381
+                    ],
+                    [
+                        49.10441075,
+                        55.79059008
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1046424043",
+                    "name": "Железнодорожный вокзал Казань-1",
+                    "address": "Россия, Республика Татарстан, Казань, Привокзальная площадь, 1А",
+                    "url": "http://www.rzd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.100306,
+                    55.788275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Станция Вахитово",
+                "description": "Россия, Республика Татарстан, Казань, Вахитовский район",
+                "boundedBy": [
+                    [
+                        49.04389125,
+                        55.74238709
+                    ],
+                    [
+                        49.17085913,
+                        55.79327246
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "218825713738",
+                    "name": "Станция Вахитово",
+                    "address": "Россия, Республика Татарстан, Казань, Вахитовский район",
+                    "Categories": [
+                        {
+                            "class": "railway station",
+                            "name": "Железнодорожная станция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.107374,
+                    55.767836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Остановочный пункт Метро Аметьево",
+                "description": "Россия, Приволжский федеральный округ, Республика Татарстан, городской округ Казань, Казань, Аметьево",
+                "boundedBy": [
+                    [
+                        49.0500986,
+                        55.66901584
+                    ],
+                    [
+                        49.27667169,
+                        55.86015536
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "104544892688",
+                    "name": "Остановочный пункт Метро Аметьево",
+                    "address": "Россия, Приволжский федеральный округ, Республика Татарстан, городской округ Казань, Казань, Аметьево",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-11-32"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-11-39"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway station",
+                            "name": "Железнодорожная станция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 4:00–23:15",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "04:00:00",
+                                        "to": "23:15:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.163382,
+                    55.764703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожная станция Восстание",
+                "description": "ул. Васильченко, 7, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.05282948,
+                        55.83522493
+                    ],
+                    [
+                        49.06104008,
+                        55.83984533
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1203059379",
+                    "name": "Железнодорожная станция Восстание",
+                    "address": "Казань, ул. Васильченко, 7",
+                    "url": "http://rzd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-31-01"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway station",
+                            "name": "Железнодорожная станция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.056936,
+                    55.837535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Казань-1",
+                "description": "ул. Чернышевского, 36А, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.09649659,
+                        55.7869863
+                    ],
+                    [
+                        49.10470719,
+                        55.79161244
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "190696910757",
+                    "name": "Казань-1",
+                    "address": "Россия, Республика Татарстан, Казань, улица Чернышевского, 36А",
+                    "url": "http://www.rzd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway terminal",
+                            "name": "Железнодорожный вокзал"
+                        },
+                        {
+                            "class": "travel",
+                            "name": "Железнодорожные и авиабилеты"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.100605,
+                    55.789298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "станция Восстание-Пассажирская",
+                "description": "Россия, Республика Татарстан, Казань, Московский район",
+                "boundedBy": [
+                    [
+                        48.99092658,
+                        55.79229569
+                    ],
+                    [
+                        49.16942182,
+                        55.89348538
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "176034362654",
+                    "name": "станция Восстание-Пассажирская",
+                    "address": "Россия, Республика Татарстан, Казань, Московский район",
+                    "Categories": [
+                        {
+                            "class": "railway station",
+                            "name": "Железнодорожная станция"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.080178,
+                    55.842922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожная станция Юдино",
+                "description": "Привокзальная ул., 1, Казань, Россия",
+                "boundedBy": [
+                    [
+                        48.89133036,
+                        55.81294428
+                    ],
+                    [
+                        48.89954096,
+                        55.81756733
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "173159923192",
+                    "name": "Железнодорожная станция Юдино",
+                    "address": "Россия, Республика Татарстан, Казань, Привокзальная улица, 1",
+                    "url": "http://rzd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway station",
+                            "name": "Железнодорожная станция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 5:00–22:00",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "05:00:00",
+                                        "to": "22:00:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.895436,
+                    55.815255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Железнодорожная станция Дербышки",
+                "description": "Поперечно-Ноксинская ул., 3, Казань, Россия",
+                "boundedBy": [
+                    [
+                        49.19135868,
+                        55.84722468
+                    ],
+                    [
+                        49.19956928,
+                        55.85184364
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "1090649154",
+                    "name": "Железнодорожная станция Дербышки",
+                    "address": "Россия, Республика Татарстан, Казань, Поперечно-Ноксинская улица, 3",
+                    "url": "http://rzd.ru/",
+                    "Phones": [
+                        {
+                            "type": "phone",
+                            "formatted": "8 (800) 775-00-00"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-18-03"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-13-81"
+                        },
+                        {
+                            "type": "phone",
+                            "formatted": "+7 (843) 294-18-10"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "class": "railway station",
+                            "name": "Железнодорожная станция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, круглосуточно",
+                        "Availabilities": [
+                            {
+                                "TwentyFourHours": true,
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.195464,
+                    55.849534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Остановочный пункт Адмиралтейская Слобода",
+                "description": "Россия, Республика Татарстан, Казань, микрорайон Адмиралтейская Слобода",
+                "boundedBy": [
+                    [
+                        49.0526588,
+                        55.7931763
+                    ],
+                    [
+                        49.08050658,
+                        55.81004575
+                    ]
+                ],
+                "CompanyMetaData": {
+                    "id": "196255390630",
+                    "name": "Остановочный пункт Адмиралтейская Слобода",
+                    "address": "Россия, Республика Татарстан, Казань, микрорайон Адмиралтейская Слобода",
+                    "Categories": [
+                        {
+                            "class": "railway station",
+                            "name": "Железнодорожная станция"
+                        }
+                    ],
+                    "Hours": {
+                        "text": "ежедневно, 6:55–18:45",
+                        "Availabilities": [
+                            {
+                                "Intervals": [
+                                    {
+                                        "from": "06:55:00",
+                                        "to": "18:45:00"
+                                    }
+                                ],
+                                "Everyday": true
+                            }
+                        ]
+                    }
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.066586,
+                    55.80161
+                ]
+            }
+        }
+    ]
+}
